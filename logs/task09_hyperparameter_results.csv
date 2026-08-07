@@ -1,0 +1,3 @@
+Model,Accuracy
+Default Logistic Regression,0.9565
+Tuned Logistic Regression,0.9565217391304348
