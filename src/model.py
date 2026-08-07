@@ -1,25 +1,24 @@
-"""
-Model Module
-------------
-Responsible for creating and training models.
-"""
-
 from sklearn.dummy import DummyClassifier
+from sklearn.linear_model import LogisticRegression
+
+
+def build_baseline():
+    """
+    Build the baseline Dummy Classifier.
+    """
+    return DummyClassifier(strategy="most_frequent")
 
 
 def build_model():
     """
-    Create the baseline model.
+    Build the first real ML model.
     """
-
-    return DummyClassifier(strategy="most_frequent")
+    return LogisticRegression(random_state=42, max_iter=200)
 
 
 def train_model(model, X_train, y_train):
     """
-    Train the model.
+    Train any given model.
     """
-
     model.fit(X_train, y_train)
-
     return model
