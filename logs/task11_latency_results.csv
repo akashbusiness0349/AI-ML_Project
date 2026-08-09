@@ -1,0 +1,5 @@
+Model,Average Prediction Time (ms)
+Logistic Regression,0.12241098999993483
+Random Forest,66.69219862000091
+Gradient Boosting,0.5448531199999707
+RBF SVM,0.18113782000000356

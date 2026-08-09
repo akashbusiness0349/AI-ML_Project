@@ -1,0 +1,5 @@
+Model,Test Accuracy,Best Single Model,Best Single Accuracy,Selected Ensemble,Ensemble Lift
+RBF SVM,1.0,RBF SVM,1.0,Logistic Regression,-0.04347826086956519
+Logistic Regression,0.9565217391304348,RBF SVM,1.0,Logistic Regression,-0.04347826086956519
+Random Forest,0.9565217391304348,RBF SVM,1.0,Logistic Regression,-0.04347826086956519
+Gradient Boosting,0.9565217391304348,RBF SVM,1.0,Logistic Regression,-0.04347826086956519
