@@ -1,0 +1,18 @@
+{
+    "task": "Task 14 \u2014 Data Cluster Parameter Prep",
+    "random_state": 42,
+    "selected_features": [
+        "sepal length (cm)",
+        "sepal width (cm)",
+        "petal length (cm)",
+        "petal width (cm)"
+    ],
+    "excluded_features": [
+        "target"
+    ],
+    "scaling": "StandardScaler",
+    "pca_used_for_clustering": false,
+    "selected_k": 2,
+    "selection_method": "Silhouette score",
+    "best_silhouette_score": 0.5817500491982808
+}
