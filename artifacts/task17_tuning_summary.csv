@@ -1,0 +1,2 @@
+Baseline_CV_Accuracy,Tuned_CV_Accuracy,CV_Accuracy_Gain,Baseline_Test_Accuracy,Tuned_Test_Accuracy,Test_Accuracy_Gain,Best_Trial,Best_C,Best_Gamma,Best_Kernel,Total_Trials,Completed_Trials,Pruned_Trials,Failed_Trials,Outcome
+0.9666666666666668,0.975,0.008333333333333193,0.9666666666666667,0.9333333333333333,-0.033333333333333326,7,17.12337597316399,0.0033347927286375843,rbf,30,20,10,0,CV_GAIN_WITHOUT_TEST_GAIN
