@@ -1,0 +1,2 @@
+Selected_Model,Mean_CV_Accuracy,CV_Std,CV_Variance,Selected_Model_Test_Accuracy,Best_Test_Model,Best_Test_Accuracy,CV_Strategy,Number_of_Folds,Random_State
+KNN,0.9733333333333334,0.02494438257849294,0.000622222222222222,0.9333333333333333,SVM,0.9666666666666667,StratifiedKFold,5,42
