@@ -1,0 +1,10 @@
+{
+    "model_artifact_exists": true,
+    "metadata_exists": true,
+    "predictions_artifact_exists": true,
+    "fastapi_stub_exists": true,
+    "loaded_predictions_match": true,
+    "original_test_accuracy": 0.9667,
+    "fresh_loaded_test_accuracy": 0.9667,
+    "model_version": "v1"
+}

@@ -1,0 +1,51 @@
+{
+    "task": "Task 19 \u2014 Application Model Serialization",
+    "model_name": "Iris SVM Classification Pipeline",
+    "model_version": "v1",
+    "dataset": {
+        "name": "Iris Dataset",
+        "source": "sklearn.datasets.load_iris",
+        "total_samples": 150,
+        "training_samples": 120,
+        "test_samples": 30,
+        "number_of_features": 4,
+        "number_of_classes": 3
+    },
+    "features": [
+        "sepal length (cm)",
+        "sepal width (cm)",
+        "petal length (cm)",
+        "petal width (cm)"
+    ],
+    "classes": {
+        "0": "setosa",
+        "1": "versicolor",
+        "2": "virginica"
+    },
+    "preprocessing": {
+        "method": "StandardScaler"
+    },
+    "model": {
+        "type": "SVC",
+        "C": 1.0,
+        "kernel": "rbf",
+        "gamma": "scale",
+        "probability": true,
+        "random_state": 42
+    },
+    "metrics": {
+        "training_accuracy": 0.975,
+        "test_accuracy": 0.9667
+    },
+    "serialization": {
+        "format": "joblib",
+        "artifact": "task19_iris_pipeline_v1.joblib"
+    },
+    "environment": {
+        "python": "3.13.12",
+        "numpy": "2.5.1",
+        "pandas": "2.3.3",
+        "scikit_learn": "1.9.0",
+        "joblib": "1.5.3"
+    }
+}
