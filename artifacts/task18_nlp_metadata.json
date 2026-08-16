@@ -1,0 +1,21 @@
+{
+    "task": "Task 18 \u2014 Natural Language Processing",
+    "random_state": 42,
+    "cv_strategy": "StratifiedKFold",
+    "cv_folds": 5,
+    "vectorizer": "TF-IDF",
+    "ngram_range": [
+        1,
+        2
+    ],
+    "max_features": 50000,
+    "selected_model": "LinearSVC",
+    "C": 1.0,
+    "mean_cv_accuracy": 0.7452721733901736,
+    "cv_std": 0.008629327683647714,
+    "cv_variance": 7.446529627176881e-05,
+    "test_accuracy": 0.6796335634625598,
+    "number_of_classes": 20,
+    "training_samples": 11314,
+    "test_samples": 7532
+}
