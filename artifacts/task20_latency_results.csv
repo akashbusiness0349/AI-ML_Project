@@ -1,0 +1,2 @@
+test,latency_ms,model_version,status
+valid_prediction,25.6383,v1,PASS

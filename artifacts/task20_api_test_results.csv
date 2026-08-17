@@ -1,0 +1,5 @@
+test,endpoint,status,http_status,details
+health_check,/health,PASS,200,API healthy and serialized model loaded
+valid_prediction,/predict,PASS,200,Predicted setosa (class 0)
+missing_fields,/predict,PASS,400,Missing petal length and petal width correctly rejected
+invalid_numeric_input,/predict,PASS,400,Non-numeric sepal length correctly rejected
