@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://placemux.local/schemas/matching-api-v1.json",
+  "title": "PlaceMux Matching API v1",
+  "description": "Schema for the student-job matching API request and response.",
+  "type": "object",
+  "required": [
+    "student_id",
+    "job_id",
+    "match_score",
+    "signals",
+    "model_version"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "student_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Unique student identifier."
+    },
+    "job_id": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Unique job identifier."
+    },
+    "match_score": {
+      "type": "number",
+      "minimum": 0.0,
+      "maximum": 1.0,
+      "description": "Overall student-job compatibility score."
+    },
+    "signals": {
+      "type": "object",
+      "required": [
+        "skill_match",
+        "education_match",
+        "experience_match",
+        "location_match",
+        "role_match",
+        "work_mode_match",
+        "verified_score_match"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "skill_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "education_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "experience_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "location_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "role_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "work_mode_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        },
+        "verified_score_match": {
+          "type": "number",
+          "minimum": 0.0,
+          "maximum": 1.0
+        }
+      }
+    },
+    "model_version": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Version of the matching logic or model."
+    }
+  }
+}
