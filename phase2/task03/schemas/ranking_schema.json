@@ -1,0 +1,66 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Search Ranking Response",
+  "type": "object",
+  "required": [
+    "results",
+    "model_version"
+  ],
+  "properties": {
+    "student_id": {
+      "type": "string"
+    },
+    "job_id": {
+      "type": "string"
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "rank",
+          "match_score",
+          "match_score_percentage",
+          "model_version"
+        ],
+        "properties": {
+          "rank": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "job_id": {
+            "type": "string"
+          },
+          "student_id": {
+            "type": "string"
+          },
+          "job_role": {
+            "type": "string"
+          },
+          "candidate_name": {
+            "type": "string"
+          },
+          "company": {
+            "type": "string"
+          },
+          "match_score": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "match_score_percentage": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 100
+          },
+          "model_version": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "model_version": {
+      "type": "string"
+    }
+  }
+}
