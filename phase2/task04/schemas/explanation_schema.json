@@ -1,0 +1,79 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Match Explanation Response",
+  "type": "object",
+  "required": [
+    "student_id",
+    "job_id",
+    "match_score",
+    "match_score_percentage",
+    "explanation",
+    "model_version"
+  ],
+  "properties": {
+    "student_id": {
+      "type": "string"
+    },
+    "job_id": {
+      "type": "string"
+    },
+    "match_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "match_score_percentage": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 100
+    },
+    "explanation": {
+      "type": "object",
+      "required": [
+        "summary",
+        "positive_factors",
+        "negative_factors",
+        "skill_evidence",
+        "experience_evidence",
+        "role_evidence",
+        "work_mode_evidence",
+        "verified_score_evidence"
+      ],
+      "properties": {
+        "summary": {
+          "type": "string"
+        },
+        "positive_factors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "negative_factors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "skill_evidence": {
+          "type": "object"
+        },
+        "experience_evidence": {
+          "type": "object"
+        },
+        "role_evidence": {
+          "type": "object"
+        },
+        "work_mode_evidence": {
+          "type": "object"
+        },
+        "verified_score_evidence": {
+          "type": "object"
+        }
+      }
+    },
+    "model_version": {
+      "type": "string"
+    }
+  }
+}
