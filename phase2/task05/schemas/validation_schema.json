@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Marketplace Validation Result",
+  "type": "object",
+  "required": [
+    "all_checks_passed"
+  ],
+  "properties": {
+    "ranked_jobs_returned": {
+      "type": "boolean"
+    },
+    "ranked_candidates_returned": {
+      "type": "boolean"
+    },
+    "job_ranking_order": {
+      "type": "boolean"
+    },
+    "candidate_ranking_order": {
+      "type": "boolean"
+    },
+    "job_rank_sequence": {
+      "type": "boolean"
+    },
+    "candidate_rank_sequence": {
+      "type": "boolean"
+    },
+    "job_score_range": {
+      "type": "boolean"
+    },
+    "candidate_score_range": {
+      "type": "boolean"
+    },
+    "job_explanations": {
+      "type": "boolean"
+    },
+    "candidate_explanations": {
+      "type": "boolean"
+    },
+    "job_model_version": {
+      "type": "boolean"
+    },
+    "candidate_model_version": {
+      "type": "boolean"
+    },
+    "job_relevance": {
+      "type": "boolean"
+    },
+    "candidate_relevance": {
+      "type": "boolean"
+    },
+    "job_ranking_consistency": {
+      "type": "boolean"
+    },
+    "candidate_ranking_consistency": {
+      "type": "boolean"
+    },
+    "all_checks_passed": {
+      "type": "boolean"
+    }
+  }
+}
