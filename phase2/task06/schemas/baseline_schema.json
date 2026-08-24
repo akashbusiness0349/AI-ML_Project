@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Match Quality Baseline",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "metrics",
+    "baseline_status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "metrics": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "top_1_relevance",
+        "top_3_relevance",
+        "ranking_consistency",
+        "high_quality_match_rate",
+        "low_quality_match_rate",
+        "overall_baseline_quality"
+      ],
+      "properties": {
+        "average_match_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "top_1_relevance": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "top_3_relevance": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "ranking_consistency": {
+          "type": "boolean"
+        },
+        "high_quality_match_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "low_quality_match_rate": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "overall_baseline_quality": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "baseline_status": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    }
+  }
+}
