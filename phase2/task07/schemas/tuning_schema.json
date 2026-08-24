@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Conversion Ranking Tuning Result",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "baseline",
+    "tuned",
+    "evaluation",
+    "final_status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "baseline": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "conversion_proxy"
+      ],
+      "properties": {
+        "average_match_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "conversion_proxy": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "tuned": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "conversion_proxy"
+      ],
+      "properties": {
+        "average_match_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "conversion_proxy": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "evaluation": {
+      "type": "object",
+      "required": [
+        "ranking_order",
+        "rank_sequence",
+        "match_quality_protected",
+        "match_quality_change",
+        "conversion_proxy_change",
+        "overall_pass"
+      ],
+      "properties": {
+        "ranking_order": {
+          "type": "boolean"
+        },
+        "rank_sequence": {
+          "type": "boolean"
+        },
+        "match_quality_protected": {
+          "type": "boolean"
+        },
+        "match_quality_change": {
+          "type": "number"
+        },
+        "conversion_proxy_change": {
+          "type": "number"
+        },
+        "overall_pass": {
+          "type": "boolean"
+        }
+      }
+    },
+    "final_status": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    }
+  }
+}
