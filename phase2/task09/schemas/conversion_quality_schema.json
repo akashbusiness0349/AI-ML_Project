@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Conversion Quality Evaluation",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "baseline_metrics",
+    "post_paywall_metrics",
+    "baseline_conversion_quality",
+    "post_paywall_conversion_quality",
+    "conversion_quality_change",
+    "regression_check",
+    "ranking_consistency",
+    "no_relevance_regression",
+    "overall_pass"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "baseline_metrics": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "top_1_relevance",
+        "top_3_relevance",
+        "ranking_consistency",
+        "high_quality_match_rate",
+        "low_quality_match_rate"
+      ]
+    },
+    "post_paywall_metrics": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "top_1_relevance",
+        "top_3_relevance",
+        "ranking_consistency",
+        "high_quality_match_rate",
+        "low_quality_match_rate"
+      ]
+    },
+    "baseline_conversion_quality": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "post_paywall_conversion_quality": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "conversion_quality_change": {
+      "type": "number"
+    },
+    "regression_check": {
+      "type": "object",
+      "required": [
+        "regression_detected",
+        "average_score_regression",
+        "top_1_regression",
+        "top_3_regression",
+        "allowed_relevance_drop",
+        "changes"
+      ]
+    },
+    "ranking_consistency": {
+      "type": "boolean"
+    },
+    "no_relevance_regression": {
+      "type": "boolean"
+    },
+    "overall_pass": {
+      "type": "boolean"
+    }
+  }
+}
