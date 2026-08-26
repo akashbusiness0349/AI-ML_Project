@@ -1,0 +1,142 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Spend Quality Guardrail Result",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "high_fit_result",
+    "low_fit_result",
+    "evaluation",
+    "final_status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "high_fit_result": {
+      "type": "object",
+      "required": [
+        "spend_quality_score",
+        "low_fit",
+        "action",
+        "model_version"
+      ],
+      "properties": {
+        "spend_quality_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "low_fit": {
+          "type": "boolean"
+        },
+        "warning": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "threshold": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "action": {
+          "type": "string",
+          "enum": [
+            "ALLOW",
+            "WARN"
+          ]
+        },
+        "model_version": {
+          "type": "string"
+        }
+      }
+    },
+    "low_fit_result": {
+      "type": "object",
+      "required": [
+        "spend_quality_score",
+        "low_fit",
+        "warning",
+        "reasons",
+        "action",
+        "model_version"
+      ],
+      "properties": {
+        "spend_quality_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "low_fit": {
+          "type": "boolean"
+        },
+        "warning": {
+          "type": "string"
+        },
+        "reasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "threshold": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "action": {
+          "type": "string",
+          "enum": [
+            "ALLOW",
+            "WARN"
+          ]
+        },
+        "model_version": {
+          "type": "string"
+        }
+      }
+    },
+    "evaluation": {
+      "type": "object",
+      "required": [
+        "high_fit_allowed",
+        "low_fit_warning",
+        "warning_reasons_available",
+        "overall_pass"
+      ],
+      "properties": {
+        "high_fit_allowed": {
+          "type": "boolean"
+        },
+        "low_fit_warning": {
+          "type": "boolean"
+        },
+        "warning_reasons_available": {
+          "type": "boolean"
+        },
+        "overall_pass": {
+          "type": "boolean"
+        }
+      }
+    },
+    "final_status": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    }
+  }
+}
