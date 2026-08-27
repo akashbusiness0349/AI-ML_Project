@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Monetization Matching Quality Sign-off",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "baseline_metrics",
+    "post_monetization_metrics",
+    "comparison",
+    "quality_checks",
+    "sign_off",
+    "final_status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "baseline_metrics": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "top_1_relevance",
+        "top_3_relevance",
+        "ranking_consistency",
+        "high_quality_match_rate",
+        "low_quality_match_rate"
+      ]
+    },
+    "post_monetization_metrics": {
+      "type": "object",
+      "required": [
+        "average_match_score",
+        "top_1_relevance",
+        "top_3_relevance",
+        "ranking_consistency",
+        "high_quality_match_rate",
+        "low_quality_match_rate"
+      ]
+    },
+    "comparison": {
+      "type": "object",
+      "required": [
+        "average_match_score_change",
+        "top_1_relevance_change",
+        "top_3_relevance_change",
+        "high_quality_match_rate_change",
+        "low_quality_match_rate_change"
+      ]
+    },
+    "quality_checks": {
+      "type": "object",
+      "required": [
+        "ranking_consistency",
+        "relevance_protected",
+        "no_ranking_bias",
+        "no_quality_regression",
+        "overall_quality_check"
+      ]
+    },
+    "sign_off": {
+      "type": "object",
+      "required": [
+        "matching_quality_status",
+        "monetization_regression",
+        "decision",
+        "reason"
+      ]
+    },
+    "final_status": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    }
+  }
+}
