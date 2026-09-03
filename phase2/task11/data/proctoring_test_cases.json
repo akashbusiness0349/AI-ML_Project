@@ -1,0 +1,68 @@
+[
+  {
+    "case_id": "normal_001",
+    "category": "normal",
+    "description": "Brief face visibility change",
+    "events": [
+      {
+        "signal": "face_missing",
+        "duration": 1
+      }
+    ]
+  },
+  {
+    "case_id": "normal_002",
+    "category": "normal",
+    "description": "Single short tab switch",
+    "events": [
+      {
+        "signal": "tab_switch",
+        "duration": 1
+      }
+    ]
+  },
+  {
+    "case_id": "normal_003",
+    "category": "normal",
+    "description": "Short camera obstruction",
+    "events": [
+      {
+        "signal": "camera_obstruction",
+        "duration": 1
+      }
+    ]
+  },
+  {
+    "case_id": "suspicious_001",
+    "category": "suspicious",
+    "description": "Persistent face visibility issue",
+    "events": [
+      {
+        "signal": "face_missing",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "case_id": "suspicious_002",
+    "category": "suspicious",
+    "description": "Multiple faces detected persistently",
+    "events": [
+      {
+        "signal": "multiple_faces",
+        "duration": 3
+      }
+    ]
+  },
+  {
+    "case_id": "suspicious_003",
+    "category": "suspicious",
+    "description": "Repeated tab switching",
+    "events": [
+      {
+        "signal": "tab_switch",
+        "duration": 4
+      }
+    ]
+  }
+]

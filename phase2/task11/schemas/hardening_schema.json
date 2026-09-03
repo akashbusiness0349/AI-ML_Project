@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Proctoring Hardening Evaluation",
+  "type": "object",
+  "required": [
+    "baseline_fpr",
+    "hardened_fpr",
+    "false_positive_reduction",
+    "baseline_detection",
+    "hardened_detection",
+    "detection_preserved"
+  ],
+  "properties": {
+    "baseline_fpr": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "hardened_fpr": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "false_positive_reduction": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "baseline_detection": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "hardened_detection": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "detection_preserved": {
+      "type": "boolean"
+    }
+  }
+}
