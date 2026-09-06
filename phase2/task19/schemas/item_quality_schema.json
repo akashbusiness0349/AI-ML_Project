@@ -1,0 +1,92 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Item Bank Quality Report",
+  "description": "Schema for explainable item-bank quality analysis and admin weak-item flags.",
+  "type": "object",
+  "required": [
+    "model_version",
+    "total_items",
+    "weak_item_count",
+    "weak_item_rate",
+    "keep_item_count",
+    "items"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "total_items": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "weak_item_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "weak_item_rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "keep_item_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "item_id",
+          "college_id",
+          "question",
+          "attempts",
+          "accuracy",
+          "discrimination",
+          "weak_item",
+          "status",
+          "reasons"
+        ],
+        "properties": {
+          "item_id": {
+            "type": "string"
+          },
+          "college_id": {
+            "type": "string"
+          },
+          "question": {
+            "type": "string"
+          },
+          "attempts": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "accuracy": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "discrimination": {
+            "type": "number"
+          },
+          "weak_item": {
+            "type": "boolean"
+          },
+          "status": {
+            "type": "string",
+            "enum": [
+              "REVIEW",
+              "KEEP"
+            ]
+          },
+          "reasons": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

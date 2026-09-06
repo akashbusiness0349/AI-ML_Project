@@ -1,0 +1,107 @@
+{
+  "model_version": "v1-item-quality",
+  "total_items": 8,
+  "weak_item_count": 4,
+  "weak_item_rate": 0.5,
+  "keep_item_count": 4,
+  "items": [
+    {
+      "item_id": "item_001",
+      "college_id": "college_a",
+      "question": "Which Python data structure stores key-value pairs?",
+      "attempts": 80,
+      "accuracy": 0.8,
+      "discrimination": 0.2,
+      "weak_item": false,
+      "status": "KEEP",
+      "reasons": []
+    },
+    {
+      "item_id": "item_002",
+      "college_id": "college_a",
+      "question": "What does SQL SELECT do?",
+      "attempts": 75,
+      "accuracy": 0.6,
+      "discrimination": 0.3841,
+      "weak_item": false,
+      "status": "KEEP",
+      "reasons": []
+    },
+    {
+      "item_id": "item_003",
+      "college_id": "college_a",
+      "question": "Which algorithm is commonly used for classification?",
+      "attempts": 70,
+      "accuracy": 0.2571,
+      "discrimination": 0.1714,
+      "weak_item": true,
+      "status": "REVIEW",
+      "reasons": [
+        "Very low overall accuracy"
+      ]
+    },
+    {
+      "item_id": "item_004",
+      "college_id": "college_a",
+      "question": "Which metric is commonly used for imbalanced classification?",
+      "attempts": 60,
+      "accuracy": 0.9333,
+      "discrimination": 0.0667,
+      "weak_item": true,
+      "status": "REVIEW",
+      "reasons": [
+        "Very high overall accuracy",
+        "Low discrimination between stronger and weaker performers"
+      ]
+    },
+    {
+      "item_id": "item_005",
+      "college_id": "college_b",
+      "question": "What is the purpose of train-test splitting?",
+      "attempts": 55,
+      "accuracy": 0.5818,
+      "discrimination": 0.5608,
+      "weak_item": false,
+      "status": "KEEP",
+      "reasons": []
+    },
+    {
+      "item_id": "item_006",
+      "college_id": "college_b",
+      "question": "Which statement best describes overfitting?",
+      "attempts": 50,
+      "accuracy": 0.5,
+      "discrimination": 0.12,
+      "weak_item": false,
+      "status": "KEEP",
+      "reasons": []
+    },
+    {
+      "item_id": "item_007",
+      "college_id": "college_b",
+      "question": "Which command installs a Python package?",
+      "attempts": 8,
+      "accuracy": 0.5,
+      "discrimination": 0.0,
+      "weak_item": true,
+      "status": "REVIEW",
+      "reasons": [
+        "Low attempt count",
+        "Low discrimination between stronger and weaker performers"
+      ]
+    },
+    {
+      "item_id": "item_008",
+      "college_id": "college_b",
+      "question": "Which model is best for this task?",
+      "attempts": 65,
+      "accuracy": 0.5231,
+      "discrimination": 0.2008,
+      "weak_item": true,
+      "status": "REVIEW",
+      "reasons": [
+        "Item marked as potentially ambiguous"
+      ]
+    }
+  ]
+}

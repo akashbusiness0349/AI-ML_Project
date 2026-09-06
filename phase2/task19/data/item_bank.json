@@ -1,0 +1,98 @@
+[
+  {
+    "item_id": "item_001",
+    "college_id": "college_a",
+    "question": "Which Python data structure stores key-value pairs?",
+    "attempts": 80,
+    "correct": 64,
+    "high_performer_attempts": 40,
+    "high_performer_correct": 36,
+    "low_performer_attempts": 40,
+    "low_performer_correct": 28,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_002",
+    "college_id": "college_a",
+    "question": "What does SQL SELECT do?",
+    "attempts": 75,
+    "correct": 45,
+    "high_performer_attempts": 38,
+    "high_performer_correct": 30,
+    "low_performer_attempts": 37,
+    "low_performer_correct": 15,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_003",
+    "college_id": "college_a",
+    "question": "Which algorithm is commonly used for classification?",
+    "attempts": 70,
+    "correct": 18,
+    "high_performer_attempts": 35,
+    "high_performer_correct": 12,
+    "low_performer_attempts": 35,
+    "low_performer_correct": 6,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_004",
+    "college_id": "college_a",
+    "question": "Which metric is commonly used for imbalanced classification?",
+    "attempts": 60,
+    "correct": 56,
+    "high_performer_attempts": 30,
+    "high_performer_correct": 29,
+    "low_performer_attempts": 30,
+    "low_performer_correct": 27,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_005",
+    "college_id": "college_b",
+    "question": "What is the purpose of train-test splitting?",
+    "attempts": 55,
+    "correct": 32,
+    "high_performer_attempts": 28,
+    "high_performer_correct": 24,
+    "low_performer_attempts": 27,
+    "low_performer_correct": 8,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_006",
+    "college_id": "college_b",
+    "question": "Which statement best describes overfitting?",
+    "attempts": 50,
+    "correct": 25,
+    "high_performer_attempts": 25,
+    "high_performer_correct": 14,
+    "low_performer_attempts": 25,
+    "low_performer_correct": 11,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_007",
+    "college_id": "college_b",
+    "question": "Which command installs a Python package?",
+    "attempts": 8,
+    "correct": 4,
+    "high_performer_attempts": 4,
+    "high_performer_correct": 2,
+    "low_performer_attempts": 4,
+    "low_performer_correct": 2,
+    "ambiguous": false
+  },
+  {
+    "item_id": "item_008",
+    "college_id": "college_b",
+    "question": "Which model is best for this task?",
+    "attempts": 65,
+    "correct": 34,
+    "high_performer_attempts": 32,
+    "high_performer_correct": 20,
+    "low_performer_attempts": 33,
+    "low_performer_correct": 14,
+    "ambiguous": true
+  }
+]
