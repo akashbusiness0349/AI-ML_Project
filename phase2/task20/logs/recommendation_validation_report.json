@@ -1,0 +1,125 @@
+{
+  "model_version": "v1-recommendation-validation",
+  "total_recommendations": 8,
+  "recommended_count": 5,
+  "relevant_recommendations": 5,
+  "total_relevant": 5,
+  "false_positives": 0,
+  "precision": 1.0,
+  "recall": 1.0,
+  "false_positive_rate": 0.0,
+  "results": [
+    {
+      "student_id": "student_001",
+      "job_id": "job_001",
+      "college_id": "college_a",
+      "recommended": true,
+      "relevant": true,
+      "match_score": 1.0,
+      "false_positive": false,
+      "explanation": [
+        "Matched 5 of 5 required skills",
+        "Verified skills were used",
+        "Candidate role is relevant",
+        "Experience requirement is satisfied"
+      ]
+    },
+    {
+      "student_id": "student_002",
+      "job_id": "job_001",
+      "college_id": "college_a",
+      "recommended": true,
+      "relevant": true,
+      "match_score": 0.8,
+      "false_positive": false,
+      "explanation": [
+        "Matched 4 of 5 required skills",
+        "Verified skills were used",
+        "Candidate role is relevant",
+        "Experience requirement is satisfied"
+      ]
+    },
+    {
+      "student_id": "student_003",
+      "job_id": "job_001",
+      "college_id": "college_a",
+      "recommended": true,
+      "relevant": true,
+      "match_score": 0.6,
+      "false_positive": false,
+      "explanation": [
+        "Matched 3 of 5 required skills",
+        "Verified skills were used",
+        "Candidate role is relevant"
+      ]
+    },
+    {
+      "student_id": "student_004",
+      "job_id": "job_001",
+      "college_id": "college_a",
+      "recommended": false,
+      "relevant": false,
+      "match_score": 0.2,
+      "false_positive": false,
+      "explanation": [
+        "Matched 1 of 5 required skills",
+        "Verified skills were used"
+      ]
+    },
+    {
+      "student_id": "student_005",
+      "job_id": "job_002",
+      "college_id": "college_b",
+      "recommended": true,
+      "relevant": true,
+      "match_score": 0.8,
+      "false_positive": false,
+      "explanation": [
+        "Matched 4 of 5 required skills",
+        "Verified skills were used",
+        "Candidate role is relevant",
+        "Experience requirement is satisfied"
+      ]
+    },
+    {
+      "student_id": "student_006",
+      "job_id": "job_002",
+      "college_id": "college_b",
+      "recommended": true,
+      "relevant": true,
+      "match_score": 0.6,
+      "false_positive": false,
+      "explanation": [
+        "Matched 3 of 5 required skills",
+        "Verified skills were used",
+        "Candidate role is relevant"
+      ]
+    },
+    {
+      "student_id": "student_007",
+      "job_id": "job_002",
+      "college_id": "college_b",
+      "recommended": false,
+      "relevant": false,
+      "match_score": 0.2,
+      "false_positive": false,
+      "explanation": [
+        "Matched 1 of 5 required skills",
+        "Verified skills were used"
+      ]
+    },
+    {
+      "student_id": "student_008",
+      "job_id": "job_003",
+      "college_id": "college_b",
+      "recommended": false,
+      "relevant": false,
+      "match_score": 0.4,
+      "false_positive": false,
+      "explanation": [
+        "Matched 2 of 5 required skills",
+        "Verified skills were used"
+      ]
+    }
+  ]
+}

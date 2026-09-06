@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Recommendation Validation Report",
+  "description": "Schema for validating recommendation quality, explainability, false positives, and college ownership.",
+  "type": "object",
+  "required": [
+    "model_version",
+    "total_recommendations",
+    "recommended_count",
+    "relevant_recommendations",
+    "total_relevant",
+    "false_positives",
+    "precision",
+    "recall",
+    "false_positive_rate",
+    "results"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "total_recommendations": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "recommended_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "relevant_recommendations": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "total_relevant": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "false_positives": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "precision": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "recall": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "false_positive_rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "results": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "student_id",
+          "job_id",
+          "college_id",
+          "recommended",
+          "relevant",
+          "match_score",
+          "false_positive",
+          "explanation"
+        ],
+        "properties": {
+          "student_id": {
+            "type": "string"
+          },
+          "job_id": {
+            "type": "string"
+          },
+          "college_id": {
+            "type": "string"
+          },
+          "recommended": {
+            "type": "boolean"
+          },
+          "relevant": {
+            "type": "boolean"
+          },
+          "match_score": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "false_positive": {
+            "type": "boolean"
+          },
+          "explanation": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        }
+      }
+    }
+  }
+}

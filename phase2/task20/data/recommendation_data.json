@@ -1,0 +1,98 @@
+[
+  {
+    "student_id": "student_001",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "matched_required_skills": 5,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": true,
+    "experience_match": true,
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "student_id": "student_002",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "matched_required_skills": 4,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": true,
+    "experience_match": true,
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "student_id": "student_003",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "matched_required_skills": 3,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": true,
+    "experience_match": false,
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "student_id": "student_004",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "matched_required_skills": 1,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": false,
+    "experience_match": false,
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "student_id": "student_005",
+    "job_id": "job_002",
+    "college_id": "college_b",
+    "matched_required_skills": 4,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": true,
+    "experience_match": true,
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "student_id": "student_006",
+    "job_id": "job_002",
+    "college_id": "college_b",
+    "matched_required_skills": 3,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": true,
+    "experience_match": false,
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "student_id": "student_007",
+    "job_id": "job_002",
+    "college_id": "college_b",
+    "matched_required_skills": 1,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": false,
+    "experience_match": false,
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "student_id": "student_008",
+    "job_id": "job_003",
+    "college_id": "college_b",
+    "matched_required_skills": 2,
+    "required_skills": 5,
+    "verified_skills": true,
+    "role_match": false,
+    "experience_match": false,
+    "recommended": false,
+    "relevant": false
+  }
+]
