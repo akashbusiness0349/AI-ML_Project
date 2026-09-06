@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Parsing v0",
+  "type": "object",
+  "required": [
+    "profile_id",
+    "name",
+    "type",
+    "skills",
+    "skill_count"
+  ],
+  "properties": {
+    "profile_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string",
+      "enum": [
+        "profile"
+      ]
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "skill_count": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

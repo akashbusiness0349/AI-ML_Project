@@ -1,0 +1,12 @@
+[
+  {
+    "profile_id": "student_001",
+    "name": "Student One",
+    "text": "Python, SQL, Machine Learning, Pandas, NumPy, Git and FastAPI experience."
+  },
+  {
+    "profile_id": "student_002",
+    "name": "Student Two",
+    "text": "Python, SQL, Docker, Git and Scikit-Learn experience."
+  }
+]
