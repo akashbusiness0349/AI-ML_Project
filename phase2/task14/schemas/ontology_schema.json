@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Skills Ontology",
+  "type": "object",
+  "required": [
+    "ontology_version",
+    "categories"
+  ],
+  "properties": {
+    "ontology_version": {
+      "type": "string"
+    },
+    "categories": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      }
+    }
+  }
+}

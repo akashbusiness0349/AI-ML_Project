@@ -1,0 +1,37 @@
+{
+  "ontology_version": "v1",
+  "categories": {
+    "programming": [
+      "python"
+    ],
+    "database": [
+      "sql"
+    ],
+    "machine_learning": [
+      "machine learning",
+      "scikit-learn",
+      "tensorflow",
+      "pytorch",
+      "deep learning"
+    ],
+    "data_science": [
+      "pandas",
+      "numpy"
+    ],
+    "devops": [
+      "docker"
+    ],
+    "version_control": [
+      "git"
+    ],
+    "api_backend": [
+      "fastapi"
+    ],
+    "information_retrieval": [
+      "faiss"
+    ],
+    "nlp": [
+      "nlp"
+    ]
+  }
+}
