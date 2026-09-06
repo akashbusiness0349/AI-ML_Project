@@ -1,0 +1,83 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux AI Trust Sign-off",
+  "type": "object",
+  "required": [
+    "trust_layer_version",
+    "status",
+    "checks",
+    "metrics",
+    "evidence"
+  ],
+  "properties": {
+    "trust_layer_version": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "APPROVED",
+        "REVIEW"
+      ]
+    },
+    "checks": {
+      "type": "object",
+      "required": [
+        "parsing",
+        "ontology_mapping",
+        "proctoring_false_positive_reduction",
+        "offer_verification",
+        "tamper_detection"
+      ],
+      "additionalProperties": {
+        "type": "boolean"
+      }
+    },
+    "metrics": {
+      "type": "object",
+      "required": [
+        "ontology_mapping_coverage",
+        "proctoring_baseline_fpr",
+        "proctoring_hardened_fpr",
+        "false_positive_reduction_percent"
+      ],
+      "properties": {
+        "ontology_mapping_coverage": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "proctoring_baseline_fpr": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "proctoring_hardened_fpr": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "false_positive_reduction_percent": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "evidence": {
+      "type": "object",
+      "required": [
+        "offer_verified",
+        "tampered_offer_rejected"
+      ],
+      "properties": {
+        "offer_verified": {
+          "type": "boolean"
+        },
+        "tampered_offer_rejected": {
+          "type": "boolean"
+        }
+      }
+    }
+  }
+}

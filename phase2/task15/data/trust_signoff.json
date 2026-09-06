@@ -1,0 +1,21 @@
+{
+  "trust_layer_version": "v1",
+  "status": "APPROVED",
+  "checks": {
+    "parsing": true,
+    "ontology_mapping": true,
+    "proctoring_false_positive_reduction": true,
+    "offer_verification": true,
+    "tamper_detection": true
+  },
+  "metrics": {
+    "ontology_mapping_coverage": 1.0,
+    "proctoring_baseline_fpr": 1.0,
+    "proctoring_hardened_fpr": 0.0,
+    "false_positive_reduction_percent": 100.0
+  },
+  "evidence": {
+    "offer_verified": true,
+    "tampered_offer_rejected": true
+  }
+}
