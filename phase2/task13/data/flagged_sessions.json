@@ -1,0 +1,66 @@
+[
+  {
+    "session_id": "session_001",
+    "case_type": "normal",
+    "face_missing_seconds": 2,
+    "multiple_faces": 0,
+    "tab_switches": 0,
+    "camera_obstruction_seconds": 1
+  },
+  {
+    "session_id": "session_002",
+    "case_type": "normal",
+    "face_missing_seconds": 1,
+    "multiple_faces": 0,
+    "tab_switches": 1,
+    "camera_obstruction_seconds": 0
+  },
+  {
+    "session_id": "session_003",
+    "case_type": "normal",
+    "face_missing_seconds": 0,
+    "multiple_faces": 0,
+    "tab_switches": 0,
+    "camera_obstruction_seconds": 2
+  },
+  {
+    "session_id": "session_004",
+    "case_type": "suspicious",
+    "face_missing_seconds": 12,
+    "multiple_faces": 0,
+    "tab_switches": 0,
+    "camera_obstruction_seconds": 0
+  },
+  {
+    "session_id": "session_005",
+    "case_type": "suspicious",
+    "face_missing_seconds": 0,
+    "multiple_faces": 2,
+    "tab_switches": 0,
+    "camera_obstruction_seconds": 0
+  },
+  {
+    "session_id": "session_006",
+    "case_type": "suspicious",
+    "face_missing_seconds": 0,
+    "multiple_faces": 0,
+    "tab_switches": 5,
+    "camera_obstruction_seconds": 0
+  },
+  {
+    "session_id": "session_007",
+    "case_type": "normal",
+    "face_missing_seconds": 3,
+    "multiple_faces": 0,
+    "tab_switches": 1,
+    "camera_obstruction_seconds": 2
+  },
+  {
+    "session_id": "session_008",
+    "case_type": "suspicious",
+    "face_missing_seconds": 15,
+    "multiple_faces": 0,
+    "tab_switches": 4,
+    "camera_obstruction_seconds": 0
+  }
+]

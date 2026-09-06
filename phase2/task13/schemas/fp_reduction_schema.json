@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Proctoring FP Reduction",
+  "type": "object",
+  "required": [
+    "session_id",
+    "case_type",
+    "face_missing_seconds",
+    "multiple_faces",
+    "tab_switches",
+    "camera_obstruction_seconds"
+  ],
+  "properties": {
+    "session_id": {
+      "type": "string"
+    },
+    "case_type": {
+      "type": "string",
+      "enum": [
+        "normal",
+        "suspicious"
+      ]
+    },
+    "face_missing_seconds": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "multiple_faces": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "tab_switches": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "camera_obstruction_seconds": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}
