@@ -1,0 +1,43 @@
+{
+  "model_version": "v1-fairness-audit",
+  "audit_status": "UNDERWAY",
+  "total_records": 12,
+  "group_count": 2,
+  "group_metrics": {
+    "group_a": {
+      "total_records": 6,
+      "recommended": 3,
+      "relevant": 4,
+      "true_positive": 3,
+      "false_positive": 0,
+      "selection_rate": 0.5,
+      "true_positive_rate": 0.75,
+      "false_positive_rate": 0.0,
+      "precision": 1.0
+    },
+    "group_b": {
+      "total_records": 6,
+      "recommended": 2,
+      "relevant": 3,
+      "true_positive": 2,
+      "false_positive": 0,
+      "selection_rate": 0.3333,
+      "true_positive_rate": 0.6667,
+      "false_positive_rate": 0.0,
+      "precision": 1.0
+    }
+  },
+  "fairness_metrics": {
+    "selection_rate_disparity": 0.1667,
+    "true_positive_rate_disparity": 0.0833,
+    "false_positive_rate_disparity": 0.0,
+    "precision_disparity": 0.0,
+    "disparate_impact_ratio": 0.6666
+  },
+  "notes": [
+    "This is an initial fairness audit.",
+    "Group labels are synthetic or real-shaped audit segments.",
+    "Metrics identify disparities but do not by themselves prove discrimination.",
+    "Further review is required before production launch."
+  ]
+}

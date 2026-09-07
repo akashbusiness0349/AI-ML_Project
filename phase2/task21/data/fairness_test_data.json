@@ -1,0 +1,110 @@
+[
+  {
+    "record_id": "rec_001",
+    "student_id": "student_001",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_002",
+    "student_id": "student_002",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_003",
+    "student_id": "student_003",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_004",
+    "student_id": "student_004",
+    "job_id": "job_001",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "record_id": "rec_005",
+    "student_id": "student_005",
+    "job_id": "job_002",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": false,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_006",
+    "student_id": "student_006",
+    "job_id": "job_002",
+    "college_id": "college_a",
+    "group": "group_a",
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "record_id": "rec_007",
+    "student_id": "student_007",
+    "job_id": "job_003",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_008",
+    "student_id": "student_008",
+    "job_id": "job_003",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": true,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_009",
+    "student_id": "student_009",
+    "job_id": "job_003",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": false,
+    "relevant": true
+  },
+  {
+    "record_id": "rec_010",
+    "student_id": "student_010",
+    "job_id": "job_003",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "record_id": "rec_011",
+    "student_id": "student_011",
+    "job_id": "job_002",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": false,
+    "relevant": false
+  },
+  {
+    "record_id": "rec_012",
+    "student_id": "student_012",
+    "job_id": "job_002",
+    "college_id": "college_b",
+    "group": "group_b",
+    "recommended": false,
+    "relevant": false
+  }
+]

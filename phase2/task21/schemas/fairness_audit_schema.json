@@ -1,0 +1,134 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Fairness Audit Report",
+  "description": "Schema for an initial recommendation fairness and bias audit.",
+  "type": "object",
+  "required": [
+    "model_version",
+    "audit_status",
+    "total_records",
+    "group_count",
+    "group_metrics",
+    "fairness_metrics",
+    "notes"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "audit_status": {
+      "type": "string",
+      "enum": [
+        "UNDERWAY",
+        "COMPLETE",
+        "REVIEW"
+      ]
+    },
+    "total_records": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "group_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "group_metrics": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "total_records",
+          "recommended",
+          "relevant",
+          "true_positive",
+          "false_positive",
+          "selection_rate",
+          "true_positive_rate",
+          "false_positive_rate",
+          "precision"
+        ],
+        "properties": {
+          "total_records": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "recommended": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "relevant": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "true_positive": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "false_positive": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "selection_rate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "true_positive_rate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "false_positive_rate": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          },
+          "precision": {
+            "type": "number",
+            "minimum": 0,
+            "maximum": 1
+          }
+        }
+      }
+    },
+    "fairness_metrics": {
+      "type": "object",
+      "required": [
+        "selection_rate_disparity",
+        "true_positive_rate_disparity",
+        "false_positive_rate_disparity",
+        "precision_disparity",
+        "disparate_impact_ratio"
+      ],
+      "properties": {
+        "selection_rate_disparity": {
+          "type": "number",
+          "minimum": 0
+        },
+        "true_positive_rate_disparity": {
+          "type": "number",
+          "minimum": 0
+        },
+        "false_positive_rate_disparity": {
+          "type": "number",
+          "minimum": 0
+        },
+        "precision_disparity": {
+          "type": "number",
+          "minimum": 0
+        },
+        "disparate_impact_ratio": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "notes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}
