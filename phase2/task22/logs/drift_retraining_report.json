@@ -1,0 +1,89 @@
+{
+  "model_version": "v1-drift-monitor",
+  "reference_records": 10,
+  "current_records": 10,
+  "reference_quality": {
+    "records": 10,
+    "tp": 5,
+    "fp": 0,
+    "fn": 0,
+    "tn": 5,
+    "precision": 1.0,
+    "recall": 1.0,
+    "fpr": 0.0
+  },
+  "current_quality": {
+    "records": 10,
+    "tp": 3,
+    "fp": 2,
+    "fn": 1,
+    "tn": 4,
+    "precision": 0.6,
+    "recall": 0.75,
+    "fpr": 0.3333
+  },
+  "drift": {
+    "psi": 3.4762,
+    "threshold": 0.2,
+    "detected": true,
+    "mean_shift": {
+      "reference_mean": 0.668,
+      "current_mean": 0.454,
+      "absolute_shift": 0.214
+    },
+    "distribution": {
+      "0.0-0.2": {
+        "reference_count": 0,
+        "current_count": 0,
+        "reference_pct": 0.0,
+        "current_pct": 0.0,
+        "psi_contribution": 0.0
+      },
+      "0.2-0.4": {
+        "reference_count": 1,
+        "current_count": 3,
+        "reference_pct": 0.1,
+        "current_pct": 0.3,
+        "psi_contribution": 0.2197
+      },
+      "0.4-0.6": {
+        "reference_count": 2,
+        "current_count": 6,
+        "reference_pct": 0.2,
+        "current_pct": 0.6,
+        "psi_contribution": 0.4394
+      },
+      "0.6-0.8": {
+        "reference_count": 4,
+        "current_count": 1,
+        "reference_pct": 0.4,
+        "current_pct": 0.1,
+        "psi_contribution": 0.4159
+      },
+      "0.8-1.0": {
+        "reference_count": 3,
+        "current_count": 0,
+        "reference_pct": 0.3,
+        "current_pct": 0.0,
+        "psi_contribution": 2.4011
+      }
+    }
+  },
+  "quality_regression": {
+    "precision_drop": 0.4,
+    "recall_drop": 0.25,
+    "precision_threshold": 0.05,
+    "recall_threshold": 0.05,
+    "detected": true
+  },
+  "retraining": {
+    "required": true,
+    "performed": true,
+    "new_model_version": "v2-drift-retrained",
+    "reason": [
+      "SIGNIFICANT_DRIFT",
+      "QUALITY_REGRESSION"
+    ]
+  },
+  "pipeline_status": "RETRAINED"
+}

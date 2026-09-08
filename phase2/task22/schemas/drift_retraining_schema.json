@@ -1,0 +1,179 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Drift Retraining Report",
+  "type": "object",
+  "required": [
+    "model_version",
+    "reference_records",
+    "current_records",
+    "reference_quality",
+    "current_quality",
+    "drift",
+    "quality_regression",
+    "retraining",
+    "pipeline_status"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "reference_records": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "current_records": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "reference_quality": {
+      "$ref": "#/$defs/quality"
+    },
+    "current_quality": {
+      "$ref": "#/$defs/quality"
+    },
+    "drift": {
+      "type": "object",
+      "required": [
+        "psi",
+        "threshold",
+        "detected",
+        "mean_shift",
+        "distribution"
+      ],
+      "properties": {
+        "psi": {
+          "type": "number",
+          "minimum": 0
+        },
+        "threshold": {
+          "type": "number",
+          "minimum": 0
+        },
+        "detected": {
+          "type": "boolean"
+        },
+        "mean_shift": {
+          "type": "object",
+          "required": [
+            "reference_mean",
+            "current_mean",
+            "absolute_shift"
+          ],
+          "properties": {
+            "reference_mean": {
+              "type": "number"
+            },
+            "current_mean": {
+              "type": "number"
+            },
+            "absolute_shift": {
+              "type": "number",
+              "minimum": 0
+            }
+          }
+        },
+        "distribution": {
+          "type": "object"
+        }
+      }
+    },
+    "quality_regression": {
+      "type": "object",
+      "required": [
+        "precision_drop",
+        "recall_drop",
+        "detected"
+      ],
+      "properties": {
+        "precision_drop": {
+          "type": "number"
+        },
+        "recall_drop": {
+          "type": "number"
+        },
+        "precision_threshold": {
+          "type": "number"
+        },
+        "recall_threshold": {
+          "type": "number"
+        },
+        "detected": {
+          "type": "boolean"
+        }
+      }
+    },
+    "retraining": {
+      "type": "object",
+      "required": [
+        "required",
+        "performed",
+        "new_model_version",
+        "reason"
+      ],
+      "properties": {
+        "required": {
+          "type": "boolean"
+        },
+        "performed": {
+          "type": "boolean"
+        },
+        "new_model_version": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reason": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "pipeline_status": {
+      "type": "string"
+    }
+  },
+  "$defs": {
+    "quality": {
+      "type": "object",
+      "required": [
+        "records",
+        "tp",
+        "fp",
+        "fn",
+        "tn",
+        "precision",
+        "recall",
+        "fpr"
+      ],
+      "properties": {
+        "records": {
+          "type": "integer"
+        },
+        "tp": {
+          "type": "integer"
+        },
+        "fp": {
+          "type": "integer"
+        },
+        "fn": {
+          "type": "integer"
+        },
+        "tn": {
+          "type": "integer"
+        },
+        "precision": {
+          "type": "number"
+        },
+        "recall": {
+          "type": "number"
+        },
+        "fpr": {
+          "type": "number"
+        }
+      }
+    }
+  }
+}

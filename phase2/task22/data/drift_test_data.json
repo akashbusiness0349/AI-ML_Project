@@ -1,0 +1,26 @@
+{
+  "reference": [
+    {"id": "ref_001", "score": 0.90, "recommended": true, "relevant": true},
+    {"id": "ref_002", "score": 0.86, "recommended": true, "relevant": true},
+    {"id": "ref_003", "score": 0.82, "recommended": true, "relevant": true},
+    {"id": "ref_004", "score": 0.78, "recommended": true, "relevant": true},
+    {"id": "ref_005", "score": 0.72, "recommended": true, "relevant": true},
+    {"id": "ref_006", "score": 0.68, "recommended": false, "relevant": false},
+    {"id": "ref_007", "score": 0.60, "recommended": false, "relevant": false},
+    {"id": "ref_008", "score": 0.52, "recommended": false, "relevant": false},
+    {"id": "ref_009", "score": 0.45, "recommended": false, "relevant": false},
+    {"id": "ref_010", "score": 0.35, "recommended": false, "relevant": false}
+  ],
+  "current": [
+    {"id": "cur_001", "score": 0.62, "recommended": true, "relevant": true},
+    {"id": "cur_002", "score": 0.58, "recommended": true, "relevant": false},
+    {"id": "cur_003", "score": 0.55, "recommended": true, "relevant": true},
+    {"id": "cur_004", "score": 0.51, "recommended": true, "relevant": false},
+    {"id": "cur_005", "score": 0.48, "recommended": true, "relevant": true},
+    {"id": "cur_006", "score": 0.44, "recommended": false, "relevant": false},
+    {"id": "cur_007", "score": 0.40, "recommended": false, "relevant": false},
+    {"id": "cur_008", "score": 0.36, "recommended": false, "relevant": true},
+    {"id": "cur_009", "score": 0.32, "recommended": false, "relevant": false},
+    {"id": "cur_010", "score": 0.28, "recommended": false, "relevant": false}
+  ]
+}
