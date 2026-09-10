@@ -1,0 +1,52 @@
+{
+  "model_registry": {
+    "registry_version": "v1",
+    "models": [
+      {
+        "model_name": "placemux-matcher",
+        "model_version": "v1-mlops-baseline",
+        "stage": "production",
+        "status": "active",
+        "framework": "deterministic-python",
+        "metrics": {
+          "precision": 0.8333,
+          "recall": 1.0,
+          "fpr": 1.0
+        },
+        "feature_store_version": "v1",
+        "training_records": 6,
+        "explainability": true
+      }
+    ]
+  },
+  "feature_store": {
+    "version": "v1",
+    "candidate_count": 3,
+    "job_count": 2
+  },
+  "evaluation": {
+    "records": 6,
+    "precision": 0.8333,
+    "recall": 1.0,
+    "fpr": 1.0
+  },
+  "demo_inference": {
+    "candidate_id": "student_001",
+    "job_id": "job_001",
+    "model_version": "v1-mlops-baseline",
+    "match_score": 1.0,
+    "explanation": {
+      "matched_skills": [
+        "python",
+        "machine_learning",
+        "sql",
+        "data_science"
+      ],
+      "partial_skills": [],
+      "missing_skills": [],
+      "experience_requirement_met": true,
+      "reason": "Verified skills meet the required level for: python, machine_learning, sql, data_science Candidate meets the minimum experience requirement."
+    }
+  },
+  "pipeline_status": "LIVE"
+}

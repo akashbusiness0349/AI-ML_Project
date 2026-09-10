@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux MLOps Registry and Feature Store Report",
+  "type": "object",
+  "required": [
+    "model_registry",
+    "feature_store",
+    "evaluation",
+    "demo_inference",
+    "pipeline_status"
+  ],
+  "properties": {
+    "model_registry": {
+      "type": "object",
+      "required": [
+        "registry_version",
+        "models"
+      ],
+      "properties": {
+        "registry_version": {
+          "type": "string"
+        },
+        "models": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": [
+              "model_name",
+              "model_version",
+              "stage",
+              "status",
+              "metrics",
+              "feature_store_version"
+            ],
+            "properties": {
+              "model_name": {
+                "type": "string"
+              },
+              "model_version": {
+                "type": "string"
+              },
+              "stage": {
+                "type": "string"
+              },
+              "status": {
+                "type": "string"
+              },
+              "framework": {
+                "type": "string"
+              },
+              "metrics": {
+                "type": "object",
+                "required": [
+                  "precision",
+                  "recall",
+                  "fpr"
+                ],
+                "properties": {
+                  "precision": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "recall": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  },
+                  "fpr": {
+                    "type": "number",
+                    "minimum": 0,
+                    "maximum": 1
+                  }
+                }
+              },
+              "feature_store_version": {
+                "type": "string"
+              }
+            }
+          }
+        }
+      }
+    },
+    "feature_store": {
+      "type": "object",
+      "required": [
+        "version",
+        "candidate_count",
+        "job_count"
+      ],
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "candidate_count": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "job_count": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "evaluation": {
+      "type": "object",
+      "required": [
+        "records",
+        "precision",
+        "recall",
+        "fpr"
+      ],
+      "properties": {
+        "records": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "precision": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "recall": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "fpr": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        }
+      }
+    },
+    "demo_inference": {
+      "type": "object",
+      "required": [
+        "candidate_id",
+        "job_id",
+        "model_version",
+        "match_score",
+        "explanation"
+      ],
+      "properties": {
+        "candidate_id": {
+          "type": "string"
+        },
+        "job_id": {
+          "type": "string"
+        },
+        "model_version": {
+          "type": "string"
+        },
+        "match_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1
+        },
+        "explanation": {
+          "type": "object"
+        }
+      }
+    },
+    "pipeline_status": {
+      "type": "string"
+    }
+  }
+}

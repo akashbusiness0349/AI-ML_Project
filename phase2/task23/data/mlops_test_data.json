@@ -1,0 +1,107 @@
+{
+  "models": [
+    {
+      "model_version": "v1-mlops-baseline",
+      "model_name": "placemux-matcher",
+      "stage": "production",
+      "status": "active",
+      "precision": 1.0,
+      "recall": 1.0,
+      "fpr": 0.0
+    }
+  ],
+  "features": [
+    {
+      "candidate_id": "student_001",
+      "candidate_name": "Student A",
+      "college_id": "college_a",
+      "verified_skills": {
+        "python": 0.92,
+        "machine_learning": 0.88,
+        "sql": 0.80,
+        "data_science": 0.86
+      },
+      "experience_years": 1.5
+    },
+    {
+      "candidate_id": "student_002",
+      "candidate_name": "Student B",
+      "college_id": "college_b",
+      "verified_skills": {
+        "python": 0.70,
+        "machine_learning": 0.65,
+        "sql": 0.90,
+        "data_science": 0.68
+      },
+      "experience_years": 1.0
+    },
+    {
+      "candidate_id": "student_003",
+      "candidate_name": "Student C",
+      "college_id": "college_a",
+      "verified_skills": {
+        "python": 0.82,
+        "machine_learning": 0.84,
+        "sql": 0.75,
+        "data_science": 0.80
+      },
+      "experience_years": 2.0
+    }
+  ],
+  "jobs": [
+    {
+      "job_id": "job_001",
+      "job_title": "Junior ML Engineer",
+      "required_skills": {
+        "python": 0.80,
+        "machine_learning": 0.80,
+        "sql": 0.60,
+        "data_science": 0.70
+      },
+      "minimum_experience_years": 1.0
+    },
+    {
+      "job_id": "job_002",
+      "job_title": "Data Analyst",
+      "required_skills": {
+        "python": 0.60,
+        "machine_learning": 0.40,
+        "sql": 0.80,
+        "data_science": 0.70
+      },
+      "minimum_experience_years": 0.5
+    }
+  ],
+  "labels": [
+    {
+      "candidate_id": "student_001",
+      "job_id": "job_001",
+      "relevant": true
+    },
+    {
+      "candidate_id": "student_001",
+      "job_id": "job_002",
+      "relevant": true
+    },
+    {
+      "candidate_id": "student_002",
+      "job_id": "job_001",
+      "relevant": false
+    },
+    {
+      "candidate_id": "student_002",
+      "job_id": "job_002",
+      "relevant": true
+    },
+    {
+      "candidate_id": "student_003",
+      "job_id": "job_001",
+      "relevant": true
+    },
+    {
+      "candidate_id": "student_003",
+      "job_id": "job_002",
+      "relevant": true
+    }
+  ]
+}

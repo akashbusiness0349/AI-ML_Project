@@ -1,0 +1,20 @@
+{
+  "registry_version": "v1",
+  "models": [
+    {
+      "model_name": "placemux-matcher",
+      "model_version": "v1-mlops-baseline",
+      "stage": "production",
+      "status": "active",
+      "framework": "deterministic-python",
+      "metrics": {
+        "precision": 0.8333,
+        "recall": 1.0,
+        "fpr": 1.0
+      },
+      "feature_store_version": "v1",
+      "training_records": 6,
+      "explainability": true
+    }
+  ]
+}

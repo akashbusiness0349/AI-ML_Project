@@ -1,0 +1,65 @@
+{
+  "feature_store_version": "v1",
+  "candidates": {
+    "student_001": {
+      "candidate_id": "student_001",
+      "candidate_name": "Student A",
+      "college_id": "college_a",
+      "verified_skills": {
+        "python": 0.92,
+        "machine_learning": 0.88,
+        "sql": 0.8,
+        "data_science": 0.86
+      },
+      "experience_years": 1.5
+    },
+    "student_002": {
+      "candidate_id": "student_002",
+      "candidate_name": "Student B",
+      "college_id": "college_b",
+      "verified_skills": {
+        "python": 0.7,
+        "machine_learning": 0.65,
+        "sql": 0.9,
+        "data_science": 0.68
+      },
+      "experience_years": 1.0
+    },
+    "student_003": {
+      "candidate_id": "student_003",
+      "candidate_name": "Student C",
+      "college_id": "college_a",
+      "verified_skills": {
+        "python": 0.82,
+        "machine_learning": 0.84,
+        "sql": 0.75,
+        "data_science": 0.8
+      },
+      "experience_years": 2.0
+    }
+  },
+  "jobs": {
+    "job_001": {
+      "job_id": "job_001",
+      "job_title": "Junior ML Engineer",
+      "required_skills": {
+        "python": 0.8,
+        "machine_learning": 0.8,
+        "sql": 0.6,
+        "data_science": 0.7
+      },
+      "minimum_experience_years": 1.0
+    },
+    "job_002": {
+      "job_id": "job_002",
+      "job_title": "Data Analyst",
+      "required_skills": {
+        "python": 0.6,
+        "machine_learning": 0.4,
+        "sql": 0.8,
+        "data_science": 0.7
+      },
+      "minimum_experience_years": 0.5
+    }
+  }
+}
