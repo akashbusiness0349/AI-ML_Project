@@ -1,0 +1,207 @@
+{
+  "model_version": "v1-mlops-baseline",
+  "environment": "production",
+  "traffic_window": "go-live-rehearsal",
+  "events": [
+    {
+      "event_id": "prod_001",
+      "candidate_id": "student_001",
+      "job_id": "job_001",
+      "match_score": 1.00,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 42,
+      "error": false
+    },
+    {
+      "event_id": "prod_002",
+      "candidate_id": "student_002",
+      "job_id": "job_001",
+      "match_score": 0.85,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 55,
+      "error": false
+    },
+    {
+      "event_id": "prod_003",
+      "candidate_id": "student_003",
+      "job_id": "job_001",
+      "match_score": 0.32,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 61,
+      "error": false
+    },
+    {
+      "event_id": "prod_004",
+      "candidate_id": "student_001",
+      "job_id": "job_002",
+      "match_score": 0.90,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 48,
+      "error": false
+    },
+    {
+      "event_id": "prod_005",
+      "candidate_id": "student_002",
+      "job_id": "job_002",
+      "match_score": 0.70,
+      "recommended": true,
+      "relevant": false,
+      "latency_ms": 73,
+      "error": false
+    },
+    {
+      "event_id": "prod_006",
+      "candidate_id": "student_003",
+      "job_id": "job_002",
+      "match_score": 0.25,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 68,
+      "error": false
+    },
+    {
+      "event_id": "prod_007",
+      "candidate_id": "student_001",
+      "job_id": "job_001",
+      "match_score": 0.95,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 51,
+      "error": false
+    },
+    {
+      "event_id": "prod_008",
+      "candidate_id": "student_002",
+      "job_id": "job_001",
+      "match_score": 0.80,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 57,
+      "error": false
+    },
+    {
+      "event_id": "prod_009",
+      "candidate_id": "student_003",
+      "job_id": "job_001",
+      "match_score": 0.40,
+      "recommended": false,
+      "relevant": true,
+      "latency_ms": 64,
+      "error": false
+    },
+    {
+      "event_id": "prod_010",
+      "candidate_id": "student_001",
+      "job_id": "job_002",
+      "match_score": 0.88,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 49,
+      "error": false
+    },
+    {
+      "event_id": "prod_011",
+      "candidate_id": "student_002",
+      "job_id": "job_002",
+      "match_score": 0.76,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 62,
+      "error": false
+    },
+    {
+      "event_id": "prod_012",
+      "candidate_id": "student_003",
+      "job_id": "job_002",
+      "match_score": 0.20,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 59,
+      "error": false
+    },
+    {
+      "event_id": "prod_013",
+      "candidate_id": "student_001",
+      "job_id": "job_001",
+      "match_score": 0.92,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 46,
+      "error": false
+    },
+    {
+      "event_id": "prod_014",
+      "candidate_id": "student_002",
+      "job_id": "job_001",
+      "match_score": 0.68,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 70,
+      "error": false
+    },
+    {
+      "event_id": "prod_015",
+      "candidate_id": "student_003",
+      "job_id": "job_001",
+      "match_score": 0.35,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 66,
+      "error": false
+    },
+    {
+      "event_id": "prod_016",
+      "candidate_id": "student_001",
+      "job_id": "job_002",
+      "match_score": 0.94,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 44,
+      "error": false
+    },
+    {
+      "event_id": "prod_017",
+      "candidate_id": "student_002",
+      "job_id": "job_002",
+      "match_score": 0.82,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 58,
+      "error": false
+    },
+    {
+      "event_id": "prod_018",
+      "candidate_id": "student_003",
+      "job_id": "job_002",
+      "match_score": 0.30,
+      "recommended": false,
+      "relevant": false,
+      "latency_ms": 72,
+      "error": false
+    },
+    {
+      "event_id": "prod_019",
+      "candidate_id": "student_001",
+      "job_id": "job_001",
+      "match_score": 0.98,
+      "recommended": true,
+      "relevant": true,
+      "latency_ms": 43,
+      "error": false
+    },
+    {
+      "event_id": "prod_020",
+      "candidate_id": "student_002",
+      "job_id": "job_001",
+      "match_score": 0.74,
+      "recommended": true,
+      "relevant": false,
+      "latency_ms": 75,
+      "error": false
+    }
+  ]
+}

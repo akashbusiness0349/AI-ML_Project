@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Live Model Monitoring Report",
+  "type": "object",
+  "required": [
+    "model_version",
+    "environment",
+    "traffic_events",
+    "successful_events",
+    "error_rate",
+    "quality",
+    "latency",
+    "prediction_distribution",
+    "psi",
+    "alerts",
+    "health_status",
+    "monitoring_status"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "environment": {
+      "type": "string"
+    },
+    "traffic_events": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "successful_events": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "error_rate": {
+      "type": "number",
+      "minimum": 0
+    },
+    "quality": {
+      "type": "object",
+      "required": [
+        "precision",
+        "recall",
+        "fpr"
+      ]
+    },
+    "latency": {
+      "type": "object",
+      "required": [
+        "average_ms",
+        "p95_ms",
+        "max_ms"
+      ]
+    },
+    "prediction_distribution": {
+      "type": "object"
+    },
+    "psi": {
+      "type": "number",
+      "minimum": 0
+    },
+    "alerts": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "health_status": {
+      "type": "string",
+      "enum": [
+        "HEALTHY",
+        "DEGRADED"
+      ]
+    },
+    "monitoring_status": {
+      "type": "string",
+      "enum": [
+        "LIVE"
+      ]
+    }
+  }
+}

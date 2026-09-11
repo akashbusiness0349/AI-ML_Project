@@ -1,0 +1,45 @@
+{
+  "task": "Task 25 - Go-Live",
+  "model_version": "v1-mlops-baseline",
+  "monitoring_report": {
+    "model_version": "v1-mlops-baseline",
+    "environment": "production",
+    "traffic_events": 20,
+    "successful_events": 20,
+    "error_rate": 0.0,
+    "quality": {
+      "precision": 0.8462,
+      "recall": 0.9167,
+      "fpr": 0.25
+    },
+    "latency": {
+      "average_ms": 58.15,
+      "p95_ms": 73,
+      "max_ms": 75
+    },
+    "prediction_distribution": {
+      "count": 20,
+      "mean": 0.687,
+      "min": 0.2,
+      "max": 1.0
+    },
+    "psi": 0.6095,
+    "psi_threshold": 0.2,
+    "model_version_valid": true,
+    "alerts": [
+      "PREDICTION_DRIFT"
+    ],
+    "health_status": "DEGRADED",
+    "monitoring_status": "LIVE"
+  },
+  "explainability_example": {
+    "event_id": "prod_001",
+    "match_score": 1.0,
+    "recommendation": true,
+    "plain_english_reason": "The candidate-job match score is at or above the recommendation threshold."
+  },
+  "failure_test": {
+    "status": "PASS",
+    "error_event_detected": true
+  }
+}
