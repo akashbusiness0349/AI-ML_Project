@@ -1,0 +1,55 @@
+{
+  "signoff_version": "v1-launch-signoff",
+  "model_name": "placemux-matcher",
+  "model_version": "v1-fairness-audit",
+  "audit_status": "CLOSED",
+  "signoff_status": "APPROVED_WITH_LIMITATIONS",
+  "launch_recommendation": "CONTROLLED_LAUNCH",
+  "group_metrics": {
+    "group_a": {
+      "records": 6,
+      "recommendations": 3,
+      "relevant": 4,
+      "selection_rate": 0.5,
+      "tpr": 0.75,
+      "fpr": 0.0,
+      "precision": 1.0
+    },
+    "group_b": {
+      "records": 6,
+      "recommendations": 2,
+      "relevant": 3,
+      "selection_rate": 0.3333,
+      "tpr": 0.6667,
+      "fpr": 0.0,
+      "precision": 1.0
+    }
+  },
+  "fairness_metrics": {
+    "selection_rate_disparity": 0.1667,
+    "tpr_disparity": 0.0833,
+    "fpr_disparity": 0.0,
+    "precision_disparity": 0.0,
+    "disparate_impact_ratio": 0.6666
+  },
+  "verification_checks": {
+    "audit_results_available": true,
+    "all_groups_represented": true,
+    "selection_disparity_reviewed": true,
+    "tpr_disparity_reviewed": true,
+    "fpr_disparity_reviewed": true,
+    "precision_disparity_reviewed": true,
+    "limitations_documented": true,
+    "model_version_recorded": true,
+    "signoff_persisted": true
+  },
+  "verification_pass": true,
+  "limitations": [
+    "Audit sample is small and synthetic/real-shaped.",
+    "Fairness metrics are diagnostic and not a production certification.",
+    "Disparate impact remains below the preferred 0.80 review threshold.",
+    "Additional real-world data and governance review are required before unrestricted launch."
+  ],
+  "handoff": "ML GO-AHEAD",
+  "notes": "Fairness audit is formally closed for this rehearsal. The model receives a controlled-launch sign-off because all audit evidence and limitations are documented, while the small sample and disparate-impact finding remain open governance considerations."
+}

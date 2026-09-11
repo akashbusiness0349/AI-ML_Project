@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Fairness Signoff Report",
+  "type": "object",
+  "required": [
+    "signoff_version",
+    "model_name",
+    "model_version",
+    "audit_status",
+    "signoff_status",
+    "launch_recommendation",
+    "group_metrics",
+    "fairness_metrics",
+    "verification_checks",
+    "verification_pass",
+    "limitations"
+  ],
+  "properties": {
+    "signoff_version": {
+      "type": "string"
+    },
+    "model_name": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "audit_status": {
+      "type": "string",
+      "enum": [
+        "CLOSED"
+      ]
+    },
+    "signoff_status": {
+      "type": "string",
+      "enum": [
+        "APPROVED_WITH_LIMITATIONS"
+      ]
+    },
+    "launch_recommendation": {
+      "type": "string",
+      "enum": [
+        "CONTROLLED_LAUNCH"
+      ]
+    },
+    "group_metrics": {
+      "type": "object"
+    },
+    "fairness_metrics": {
+      "type": "object",
+      "required": [
+        "selection_rate_disparity",
+        "tpr_disparity",
+        "fpr_disparity",
+        "precision_disparity",
+        "disparate_impact_ratio"
+      ]
+    },
+    "verification_checks": {
+      "type": "object"
+    },
+    "verification_pass": {
+      "type": "boolean"
+    },
+    "limitations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  }
+}

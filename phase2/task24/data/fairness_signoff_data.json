@@ -1,0 +1,78 @@
+{
+  "source": "Task 21 fairness audit",
+  "model_version": "v1-fairness-audit",
+  "records": [
+    {
+      "record_id": "audit_001",
+      "audit_group": "group_a",
+      "recommended": true,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_002",
+      "audit_group": "group_a",
+      "recommended": true,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_003",
+      "audit_group": "group_a",
+      "recommended": true,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_004",
+      "audit_group": "group_a",
+      "recommended": false,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_005",
+      "audit_group": "group_a",
+      "recommended": false,
+      "relevant": false
+    },
+    {
+      "record_id": "audit_006",
+      "audit_group": "group_a",
+      "recommended": false,
+      "relevant": false
+    },
+    {
+      "record_id": "audit_007",
+      "audit_group": "group_b",
+      "recommended": true,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_008",
+      "audit_group": "group_b",
+      "recommended": true,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_009",
+      "audit_group": "group_b",
+      "recommended": false,
+      "relevant": true
+    },
+    {
+      "record_id": "audit_010",
+      "audit_group": "group_b",
+      "recommended": false,
+      "relevant": false
+    },
+    {
+      "record_id": "audit_011",
+      "audit_group": "group_b",
+      "recommended": false,
+      "relevant": false
+    },
+    {
+      "record_id": "audit_012",
+      "audit_group": "group_b",
+      "recommended": false,
+      "relevant": false
+    }
+  ]
+}
