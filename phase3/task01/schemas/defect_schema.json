@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase 3 Task 01 Intelligence Defect",
+  "type": "object",
+  "required": [
+    "defect_id",
+    "title",
+    "category",
+    "severity",
+    "priority",
+    "frequency",
+    "metric",
+    "description",
+    "status"
+  ],
+  "properties": {
+    "defect_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "category": {
+      "type": "string"
+    },
+    "severity": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "integer"
+    },
+    "frequency": {
+      "type": "integer"
+    },
+    "metric": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}

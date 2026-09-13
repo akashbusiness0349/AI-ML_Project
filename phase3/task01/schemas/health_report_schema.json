@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase 3 Task 01 Health Report",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "health_status",
+    "offline_metrics",
+    "online_metrics",
+    "offline_online_gap",
+    "traffic",
+    "latency"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "health_status": {
+      "type": "string",
+      "enum": [
+        "HEALTHY",
+        "DEGRADED"
+      ]
+    },
+    "offline_metrics": {
+      "type": "object"
+    },
+    "online_metrics": {
+      "type": "object"
+    },
+    "offline_online_gap": {
+      "type": "object"
+    },
+    "traffic": {
+      "type": "object"
+    },
+    "latency": {
+      "type": "object"
+    }
+  }
+}

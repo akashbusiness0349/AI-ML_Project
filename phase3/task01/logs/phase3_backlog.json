@@ -1,0 +1,46 @@
+[
+  {
+    "backlog_id": "PH3-INT-001",
+    "defect_id": "INT-001",
+    "title": "False-positive recommendations",
+    "priority": 1,
+    "owner": "ML Engineer",
+    "action": "Tune recommendation threshold and investigate false-positive candidates.",
+    "success_metric": "Online false-positive rate <= 10%",
+    "evidence_required": "Re-run live interaction evaluation after threshold/ranking change.",
+    "status": "PLANNED"
+  },
+  {
+    "backlog_id": "PH3-INT-002",
+    "defect_id": "INT-002",
+    "title": "False-negative recommendations",
+    "priority": 2,
+    "owner": "ML Engineer",
+    "action": "Review missed relevant matches and improve ranking recall.",
+    "success_metric": "Online recall >= 85%",
+    "evidence_required": "Held-out validation plus live-style interaction replay.",
+    "status": "PLANNED"
+  },
+  {
+    "backlog_id": "PH3-INT-003",
+    "defect_id": "INT-003",
+    "title": "Offline-to-online precision gap",
+    "priority": 3,
+    "owner": "ML Engineer + Data",
+    "action": "Investigate feature and distribution differences between offline and online-style traffic.",
+    "success_metric": "Precision gap <= 10 percentage points",
+    "evidence_required": "Offline-versus-online comparison report.",
+    "status": "PLANNED"
+  },
+  {
+    "backlog_id": "PH3-INT-004",
+    "defect_id": "INT-004",
+    "title": "Production interaction instrumentation gap",
+    "priority": 4,
+    "owner": "Backend/Data",
+    "action": "Add production prediction, outcome, latency, and model-version instrumentation.",
+    "success_metric": "100% prediction events contain model version, score, outcome, and latency fields.",
+    "evidence_required": "Validated production telemetry sample.",
+    "status": "PLANNED"
+  }
+]

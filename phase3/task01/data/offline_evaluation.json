@@ -1,0 +1,14 @@
+{
+  "evaluation_id": "offline_eval_task01_v1",
+  "model_version": "v1-mlops-baseline",
+  "evaluation_type": "held-out-baseline-reference",
+  "dataset_type": "held-out",
+  "tuned_on_this_dataset": false,
+  "metrics": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "false_positive_rate": 0.0
+  },
+  "source": "Phase 2 Task 23 MLOps baseline evaluation reference",
+  "note": "This is a baseline reference for Task 01 offline-versus-online comparison. It is not presented as a fresh production evaluation."
+}

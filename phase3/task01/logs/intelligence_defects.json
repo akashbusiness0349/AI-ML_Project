@@ -1,0 +1,54 @@
+[
+  {
+    "defect_id": "INT-001",
+    "title": "False-positive recommendations",
+    "category": "ranking",
+    "severity": "HIGH",
+    "priority": 1,
+    "frequency": 2,
+    "metric": "false_positive_rate",
+    "measured_value": 0.2,
+    "description": "The live-style traffic contains recommendations that are not relevant.",
+    "explainable": true,
+    "status": "OPEN"
+  },
+  {
+    "defect_id": "INT-002",
+    "title": "False-negative recommendations",
+    "category": "ranking",
+    "severity": "HIGH",
+    "priority": 2,
+    "frequency": 4,
+    "metric": "recall",
+    "measured_value": 0.6,
+    "description": "Relevant candidate-job pairs are not recommended.",
+    "explainable": true,
+    "status": "OPEN"
+  },
+  {
+    "defect_id": "INT-003",
+    "title": "Offline-to-online precision gap",
+    "category": "validation",
+    "severity": "HIGH",
+    "priority": 3,
+    "frequency": 1,
+    "metric": "precision_gap",
+    "measured_value": 0.25,
+    "description": "Offline baseline performance is materially higher than observed online-style performance.",
+    "explainable": true,
+    "status": "OPEN"
+  },
+  {
+    "defect_id": "INT-004",
+    "title": "Production interaction instrumentation gap",
+    "category": "observability",
+    "severity": "MEDIUM",
+    "priority": 4,
+    "frequency": 20,
+    "metric": "production_log_coverage",
+    "measured_value": 0.0,
+    "description": "Current evidence comes from production-shaped rehearsal traffic rather than externally deployed production telemetry.",
+    "explainable": true,
+    "status": "OPEN"
+  }
+]

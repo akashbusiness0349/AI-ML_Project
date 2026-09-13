@@ -1,0 +1,45 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Phase 3 Task 01 Backlog Item",
+  "type": "object",
+  "required": [
+    "backlog_id",
+    "defect_id",
+    "title",
+    "priority",
+    "owner",
+    "action",
+    "success_metric",
+    "evidence_required",
+    "status"
+  ],
+  "properties": {
+    "backlog_id": {
+      "type": "string"
+    },
+    "defect_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "priority": {
+      "type": "integer"
+    },
+    "owner": {
+      "type": "string"
+    },
+    "action": {
+      "type": "string"
+    },
+    "success_metric": {
+      "type": "string"
+    },
+    "evidence_required": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    }
+  }
+}
