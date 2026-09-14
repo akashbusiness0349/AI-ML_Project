@@ -1,0 +1,90 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Task 02 SLO Report",
+  "type": "object",
+  "required": [
+    "task",
+    "model_version",
+    "data_provenance",
+    "slo_targets",
+    "observed",
+    "slo_results"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "scope": {
+      "type": "string"
+    },
+    "external_production": {
+      "type": "boolean"
+    },
+    "data_provenance": {
+      "type": "object",
+      "required": [
+        "source_file",
+        "source_sha256",
+        "event_count"
+      ],
+      "properties": {
+        "source_file": {
+          "type": "string"
+        },
+        "source_sha256": {
+          "type": "string"
+        },
+        "event_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "slo_targets": {
+      "type": "object",
+      "required": [
+        "p95_latency_ms",
+        "availability",
+        "minimum_precision",
+        "psi_threshold"
+      ],
+      "properties": {
+        "p95_latency_ms": {
+          "type": "number"
+        },
+        "availability": {
+          "type": "number"
+        },
+        "minimum_precision": {
+          "type": "number"
+        },
+        "psi_threshold": {
+          "type": "number"
+        }
+      }
+    },
+    "observed": {
+      "type": "object",
+      "required": [
+        "quality",
+        "latency",
+        "availability",
+        "score_distribution",
+        "psi"
+      ]
+    },
+    "slo_results": {
+      "type": "object",
+      "required": [
+        "p95_latency",
+        "availability",
+        "minimum_precision",
+        "score_distribution",
+        "prediction_drift"
+      ]
+    }
+  }
+}

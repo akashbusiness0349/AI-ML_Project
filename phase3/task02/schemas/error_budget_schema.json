@@ -1,0 +1,87 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Task 02 Error Budget",
+  "type": "object",
+  "required": [
+    "task",
+    "window",
+    "slo",
+    "traffic",
+    "error_budget",
+    "status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "window": {
+      "type": "string"
+    },
+    "slo": {
+      "type": "object",
+      "required": [
+        "availability_target",
+        "allowed_failure_rate"
+      ],
+      "properties": {
+        "availability_target": {
+          "type": "number"
+        },
+        "allowed_failure_rate": {
+          "type": "number"
+        }
+      }
+    },
+    "traffic": {
+      "type": "object",
+      "required": [
+        "total_events",
+        "failed_events"
+      ],
+      "properties": {
+        "total_events": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "failed_events": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "error_budget": {
+      "type": "object",
+      "required": [
+        "allowed_failures",
+        "failures_consumed",
+        "remaining_failures",
+        "consumed_fraction",
+        "remaining_fraction"
+      ],
+      "properties": {
+        "allowed_failures": {
+          "type": "number"
+        },
+        "failures_consumed": {
+          "type": "integer"
+        },
+        "remaining_failures": {
+          "type": "number"
+        },
+        "consumed_fraction": {
+          "type": "number"
+        },
+        "remaining_fraction": {
+          "type": "number"
+        }
+      }
+    },
+    "status": {
+      "type": "string",
+      "enum": [
+        "WITHIN_BUDGET",
+        "BUDGET_EXHAUSTED"
+      ]
+    }
+  }
+}

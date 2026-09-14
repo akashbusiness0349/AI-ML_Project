@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PlaceMux Task 02 Alert Report",
+  "type": "object",
+  "required": [
+    "task",
+    "run_name",
+    "model_version",
+    "alert_count",
+    "alerts",
+    "alert_status"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "run_name": {
+      "type": "string"
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "alert_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "alerts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "alert",
+          "severity",
+          "actual",
+          "threshold",
+          "message",
+          "owner"
+        ],
+        "properties": {
+          "alert": {
+            "type": "string"
+          },
+          "severity": {
+            "type": "string",
+            "enum": [
+              "LOW",
+              "MEDIUM",
+              "HIGH",
+              "CRITICAL"
+            ]
+          },
+          "actual": {
+            "type": "number"
+          },
+          "threshold": {
+            "type": "number"
+          },
+          "message": {
+            "type": "string"
+          },
+          "owner": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "alert_status": {
+      "type": "string",
+      "enum": [
+        "ALERTING",
+        "NO_ALERT"
+      ]
+    }
+  }
+}

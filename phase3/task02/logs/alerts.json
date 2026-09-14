@@ -1,0 +1,17 @@
+{
+  "task": "Phase 3 Task 02",
+  "run_name": "normal_traffic",
+  "model_version": "v1-mlops-baseline",
+  "alert_count": 1,
+  "alerts": [
+    {
+      "alert": "PREDICTION_DRIFT",
+      "severity": "MEDIUM",
+      "actual": 0.4106,
+      "threshold": 0.2,
+      "message": "Prediction-score distribution drift exceeded the monitoring threshold.",
+      "owner": "ML Engineer"
+    }
+  ],
+  "alert_status": "ALERTING"
+}

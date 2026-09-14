@@ -1,0 +1,158 @@
+{
+  "scenario": "synthetic_quality_breach",
+  "slo_report": {
+    "task": "Phase 3 Task 02",
+    "model_version": "v1-mlops-baseline",
+    "scope": "production-style-go-live-rehearsal",
+    "external_production": false,
+    "data_provenance": {
+      "source_file": "/home/akash/Projects/Altrodav/phase2/task25/data/production_traffic.json",
+      "source_sha256": "503ceaaf77a235868bd3332818b1e5c31508d435b1e5601da9911b07279b60f7",
+      "event_count": 20
+    },
+    "slo_targets": {
+      "p95_latency_ms": 100.0,
+      "availability": 0.99,
+      "minimum_precision": 0.8,
+      "psi_threshold": 0.2
+    },
+    "observed": {
+      "quality": {
+        "true_positive": 0,
+        "false_positive": 20,
+        "true_negative": 0,
+        "false_negative": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "false_positive_rate": 1.0
+      },
+      "latency": {
+        "count": 20,
+        "average_ms": 58.15,
+        "p95_ms": 73.0,
+        "maximum_ms": 75.0
+      },
+      "availability": {
+        "total_events": 20,
+        "successful_events": 20,
+        "failed_events": 0,
+        "availability": 1.0
+      },
+      "score_distribution": {
+        "count": 20,
+        "mean": 0.687,
+        "minimum": 0.2,
+        "maximum": 1.0,
+        "unique_values": 20,
+        "degenerate": false
+      },
+      "psi": 0.4106
+    },
+    "slo_results": {
+      "p95_latency": {
+        "target": 100.0,
+        "actual": 73.0,
+        "pass": true
+      },
+      "availability": {
+        "target": 0.99,
+        "actual": 1.0,
+        "pass": true
+      },
+      "minimum_precision": {
+        "target": 0.8,
+        "actual": 0.0,
+        "pass": false
+      },
+      "score_distribution": {
+        "unique_values": 20,
+        "degenerate": false,
+        "pass": true
+      },
+      "prediction_drift": {
+        "psi": 0.4106,
+        "threshold": 0.2,
+        "pass": false
+      }
+    },
+    "offline_reference": {
+      "evaluation_id": "offline_eval_task01_v1",
+      "model_version": "v1-mlops-baseline",
+      "evaluation_type": "held-out-baseline-reference",
+      "dataset_type": "held-out",
+      "tuned_on_this_dataset": false,
+      "metrics": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "false_positive_rate": 0.0
+      },
+      "note": "This is a baseline reference for Task 01 offline-versus-online comparison. It is not presented as a fresh production evaluation."
+    },
+    "explainability": {
+      "method": "match_score_threshold",
+      "threshold": 0.7,
+      "example": {
+        "input": {
+          "candidate_id": "student_001",
+          "job_id": "job_001"
+        },
+        "output": {
+          "match_score": 1.0,
+          "recommended": true
+        },
+        "plain_english_reason": "The match score is at or above the recommendation threshold, so the candidate is recommended."
+      }
+    },
+    "model_unavailable_behavior": {
+      "status": "MODEL_UNAVAILABLE",
+      "fallback": "return_no_recommendation",
+      "safe": true
+    }
+  },
+  "alerts": {
+    "task": "Phase 3 Task 02",
+    "run_name": "synthetic_quality_breach",
+    "model_version": "v1-mlops-baseline",
+    "alert_count": 2,
+    "alerts": [
+      {
+        "alert": "PRECISION_SLO_BREACH",
+        "severity": "HIGH",
+        "actual": 0.0,
+        "threshold": 0.8,
+        "message": "Online recommendation precision fell below the quality floor.",
+        "owner": "ML Engineer"
+      },
+      {
+        "alert": "PREDICTION_DRIFT",
+        "severity": "MEDIUM",
+        "actual": 0.4106,
+        "threshold": 0.2,
+        "message": "Prediction-score distribution drift exceeded the monitoring threshold.",
+        "owner": "ML Engineer"
+      }
+    ],
+    "alert_status": "ALERTING"
+  },
+  "error_budget": {
+    "task": "Phase 3 Task 02",
+    "window": "synthetic_quality_breach",
+    "slo": {
+      "availability_target": 0.99,
+      "allowed_failure_rate": 0.010000000000000009
+    },
+    "traffic": {
+      "total_events": 20,
+      "failed_events": 0
+    },
+    "error_budget": {
+      "allowed_failures": 0.2,
+      "failures_consumed": 0,
+      "remaining_failures": 0.2,
+      "consumed_fraction": 0.0,
+      "remaining_fraction": 1.0
+    },
+    "status": "WITHIN_BUDGET",
+    "interpretation": "For a 99% availability SLO, the error budget permits up to 1% failed inference events in the measurement window."
+  }
+}

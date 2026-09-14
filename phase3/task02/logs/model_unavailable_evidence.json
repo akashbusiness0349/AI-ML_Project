@@ -1,0 +1,6 @@
+{
+  "recommendation": null,
+  "status": "MODEL_UNAVAILABLE",
+  "fallback_action": "return_no_recommendation",
+  "safe": true
+}
