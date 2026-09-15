@@ -1,0 +1,72 @@
+[
+  {
+    "request_id": "req_001",
+    "candidate_skills": ["python", "sql", "machine_learning"],
+    "job_skills": ["python", "sql", "machine_learning"],
+    "experience_years": 2,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_002",
+    "candidate_skills": ["python", "sql"],
+    "job_skills": ["python", "sql", "machine_learning"],
+    "experience_years": 2,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_003",
+    "candidate_skills": ["java", "spring", "sql"],
+    "job_skills": ["java", "spring", "sql"],
+    "experience_years": 3,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_004",
+    "candidate_skills": ["python", "pandas", "numpy"],
+    "job_skills": ["python", "pandas", "numpy", "sql"],
+    "experience_years": 1,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_005",
+    "candidate_skills": ["javascript", "react", "css"],
+    "job_skills": ["javascript", "react", "css"],
+    "experience_years": 2,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_006",
+    "candidate_skills": ["python", "fastapi", "docker"],
+    "job_skills": ["python", "fastapi", "docker", "kubernetes"],
+    "experience_years": 4,
+    "required_experience_years": 3
+  },
+  {
+    "request_id": "req_007",
+    "candidate_skills": ["c++", "algorithms", "data_structures"],
+    "job_skills": ["c++", "algorithms", "data_structures"],
+    "experience_years": 1,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_008",
+    "candidate_skills": ["aws", "docker", "linux"],
+    "job_skills": ["aws", "docker", "linux", "terraform"],
+    "experience_years": 5,
+    "required_experience_years": 4
+  },
+  {
+    "request_id": "req_009",
+    "candidate_skills": ["html", "css", "javascript"],
+    "job_skills": ["python", "sql", "machine_learning"],
+    "experience_years": 2,
+    "required_experience_years": 2
+  },
+  {
+    "request_id": "req_010",
+    "candidate_skills": ["python", "sql", "statistics"],
+    "job_skills": ["python", "sql", "statistics", "machine_learning"],
+    "experience_years": 3,
+    "required_experience_years": 3
+  }
+]

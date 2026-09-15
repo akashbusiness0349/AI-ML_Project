@@ -1,0 +1,13 @@
+{
+  "request_id": "req_001",
+  "score": 1.0,
+  "recommendation": true,
+  "matched_skills": [
+    "machine_learning",
+    "python",
+    "sql"
+  ],
+  "experience_years": 2.0,
+  "required_experience_years": 2.0,
+  "reason": "The recommendation score is based on skill overlap and experience features. Matched skills and the resulting score are returned so the decision can be inspected without changing the prediction policy."
+}

@@ -1,0 +1,13 @@
+{
+  "task": "phase3_task03",
+  "forced_failure": true,
+  "response": {
+    "status": "MODEL_UNAVAILABLE",
+    "recommendation": null,
+    "score": null,
+    "matched_skills": [],
+    "fallback": "return_no_recommendation",
+    "safe": true
+  },
+  "expected_safe_behavior": "MODEL_UNAVAILABLE with no recommendation"
+}

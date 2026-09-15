@@ -1,0 +1,13 @@
+{
+  "dataset_rows": 400,
+  "features_per_row": 80,
+  "epochs": 8,
+  "baseline_ms": 28.267975,
+  "optimized_ms": 26.968848,
+  "runtime_reduction_percent": 4.595755444102376,
+  "max_parameter_delta": 0.0,
+  "quality_preserved": true,
+  "measurement_unit": "milliseconds",
+  "clock": "time.perf_counter_ns",
+  "method": "same training loop; optimized path reuses precomputed feature representation"
+}

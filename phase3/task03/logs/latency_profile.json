@@ -1,0 +1,46 @@
+{
+  "task": "phase3_task03",
+  "slo_ms": 100.0,
+  "baseline": {
+    "iterations": 100,
+    "stages": {
+      "skill_matching": {
+        "avg_ms": 0.94710324,
+        "p95_ms": 1.2970174499999998,
+        "p99_ms": 1.38771455,
+        "max_ms": 1.409549
+      },
+      "response_build": {
+        "avg_ms": 0.00044467,
+        "p95_ms": 0.0011373,
+        "p99_ms": 0.0014965800000000002,
+        "max_ms": 0.001554
+      }
+    },
+    "bottleneck_by_p95": "skill_matching",
+    "measurement_unit": "milliseconds",
+    "clock": "time.perf_counter_ns"
+  },
+  "optimized": {
+    "iterations": 100,
+    "stages": {
+      "indexed_skill_matching": {
+        "avg_ms": 0.0704467,
+        "p95_ms": 0.1037865,
+        "p99_ms": 0.10892872000000013,
+        "max_ms": 0.13474
+      },
+      "response_build": {
+        "avg_ms": 0.0002139,
+        "p95_ms": 0.0005011,
+        "p99_ms": 0.00076108,
+        "max_ms": 0.000769
+      }
+    },
+    "bottleneck_by_p95": "indexed_skill_matching",
+    "measurement_unit": "milliseconds",
+    "clock": "time.perf_counter_ns"
+  },
+  "identified_bottleneck": "skill_matching",
+  "profiling_method": "runtime stage profiling with time.perf_counter_ns"
+}
