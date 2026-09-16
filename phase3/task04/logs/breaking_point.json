@@ -1,0 +1,11 @@
+{
+  "status": "BREACH_FOUND",
+  "breaking_point_concurrency": 8,
+  "reason": [
+    "p95_latency"
+  ],
+  "observed_p95_ms": 103.141079,
+  "observed_error_rate_percent": 0.0,
+  "p95_slo_ms": 100.0,
+  "error_rate_slo_percent": 1.0
+}

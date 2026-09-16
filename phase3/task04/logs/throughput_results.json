@@ -1,0 +1,66 @@
+[
+  {
+    "concurrency": 1,
+    "qps": 346.024044,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 2,
+    "qps": 284.589793,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 4,
+    "qps": 165.776482,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 8,
+    "qps": 168.290727,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 16,
+    "qps": 110.511236,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 32,
+    "qps": 102.737109,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 64,
+    "qps": 113.211976,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  },
+  {
+    "concurrency": 128,
+    "qps": 143.512437,
+    "requests_completed": 100,
+    "requests_failed": 0,
+    "total_requests": 100,
+    "error_rate_percent": 0.0
+  }
+]

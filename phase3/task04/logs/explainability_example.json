@@ -1,0 +1,29 @@
+{
+  "status": "success",
+  "request_id": "task04_req_001",
+  "student_id": "student_001",
+  "score": 1.0,
+  "decision": "MATCH",
+  "matched_skills": [
+    "machine learning",
+    "python",
+    "sql"
+  ],
+  "missing_skills": [],
+  "explanation": {
+    "method": "skill_overlap",
+    "required_skill_count": 3,
+    "matched_skill_count": 3,
+    "missing_skill_count": 0,
+    "matched_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [],
+    "threshold": 0.7,
+    "candidate_mask": 36208640,
+    "required_mask": 35684352,
+    "computation_token": "f2109815c5702634"
+  }
+}

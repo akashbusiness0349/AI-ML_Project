@@ -1,0 +1,90 @@
+[
+  {
+    "concurrency": 1,
+    "p50_ms": 2.820078,
+    "p95_ms": 3.396421,
+    "p99_ms": 3.483942,
+    "qps": 346.024044,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": true
+  },
+  {
+    "concurrency": 2,
+    "p50_ms": 6.75504,
+    "p95_ms": 10.59259,
+    "p99_ms": 10.97132,
+    "qps": 284.589793,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": true
+  },
+  {
+    "concurrency": 4,
+    "p50_ms": 18.555073,
+    "p95_ms": 63.26402,
+    "p99_ms": 68.163967,
+    "qps": 165.776482,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": true
+  },
+  {
+    "concurrency": 8,
+    "p50_ms": 29.534192,
+    "p95_ms": 103.141079,
+    "p99_ms": 106.672909,
+    "qps": 168.290727,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": false
+  },
+  {
+    "concurrency": 16,
+    "p50_ms": 149.995743,
+    "p95_ms": 196.365518,
+    "p99_ms": 200.769394,
+    "qps": 110.511236,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": false
+  },
+  {
+    "concurrency": 32,
+    "p50_ms": 336.080485,
+    "p95_ms": 363.056643,
+    "p99_ms": 368.996544,
+    "qps": 102.737109,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": false
+  },
+  {
+    "concurrency": 64,
+    "p50_ms": 582.481596,
+    "p95_ms": 599.00568,
+    "p99_ms": 672.132455,
+    "qps": 113.211976,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": false
+  },
+  {
+    "concurrency": 128,
+    "p50_ms": 672.279793,
+    "p95_ms": 679.32534,
+    "p99_ms": 679.518709,
+    "qps": 143.512437,
+    "error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0,
+    "overall_slo_pass": false
+  }
+]

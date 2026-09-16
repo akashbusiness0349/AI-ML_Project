@@ -1,0 +1,82 @@
+{
+  "strategy": "horizontal_scaling",
+  "objective": "Maintain the inference SLO while increasing concurrent request capacity.",
+  "autoscaling_signals": [
+    {
+      "signal": "request_concurrency",
+      "action": "Scale out when sustained concurrency approaches the configured operating threshold."
+    },
+    {
+      "signal": "p95_latency_ms",
+      "action": "Scale out before p95 approaches the 100.0 ms SLO."
+    },
+    {
+      "signal": "error_rate_percent",
+      "action": "Scale out or fail safe when error rate approaches 1.0%."
+    },
+    {
+      "signal": "cpu_utilization",
+      "action": "Use sustained CPU utilization as a supporting infrastructure signal."
+    }
+  ],
+  "replica_policy": {
+    "min_replicas": 1,
+    "recommended_initial_max_replicas": 4,
+    "scale_out_step": 1,
+    "scale_in_step": 1,
+    "scale_out_cooldown_seconds": 60,
+    "scale_in_cooldown_seconds": 300
+  },
+  "operating_policy": {
+    "recommended_operating_concurrency": 2,
+    "headroom_percent": 30.0
+  },
+  "batching": {
+    "enabled_by_default": false,
+    "recommendation": "Enable micro-batching only if queueing delay remains inside the p95 latency SLO."
+  },
+  "precompute": {
+    "recommended": true,
+    "examples": [
+      "cache normalized skill vocabulary",
+      "precompute reusable feature mappings",
+      "reuse immutable model artifacts"
+    ]
+  },
+  "model_cache": {
+    "recommended": true,
+    "requirement": "Load the model once per worker/replica instead of loading it for every request."
+  },
+  "rollback": {
+    "trigger": [
+      "p95 latency > 100.0 ms",
+      "error rate > 1.0%",
+      "model readiness failure"
+    ],
+    "action": [
+      "stop scale-in",
+      "preserve minimum healthy replicas",
+      "route traffic only to ready replicas",
+      "return MODEL_UNAVAILABLE safe fallback when inference is unavailable"
+    ]
+  },
+  "devops_handoff": [
+    "Expose p50/p95/p99 latency metrics.",
+    "Expose request/error counters.",
+    "Expose model readiness health check.",
+    "Configure autoscaling using concurrency and latency signals.",
+    "Load-test every material serving change.",
+    "Keep the 30% headroom policy unless production measurements justify another value."
+  ],
+  "measured_breaking_point": {
+    "status": "BREACH_FOUND",
+    "breaking_point_concurrency": 8,
+    "reason": [
+      "p95_latency"
+    ],
+    "observed_p95_ms": 103.141079,
+    "observed_error_rate_percent": 0.0,
+    "p95_slo_ms": 100.0,
+    "error_rate_slo_percent": 1.0
+  }
+}

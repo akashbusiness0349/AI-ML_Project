@@ -1,0 +1,22 @@
+{
+  "test_status": "PASSED",
+  "error_code": "MODEL_UNAVAILABLE",
+  "fallback_response": {
+    "request_id": "task04_failure_001",
+    "student_id": "failure_student",
+    "status": "MODEL_UNAVAILABLE",
+    "model_available": false,
+    "score": null,
+    "decision": "NO_RECOMMENDATION",
+    "recommendation": "Retry inference when the model service is available.",
+    "explanation": {
+      "reason": "The inference model is unavailable.",
+      "fallback": "NO_RECOMMENDATION"
+    }
+  },
+  "assertions": {
+    "no_fabricated_score": true,
+    "no_recommendation": true,
+    "model_marked_unavailable": true
+  }
+}

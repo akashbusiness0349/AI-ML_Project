@@ -1,0 +1,10 @@
+{
+  "status": "CALCULATED",
+  "headroom_percent_target": 30.0,
+  "highest_safe_tested_concurrency": 4,
+  "recommended_operating_concurrency": 2,
+  "capacity_reference_concurrency": 8,
+  "capacity_reference_type": "measured_breaking_point",
+  "formula": "recommended operating concurrency = highest safe tested concurrency \u00d7 (1 - headroom target)",
+  "evidence_boundary": "Headroom is derived from the tested local service capacity and is not a production traffic guarantee."
+}

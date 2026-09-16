@@ -1,0 +1,192 @@
+[
+  {
+    "request_id": "task04_req_001",
+    "student_id": "student_001",
+    "candidate_skills": [
+      "python",
+      "sql",
+      "machine learning",
+      "pandas"
+    ],
+    "required_skills": [
+      "python",
+      "sql",
+      "machine learning"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_002",
+    "student_id": "student_002",
+    "candidate_skills": [
+      "java",
+      "spring",
+      "sql",
+      "git"
+    ],
+    "required_skills": [
+      "java",
+      "spring",
+      "sql"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_003",
+    "student_id": "student_003",
+    "candidate_skills": [
+      "react",
+      "javascript",
+      "html",
+      "css"
+    ],
+    "required_skills": [
+      "react",
+      "javascript",
+      "typescript"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_004",
+    "student_id": "student_004",
+    "candidate_skills": [
+      "python",
+      "fastapi",
+      "docker",
+      "git"
+    ],
+    "required_skills": [
+      "python",
+      "fastapi",
+      "docker"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_005",
+    "student_id": "student_005",
+    "candidate_skills": [
+      "aws",
+      "docker",
+      "kubernetes",
+      "python"
+    ],
+    "required_skills": [
+      "aws",
+      "docker",
+      "kubernetes"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_006",
+    "student_id": "student_006",
+    "candidate_skills": [
+      "pytorch",
+      "python",
+      "numpy",
+      "deep learning"
+    ],
+    "required_skills": [
+      "python",
+      "pytorch",
+      "deep learning"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_007",
+    "student_id": "student_007",
+    "candidate_skills": [
+      "sql",
+      "postgresql",
+      "python",
+      "analytics"
+    ],
+    "required_skills": [
+      "sql",
+      "postgresql",
+      "python"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_008",
+    "student_id": "student_008",
+    "candidate_skills": [
+      "c++",
+      "data structures",
+      "algorithms",
+      "git"
+    ],
+    "required_skills": [
+      "c++",
+      "data structures",
+      "algorithms"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_009",
+    "student_id": "student_009",
+    "candidate_skills": [
+      "node.js",
+      "javascript",
+      "mongodb",
+      "express"
+    ],
+    "required_skills": [
+      "node.js",
+      "javascript",
+      "mongodb"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  },
+  {
+    "request_id": "task04_req_010",
+    "student_id": "student_010",
+    "candidate_skills": [
+      "tensorflow",
+      "python",
+      "machine learning",
+      "numpy"
+    ],
+    "required_skills": [
+      "tensorflow",
+      "python",
+      "machine learning"
+    ],
+    "metadata": {
+      "source": "task04_starter_dataset",
+      "stage": "resume_screening"
+    }
+  }
+]
