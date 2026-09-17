@@ -1,0 +1,69 @@
+{
+  "generated_at_utc": "2026-09-17T15:45:55.143391+00:00",
+  "task": "Phase 3 Task 05",
+  "comparison": "baseline_vs_optimized_model",
+  "quality_preserved": true,
+  "heldout_evaluation": {
+    "passed": true,
+    "record_count": 6,
+    "decision_consistency_percent": 100.0,
+    "score_consistency_percent": 100.0,
+    "optimized_p95_latency_ms": 1.555036,
+    "comparisons": [
+      {
+        "request_id": "heldout_001",
+        "baseline_score": 1.0,
+        "optimized_score": 1.0,
+        "baseline_decision": "MATCH",
+        "optimized_decision": "MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_002",
+        "baseline_score": 0.666667,
+        "optimized_score": 0.666667,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_003",
+        "baseline_score": 0.333333,
+        "optimized_score": 0.333333,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_004",
+        "baseline_score": 0.5,
+        "optimized_score": 0.5,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_005",
+        "baseline_score": 1.0,
+        "optimized_score": 1.0,
+        "baseline_decision": "MATCH",
+        "optimized_decision": "MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_006",
+        "baseline_score": 0.0,
+        "optimized_score": 0.0,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      }
+    ]
+  }
+}

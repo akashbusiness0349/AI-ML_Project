@@ -1,0 +1,146 @@
+{
+  "source": "task05_inference_requests",
+  "record_count": 10,
+  "records": [
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "machine learning",
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "git",
+        "java",
+        "spring",
+        "sql"
+      ],
+      "required_skills": [
+        "java",
+        "spring",
+        "sql"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "css",
+        "html",
+        "javascript",
+        "react"
+      ],
+      "required_skills": [
+        "javascript",
+        "react",
+        "typescript"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "docker",
+        "fastapi",
+        "git",
+        "python"
+      ],
+      "required_skills": [
+        "docker",
+        "fastapi",
+        "python"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "aws",
+        "docker",
+        "kubernetes",
+        "python"
+      ],
+      "required_skills": [
+        "aws",
+        "docker",
+        "kubernetes"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "deep learning",
+        "numpy",
+        "python",
+        "pytorch"
+      ],
+      "required_skills": [
+        "deep learning",
+        "python",
+        "pytorch"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "analytics",
+        "postgresql",
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "postgresql",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "algorithms",
+        "c++",
+        "data structures",
+        "git"
+      ],
+      "required_skills": [
+        "algorithms",
+        "c++",
+        "data structures"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "express",
+        "javascript",
+        "mongodb",
+        "node.js"
+      ],
+      "required_skills": [
+        "javascript",
+        "mongodb",
+        "node.js"
+      ]
+    },
+    {
+      "student_id": "task05-load-student",
+      "candidate_skills": [
+        "machine learning",
+        "numpy",
+        "python",
+        "tensorflow"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "tensorflow"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "task": "Phase 3 Task 05",
+  "record_count": 6,
+  "records": [
+    {
+      "request_id": "heldout_001",
+      "candidate_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "request_id": "heldout_002",
+      "candidate_skills": [
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "request_id": "heldout_003",
+      "candidate_skills": [
+        "python"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "request_id": "heldout_004",
+      "candidate_skills": [
+        "java",
+        "sql"
+      ],
+      "required_skills": [
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "request_id": "heldout_005",
+      "candidate_skills": [
+        "pandas",
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "python",
+        "sql"
+      ]
+    },
+    {
+      "request_id": "heldout_006",
+      "candidate_skills": [
+        "javascript",
+        "react"
+      ],
+      "required_skills": [
+        "python",
+        "sql"
+      ]
+    }
+  ]
+}

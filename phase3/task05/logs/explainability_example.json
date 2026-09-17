@@ -1,0 +1,48 @@
+{
+  "passed": true,
+  "request": {
+    "request_id": "heldout_001",
+    "candidate_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "required_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ]
+  },
+  "response": {
+    "request_id": "heldout_001",
+    "status": "success",
+    "model_available": true,
+    "decision": "MATCH",
+    "score": 1.0,
+    "threshold": 0.7,
+    "matched_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [],
+    "explanation": "3 of 3 required skills matched.",
+    "explanation_method": "skill_overlap",
+    "computation_token": "2eaf7358e4dde383",
+    "model_latency_ms": 1.826056,
+    "request_latency_ms": 1.842335
+  },
+  "explainability": {
+    "method": "skill_overlap",
+    "decision": "MATCH",
+    "score": 1.0,
+    "threshold": 0.7,
+    "matched_skills": [
+      "machine learning",
+      "python",
+      "sql"
+    ],
+    "missing_skills": [],
+    "plain_english_reason": "3 of 3 required skills matched."
+  }
+}

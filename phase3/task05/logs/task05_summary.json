@@ -1,0 +1,105 @@
+{
+  "task": "Phase 3 Task 05",
+  "final_status": "NOT_READY",
+  "checks": {
+    "normal_service": true,
+    "integration": true,
+    "real_logged_data": true,
+    "heldout_validation": true,
+    "baseline_quality": true,
+    "load_test": false,
+    "slo": false,
+    "headroom": false,
+    "fallback": true
+  },
+  "normal_inference": {
+    "passed": true,
+    "request": {
+      "request_id": "heldout_001",
+      "candidate_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "required_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ]
+    },
+    "response": {
+      "request_id": "heldout_001",
+      "status": "success",
+      "model_available": true,
+      "decision": "MATCH",
+      "score": 1.0,
+      "threshold": 0.7,
+      "matched_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "missing_skills": [],
+      "explanation": "3 of 3 required skills matched.",
+      "explanation_method": "skill_overlap",
+      "computation_token": "2eaf7358e4dde383",
+      "model_latency_ms": 1.826056,
+      "request_latency_ms": 1.842335
+    },
+    "explainability": {
+      "method": "skill_overlap",
+      "decision": "MATCH",
+      "score": 1.0,
+      "threshold": 0.7,
+      "matched_skills": [
+        "machine learning",
+        "python",
+        "sql"
+      ],
+      "missing_skills": [],
+      "plain_english_reason": "3 of 3 required skills matched."
+    }
+  },
+  "fallback_test": {
+    "passed": true,
+    "method": "real_http_failure_injection",
+    "url": "http://127.0.0.1:8002",
+    "configuration": {
+      "TASK05_MODEL_AVAILABLE": "false"
+    },
+    "failure_service_started": true,
+    "health": {
+      "status": "ok",
+      "model_available": false,
+      "service": "task05-reliability-service"
+    },
+    "response": {
+      "request_id": "heldout_001",
+      "status": "degraded",
+      "error_code": "MODEL_UNAVAILABLE",
+      "model_available": false,
+      "decision": null,
+      "score": null,
+      "recommendation": "NO_RECOMMENDATION",
+      "explanation": "The intelligence model is unavailable. No prediction or fabricated score was generated."
+    },
+    "checks": {
+      "health_model_unavailable": true,
+      "status_degraded": true,
+      "error_code": true,
+      "model_available_false": true,
+      "decision_none": true,
+      "score_none": true,
+      "safe_recommendation": true
+    }
+  },
+  "evidence": {
+    "integration": "/home/akash/Projects/Altrodav/phase3/task05/logs/integration_results.json",
+    "load_test": "/home/akash/Projects/Altrodav/phase3/task05/logs/load_test_results.json",
+    "slo": "/home/akash/Projects/Altrodav/phase3/task05/logs/slo_results.json",
+    "headroom": "/home/akash/Projects/Altrodav/phase3/task05/logs/headroom_analysis.json",
+    "baseline": "/home/akash/Projects/Altrodav/phase3/task05/logs/baseline_comparison.json",
+    "fallback": "/home/akash/Projects/Altrodav/phase3/task05/logs/fallback_test.json",
+    "signoff": "/home/akash/Projects/Altrodav/phase3/task05/logs/reliability_signoff.json"
+  }
+}

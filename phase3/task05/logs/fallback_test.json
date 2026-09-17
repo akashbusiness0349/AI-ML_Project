@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "method": "real_http_failure_injection",
+  "url": "http://127.0.0.1:8002",
+  "configuration": {
+    "TASK05_MODEL_AVAILABLE": "false"
+  },
+  "failure_service_started": true,
+  "health": {
+    "status": "ok",
+    "model_available": false,
+    "service": "task05-reliability-service"
+  },
+  "response": {
+    "request_id": "heldout_001",
+    "status": "degraded",
+    "error_code": "MODEL_UNAVAILABLE",
+    "model_available": false,
+    "decision": null,
+    "score": null,
+    "recommendation": "NO_RECOMMENDATION",
+    "explanation": "The intelligence model is unavailable. No prediction or fabricated score was generated."
+  },
+  "checks": {
+    "health_model_unavailable": true,
+    "status_degraded": true,
+    "error_code": true,
+    "model_available_false": true,
+    "decision_none": true,
+    "score_none": true,
+    "safe_recommendation": true
+  }
+}

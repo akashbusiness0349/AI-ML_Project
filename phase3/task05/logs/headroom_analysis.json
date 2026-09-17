@@ -1,0 +1,9 @@
+{
+  "status": "CALCULATED",
+  "capacity_reference_concurrency": 8,
+  "headroom_target": 0.3,
+  "target_operating_concurrency": 5.6,
+  "recommended_operating_concurrency": 5.0,
+  "headroom_reserved_percent": 30.0,
+  "headroom_policy": "Operate below the highest tested SLO-safe concurrency and reserve 30% capacity headroom."
+}

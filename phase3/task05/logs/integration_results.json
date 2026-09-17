@@ -1,0 +1,104 @@
+{
+  "generated_at_utc": "2026-09-17T15:45:55.143660+00:00",
+  "task": "Phase 3 Task 05",
+  "status": "PASS",
+  "good_definition": "Matching stays correct, fast and observable under sustained realistic load.",
+  "real_logged_data_available": true,
+  "logged_data_sources": {
+    "task01": {
+      "path": "/home/akash/Projects/Altrodav/phase3/task01/data/live_interaction_logs.json",
+      "records": 20,
+      "source_type": "production-style-go-live-rehearsal",
+      "environment": "production-rehearsal",
+      "external_production": false
+    },
+    "task04": {
+      "path": "/home/akash/Projects/Altrodav/phase3/task04/data/inference_requests.json",
+      "records": 10
+    }
+  },
+  "task01_observed_metrics": {
+    "event_count": 20,
+    "score_count": 20,
+    "mean_match_score": 0.525,
+    "p95_match_score": 0.9525,
+    "mean_latency_ms": 61.05,
+    "p95_latency_ms": 74.05,
+    "recommended_count": 8,
+    "relevant_count": 10,
+    "error_count": 0,
+    "recommendation_rate_percent": 40.0,
+    "relevance_rate_percent": 50.0,
+    "error_rate_percent": 0.0
+  },
+  "heldout_validation": {
+    "passed": true,
+    "record_count": 6,
+    "decision_consistency_percent": 100.0,
+    "score_consistency_percent": 100.0,
+    "optimized_p95_latency_ms": 1.555036,
+    "comparisons": [
+      {
+        "request_id": "heldout_001",
+        "baseline_score": 1.0,
+        "optimized_score": 1.0,
+        "baseline_decision": "MATCH",
+        "optimized_decision": "MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_002",
+        "baseline_score": 0.666667,
+        "optimized_score": 0.666667,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_003",
+        "baseline_score": 0.333333,
+        "optimized_score": 0.333333,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_004",
+        "baseline_score": 0.5,
+        "optimized_score": 0.5,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_005",
+        "baseline_score": 1.0,
+        "optimized_score": 1.0,
+        "baseline_decision": "MATCH",
+        "optimized_decision": "MATCH",
+        "decision_same": true,
+        "score_same": true
+      },
+      {
+        "request_id": "heldout_006",
+        "baseline_score": 0.0,
+        "optimized_score": 0.0,
+        "baseline_decision": "NO_MATCH",
+        "optimized_decision": "NO_MATCH",
+        "decision_same": true,
+        "score_same": true
+      }
+    ]
+  },
+  "baseline_comparison": "/home/akash/Projects/Altrodav/phase3/task05/logs/baseline_comparison.json",
+  "experiment_log": "/home/akash/Projects/Altrodav/phase3/task05/logs/experiment_log.csv",
+  "integrated_evidence": {
+    "task02": "phase3/task02/logs",
+    "task03": "phase3/task03/logs",
+    "task04": "phase3/task04/logs"
+  }
+}

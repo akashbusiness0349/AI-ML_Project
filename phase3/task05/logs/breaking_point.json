@@ -1,0 +1,5 @@
+{
+  "breaking_point_concurrency": 16,
+  "highest_safe_tested_concurrency": 8,
+  "reason": "First tested concurrency level where one or more reliability SLOs were breached."
+}
