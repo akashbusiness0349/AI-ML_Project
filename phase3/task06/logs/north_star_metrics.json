@@ -1,0 +1,136 @@
+{
+  "north_star_metrics": {
+    "impressions": 360,
+    "clicks": 117,
+    "applications": 28,
+    "shortlists": 3,
+    "click_through_rate": 0.325,
+    "apply_through_rate": 0.077778,
+    "shortlist_through_rate": 0.008333,
+    "click_to_apply_rate": 0.239316,
+    "apply_to_shortlist_rate": 0.107143
+  },
+  "position_metrics": [
+    {
+      "position": 1,
+      "impressions": 30,
+      "clicks": 21,
+      "applications": 10,
+      "shortlists": 1,
+      "click_rate": 0.7,
+      "apply_rate": 0.333333,
+      "shortlist_rate": 0.033333
+    },
+    {
+      "position": 2,
+      "impressions": 30,
+      "clicks": 20,
+      "applications": 8,
+      "shortlists": 1,
+      "click_rate": 0.666667,
+      "apply_rate": 0.266667,
+      "shortlist_rate": 0.033333
+    },
+    {
+      "position": 3,
+      "impressions": 30,
+      "clicks": 16,
+      "applications": 5,
+      "shortlists": 1,
+      "click_rate": 0.533333,
+      "apply_rate": 0.166667,
+      "shortlist_rate": 0.033333
+    },
+    {
+      "position": 4,
+      "impressions": 30,
+      "clicks": 13,
+      "applications": 3,
+      "shortlists": 0,
+      "click_rate": 0.433333,
+      "apply_rate": 0.1,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 5,
+      "impressions": 30,
+      "clicks": 9,
+      "applications": 2,
+      "shortlists": 0,
+      "click_rate": 0.3,
+      "apply_rate": 0.066667,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 6,
+      "impressions": 30,
+      "clicks": 5,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.166667,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 7,
+      "impressions": 30,
+      "clicks": 5,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.166667,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 8,
+      "impressions": 30,
+      "clicks": 4,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.133333,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 9,
+      "impressions": 30,
+      "clicks": 6,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.2,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 10,
+      "impressions": 30,
+      "clicks": 6,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.2,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 11,
+      "impressions": 30,
+      "clicks": 6,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.2,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    },
+    {
+      "position": 12,
+      "impressions": 30,
+      "clicks": 6,
+      "applications": 0,
+      "shortlists": 0,
+      "click_rate": 0.2,
+      "apply_rate": 0.0,
+      "shortlist_rate": 0.0
+    }
+  ],
+  "model_version": "skill-ranker-v1.0.0"
+}

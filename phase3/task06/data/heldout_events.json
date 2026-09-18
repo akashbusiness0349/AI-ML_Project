@@ -1,0 +1,2706 @@
+{
+  "source": "task06_generated_from_upstream_logged_evidence",
+  "record_count": 180,
+  "records": [
+    {
+      "event_id": "evt_2a44990f2a694662915f5fe4f42d32f1",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584168+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_84694582432746a580861adcf40878a5",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584205+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_2284c489cb77440d925f224b564c906b",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584220+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_c659daf019ba43b796f29fff0f4fc84f",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584231+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_0a7472ad631346f8a3ba88b113237008",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584243+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_700d5cc7ad25490582138c0d79c8500b",
+      "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_1",
+      "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+      "user_id": "cand_001",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584254+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_fb88398469954ac6b4119154344e4680",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584267+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_7dfeab2f4832489eae2cfed4390fdc98",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584277+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_896364da7e2847d29b9771bc24c025e7",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584289+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_934ac0a01a164590b28929d7a44da8ac",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584300+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_9d048fad9ff54f929c3c20a6efb9e006",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584310+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_23094541bb814b659be7c79242c33fda",
+      "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_2",
+      "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+      "user_id": "cand_002",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584322+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_ed56a06634b74107a3a43afa0de0ff24",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584332+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_cb069d0c09a146c28df28800d771017e",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584342+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_157750e9138944438e8f7850c7ad7934",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584352+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_96b836a531604589aa5d591f2ac8b3fe",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584369+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_8ef0e1a8fb0240749f0d29c5392a96e1",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584380+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_595ac065fe7742c398349c7858afb89b",
+      "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_3",
+      "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+      "user_id": "cand_003",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584390+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_1374daebd85b4f4187d3965afd64c077",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584400+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_0bc1e7555f4d45e880cf1d89b56353f1",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584410+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_8a282243363b4686a264abd277f66b58",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584419+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_5d7b04d53e9241f5ab5acc6ac2c93450",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584432+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_7edb91948aea459bb33ea2296efc8608",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584443+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_97ef65a3373c492384852e9b17679f36",
+      "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_4",
+      "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+      "user_id": "cand_004",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584452+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_b526e70373b4489c9cb7082aba74dd4d",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584462+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_56c214bb21984548a363ef89ba37c363",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584473+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_ada0d9e4e3534e7fbc36bfdaa6c96d21",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584486+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_94df694d460b4111a2f46f53756237f1",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584496+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_f19b9fe5995641418fdde0d586e0d445",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584506+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_56acaf53af494854b786782070481527",
+      "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_5",
+      "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+      "user_id": "cand_005",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584517+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_634eb7586c8642d6a356336fe8498cd3",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584527+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_c556345593994966809c8c38845f10ee",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584540+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_3c5bace279414006969349d920f32367",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584550+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_6f8bfc9ccfce431e84414f871c1dd886",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584561+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_302ed095f81047a78f4ff2709378195e",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584572+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_72f5ea2aa1f144e08b9516fc776d0aec",
+      "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_6",
+      "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+      "user_id": "cand_006",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584582+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_5f45ee398de44e77860d997a06c444a7",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584593+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_8d33db12901e4465a7d58cc69ded9951",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584615+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_0671734a1fb24313884d190139d30853",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584624+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_162e38d0436c42779fde8a672b47494b",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584635+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_3e702987d8a84eaa9f0c4d36d98b2f84",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584645+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_7ccb148803f44b2cbba9013c5925a486",
+      "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_7",
+      "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+      "user_id": "cand_007",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584656+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_510bc14cae29481dbac75612cc6e6c95",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584666+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_bc93cd071acb4370bff791df6ca895a6",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584676+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_3d0de0f20bb2419eb0dc1089c967e106",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584686+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_a450c044131a49b5b34fa5fcf9fad0ed",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584695+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_75fdde97ff914fbd8de04332c4f177ce",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584706+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_2d1bd99dab474ebda136f673b8fe1585",
+      "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_8",
+      "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+      "user_id": "cand_008",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584717+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_a6c89d42c5c847fea231bd43a1338a7b",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584727+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_f84ae4bf6daa41afb95abc353bcad2ba",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584738+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_515066473a874e35ad62690e0d468386",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584749+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_ea074bf1915546e983a16cf729749366",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584759+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_7c9a665ffc3b4949b6e401d2ec642a84",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584770+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_5b2a4bcdfb88428c8b6f4140cfc82e20",
+      "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_9",
+      "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+      "user_id": "cand_009",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584781+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_e8df27ca57b047b78dc303218220ae27",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584791+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_45570ca404fa45e8a50b81200b07ec36",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584801+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_8351af468140464ba7e5f85e0640f0bc",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584812+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_5be831713c8049ab8c59d897e41c6a9f",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584821+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_4a9f29f03341413d86190a536800390e",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584831+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_04a3eca4541145f5bd7a679599b1180f",
+      "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_10",
+      "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+      "user_id": "cand_010",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584841+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_f5c735d5bd634c4a8b6bcad84f7f5960",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584852+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_6bddd90d8b774060aea8ada24dce21cc",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584864+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_d6a70460d4664a1eb108a14e5812622b",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584874+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_2a4f1cb069184482ab911c6ca541e6cc",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584883+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_94581a8aa26e4dfda00dc5e80aafa401",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584893+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_a5dc54aeabab4015a22673516b0ef5a0",
+      "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_11",
+      "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+      "user_id": "cand_011",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584903+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_7e63276f1f5341f3b372ee81dc3df201",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584914+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_f501aa79eca94a35946114d3744b955e",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584924+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_af885f35289a481eb601b16163a1a1e1",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584936+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_aa7cb8db5533470fb496764c25299760",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584945+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_1652882aa3d0444aa9be01208e009a84",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584956+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_127295fb3e8a4c4789c9d2cd4cccdd8e",
+      "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_12",
+      "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+      "user_id": "cand_012",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584967+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_dff144c3dc4246eca111b54d8e473a14",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584981+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_3efde4a1c3904ff49eff7ba9c62b5dd0",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.584991+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_25b4e87fdfcf4d44892435b06873830f",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585001+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_68ced533269f43b796a336571da2b956",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585011+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_cabf2d877d7a43b1be43863559b9ee73",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585022+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_5d63649641474011a50066dc2ca7c342",
+      "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_13",
+      "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+      "user_id": "cand_013",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585032+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_15d714b7cb234e66a38e96c3a9ad2f20",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585042+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_919480de7e0249a98b267a861a198183",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585051+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_c2b5cc7ccd6a4ad198f97c9bc28f37ab",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585061+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_b9934551e69f4ce3954231cba5d6d6d8",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585072+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_9e7876ca181846b5bbd33995d32bbcac",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585082+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_9c0409a5ada9476c9f4109c923907d86",
+      "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_14",
+      "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+      "user_id": "cand_014",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585091+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_2a2bc9ce653d46c2bee5cba229796335",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585102+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_08c9d9d18a544afc9a11f5340a802123",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585114+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_3bf7599138644e57aec79e21fdb0ac35",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585125+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_be1034e9fddc44f19b9558af214a52fc",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585135+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_102d4426c61a4a14bf37d44bcfd7ea49",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585146+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_2f66b69cc7114be1b81567a911d503f5",
+      "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_15",
+      "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+      "user_id": "cand_015",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585155+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_7300160242e04fbba1b90565b4e8e365",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585166+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_bb4e62b818664662bb24046938d0db3b",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585176+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_5a07e917a7274a73b3b069312744c91b",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585186+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_20c7565ac0564db498e962fc7cd9d30c",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585197+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_113c714131d54a6caac9ad9b7822bc8e",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585206+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_7639bdb8b3ea4f8483fa314ea89f135d",
+      "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_16",
+      "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+      "user_id": "cand_016",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585216+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_c13a9417cfa24e40b9cfc5df88cf85e9",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585227+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_f38a3205c0ac4283979b11023d46c40e",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585237+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_f1d4c17499e54442905f452c6db8ffe7",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585250+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_7a11aebdc1a1432283902711d3bcf892",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585259+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_84e8ab49e9024cef8a4bca4d8f16952a",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585270+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_097d3ce449044388afc3be428195b24d",
+      "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_17",
+      "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+      "user_id": "cand_017",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585281+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_bc99da3d45494b769b5257856858667a",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585291+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_7719b50a0d3e4dd9a4db5c307607037e",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585302+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_d1a00651a5654ac2acd3ac5aa2d23d95",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585313+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_dc478cdc9f6f4fdfb511f15ead65e9f3",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585323+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_5e9164f0f6934fecb56b7b9fa6435f9a",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585334+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_a775c4daeb3c48b8bca759e253b63f29",
+      "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_18",
+      "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+      "user_id": "cand_018",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585344+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_a6566f6d16fd4e30b5f55ccbb54e3d1d",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585354+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_7b6c60951acd4dc19c131e9f1b465152",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585364+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_60f240637e9e4e468e63e2a09fb9544c",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585374+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_66eae75d4e0c477196adf8e93f2e38a9",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585385+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_5ce2cff0736843b7b2bffb197d80c105",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585396+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_49531f90d22b4c96b3e8b1ec9195e5f4",
+      "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_19",
+      "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+      "user_id": "cand_019",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585405+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_2b64c36544594be396dc2be3664e89c2",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585416+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_e217092945794c06a99495e91406d16d",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585426+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_9010b2c5b9c3488085ee3c325a5d913a",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585438+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_6c3ec100af1643b9bcc9ebae1400461d",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585449+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_9c7b351119da4f4080e0dfc0b67ef11a",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585459+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_637aa7b0b98a45de9203b0a79a260893",
+      "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_20",
+      "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+      "user_id": "cand_020",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585468+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_106b9f2593fa4b56908e88164264984c",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585479+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_53bf920434de460cafaa5d3cb58b92a2",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585490+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_14faa0cc63c34bcc840cfd3b63e6e7a9",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585500+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_b717801616354f91968bfa42f228de5a",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585511+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_d2487d29d60f47b7a10260f40accc963",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585521+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_d26bedbcd2834b1bb0e211825c2760e3",
+      "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_21",
+      "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585531+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_52fd451cb88a4137891271e8244c908d",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585542+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_e91d8e3f2e5c47e9b9cae54bb383656d",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585552+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_0fda63fe13fd4dd7b34524331d6d5597",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585562+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_b71829ee854d4465a4488dfbcd9c49d8",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585571+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_27271f249c2e45bb922eed679130462e",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585581+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_0e5356cd810c4796801c020a6244052a",
+      "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_22",
+      "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585592+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_c264490047b54915949e745a827168d6",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585603+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_2afe4358fef44886b085a7a9142d12ca",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585613+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_822b112404ea43c1962ad15e9f2b9c29",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585623+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_2fa474b9349b43a79d05597c82ce202b",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585634+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_03e44f33aa7e439c822f536cde368df1",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585648+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_6178f6ddb8d84864988e0a686f104a08",
+      "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_23",
+      "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585658+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_5e97494e4d1e46378e3cb9530cd24761",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585668+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_433665f6261643ef9299b5d63b69e05b",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585678+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_65c4255e5c6940db91ee31fd5d8d3781",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585687+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_20620cf39c6b4c1fa259c541f7eb4ce7",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585698+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_6719a653854a4676a9312bbdb8f9448f",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585708+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_40bbefb3b5be4659b2a8494cd2354e58",
+      "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_24",
+      "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585717+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_1302f14917e74faaaa595d4a58637dd3",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585727+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_53e246f71c6a4056b8084d67a9bcce12",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585737+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_11fbd0b4d878411aba6ce7455e9cab0b",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585747+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_ffb8cc7992744c3ca0fcf35a1857c9f2",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585757+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_9be07601d01d42fe9b1dfd239082fbe4",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585768+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_09751bc7363440cc85bfe68b928ff6d2",
+      "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_25",
+      "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585779+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_14ade0af82fc4e37b706a6b6e0394138",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585789+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_614e8b8750db4ebca7ff8953c36b0d1d",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585818+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_b444271a3f8e482dba35cbf3eb9ab3b0",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585829+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_6b507ac6ff7645f98722af7f3acd287e",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585838+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_22482f8013fb49f0865bc59d521d0732",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585848+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_9cec8bde32384374a0ab3cff8b2430ec",
+      "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_26",
+      "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585858+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_6ea1c0e6ce734081b6ec167760c3d0df",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585869+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_fe6919005dd141daa979c20158cf2e5e",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585881+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_3b7d60d28a084061b2e51d9b5487dc9a",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585890+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_6ef3283762d248b48329e2d62d386c2d",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585900+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_64ffed0b79be4985a5159d281ad364fe",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585910+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_3a01b68b451d418190b0818b1a9d93d4",
+      "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_27",
+      "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585923+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_07ed5e86a79e435ba29a839786f2086d",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585933+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_253d400ef1f64ff98ef21622e6b2e4ef",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585943+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_54aa1806e8f04c359926d405f7c77400",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585953+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_7af860dae6144c39933ddda32c907d5e",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585963+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_22c5857dbf0745ab843f188c91779c3b",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585975+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_543cd36bee214e5bad3530ffe9785ab3",
+      "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_28",
+      "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585985+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_9ac66a1d91be43329e061e86919b2b04",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.585996+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_213c0029e82043a3943874ae882369f6",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586006+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_d8c7441b70374df2a920267d5374c505",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586015+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_afbd70734b66442a90c8e427ec7250e4",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586026+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_e375b279da574a319cdf5dace5711085",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586036+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_dba56e89928a4338a9db7f1234cf9449",
+      "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_29",
+      "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586045+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    },
+    {
+      "event_id": "evt_6394e1b304134acdb6bce1dfc860145a",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_1",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 1,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586056+00:00",
+      "metadata": {
+        "ranking_score": 0.15
+      }
+    },
+    {
+      "event_id": "evt_0c1af15b594147cd9271fe72b7502f77",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_3",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 3,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586066+00:00",
+      "metadata": {
+        "ranking_score": 0.05
+      }
+    },
+    {
+      "event_id": "evt_f7346654a9e347f784391fd7d4257140",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_5",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 5,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586077+00:00",
+      "metadata": {
+        "ranking_score": 0.03
+      }
+    },
+    {
+      "event_id": "evt_9c81d81c25a340f1912505efeb1bfa9c",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_7",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_001",
+      "event_type": "impression",
+      "position": 7,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586087+00:00",
+      "metadata": {
+        "ranking_score": 0.021429
+      }
+    },
+    {
+      "event_id": "evt_e32896fc6a3d4afdb48c5e2ba3999fbf",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_9",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 9,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586098+00:00",
+      "metadata": {
+        "ranking_score": 0.016667
+      }
+    },
+    {
+      "event_id": "evt_31d215c22fca4bf595da8bd1bbfce0c6",
+      "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_11",
+      "request_id": "task06_request_30",
+      "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+      "user_id": "task05-load-student",
+      "item_id": "job_002",
+      "event_type": "impression",
+      "position": 11,
+      "model_version": "skill-ranker-v1.0.0",
+      "timestamp": "2026-09-18T10:59:58.586109+00:00",
+      "metadata": {
+        "ranking_score": 0.013636
+      }
+    }
+  ]
+}

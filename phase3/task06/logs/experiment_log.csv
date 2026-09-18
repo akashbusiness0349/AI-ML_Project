@@ -1,0 +1,8 @@
+category,metric,value
+event_volume,total_events,508
+event_volume,impressions,360
+event_volume,clicks,117
+event_volume,applications,28
+event_volume,shortlists,3
+attribution,join_rate,1.0
+attribution,orphaned_outcomes,0

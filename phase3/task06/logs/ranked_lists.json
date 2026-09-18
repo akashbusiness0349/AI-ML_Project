@@ -1,0 +1,4844 @@
+[
+  {
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "request_id": "task06_request_1",
+    "user_id": "cand_001",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583366+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "request_id": "task06_request_2",
+    "user_id": "cand_002",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583402+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "request_id": "task06_request_3",
+    "user_id": "cand_003",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583425+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "request_id": "task06_request_4",
+    "user_id": "cand_004",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583448+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "request_id": "task06_request_5",
+    "user_id": "cand_005",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583469+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "request_id": "task06_request_6",
+    "user_id": "cand_006",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583489+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "request_id": "task06_request_7",
+    "user_id": "cand_007",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583511+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "request_id": "task06_request_8",
+    "user_id": "cand_008",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583532+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "request_id": "task06_request_9",
+    "user_id": "cand_009",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583554+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "request_id": "task06_request_10",
+    "user_id": "cand_010",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583574+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "request_id": "task06_request_11",
+    "user_id": "cand_011",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583595+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "request_id": "task06_request_12",
+    "user_id": "cand_012",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583617+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "request_id": "task06_request_13",
+    "user_id": "cand_013",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583637+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "request_id": "task06_request_14",
+    "user_id": "cand_014",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583673+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "request_id": "task06_request_15",
+    "user_id": "cand_015",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583692+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "request_id": "task06_request_16",
+    "user_id": "cand_016",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583713+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "request_id": "task06_request_17",
+    "user_id": "cand_017",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583736+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "request_id": "task06_request_18",
+    "user_id": "cand_018",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583757+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "request_id": "task06_request_19",
+    "user_id": "cand_019",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583779+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "request_id": "task06_request_20",
+    "user_id": "cand_020",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583799+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "request_id": "task06_request_21",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583891+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "pandas",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "request_id": "task06_request_22",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583924+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "git",
+            "java",
+            "spring",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "request_id": "task06_request_23",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583957+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "css",
+            "html",
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "request_id": "task06_request_24",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.583983+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "docker",
+            "fastapi",
+            "git",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "request_id": "task06_request_25",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584012+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "aws",
+            "docker",
+            "kubernetes",
+            "python"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "request_id": "task06_request_26",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584040+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "deep learning",
+            "numpy",
+            "python",
+            "pytorch"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "request_id": "task06_request_27",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584070+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "analytics",
+            "postgresql",
+            "python",
+            "sql"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "request_id": "task06_request_28",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584100+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "algorithms",
+            "c++",
+            "data structures",
+            "git"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "request_id": "task06_request_29",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584126+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "express",
+            "javascript",
+            "mongodb",
+            "node.js"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  },
+  {
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "request_id": "task06_request_30",
+    "user_id": "task05-load-student",
+    "model_version": "skill-ranker-v1.0.0",
+    "created_at": "2026-09-18T10:59:58.584155+00:00",
+    "results": [
+      {
+        "item_id": "job_001",
+        "position": 1,
+        "score": 0.15,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 2,
+        "score": 0.075,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 3,
+        "score": 0.05,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 4,
+        "score": 0.0375,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 5,
+        "score": 0.03,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 6,
+        "score": 0.025,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 7,
+        "score": 0.021429,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_001",
+        "position": 8,
+        "score": 0.01875,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 9,
+        "score": 0.016667,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 10,
+        "score": 0.015,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 11,
+        "score": 0.013636,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      },
+      {
+        "item_id": "job_002",
+        "position": 12,
+        "score": 0.0125,
+        "model_version": "skill-ranker-v1.0.0",
+        "explanation": {
+          "query_skills": [
+            "machine learning",
+            "numpy",
+            "python",
+            "tensorflow"
+          ],
+          "item_skills": [],
+          "reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior."
+        }
+      }
+    ]
+  }
+]

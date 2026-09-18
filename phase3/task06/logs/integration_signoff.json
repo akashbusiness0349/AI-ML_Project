@@ -1,0 +1,62 @@
+{
+  "task": "Phase 3 Task 06",
+  "integration_status": "PASS",
+  "all_checks_passed": true,
+  "checks": {
+    "events_present": true,
+    "ranked_lists_present": true,
+    "events_valid": true,
+    "positions_valid": true,
+    "model_versions_present": true,
+    "outcomes_joinable": true,
+    "journeys_reconstructable": true,
+    "fallback_safe": true
+  },
+  "event_validation": {
+    "total_events": 508,
+    "valid_events": 508,
+    "invalid_events": 0,
+    "validation_rate": 1.0,
+    "all_valid": true
+  },
+  "ranked_list_validation": {
+    "ranked_lists": 30,
+    "valid_ranked_lists": 30,
+    "invalid_ranked_lists": 0,
+    "all_positions_contiguous": true,
+    "model_version_present_on_every_result": true
+  },
+  "joinability": {
+    "impression_count": 360,
+    "outcome_count": 148,
+    "joined_outcomes": 148,
+    "orphaned_outcomes": 0,
+    "join_rate": 1.0,
+    "joinable": true,
+    "orphaned_event_ids": []
+  },
+  "journey_count": 360,
+  "north_star_metrics": {
+    "impressions": 360,
+    "clicks": 117,
+    "applications": 28,
+    "shortlists": 3,
+    "click_through_rate": 0.325,
+    "apply_through_rate": 0.077778,
+    "shortlist_through_rate": 0.008333,
+    "click_to_apply_rate": 0.239316,
+    "apply_to_shortlist_rate": 0.107143
+  },
+  "failure_path": {
+    "response": {
+      "status": "degraded",
+      "error_code": "MODEL_UNAVAILABLE",
+      "model_available": false,
+      "request_id": "integration_failure_request",
+      "recommendation": "NO_RANKING",
+      "results": [],
+      "explanation": "The ranking model is unavailable. No fabricated ranking or recommendation was returned."
+    },
+    "safe": true
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "forced_model_unavailable": true,
+  "response": {
+    "status": "degraded",
+    "error_code": "MODEL_UNAVAILABLE",
+    "model_available": false,
+    "request_id": "task06_failure_request",
+    "recommendation": "NO_RANKING",
+    "results": [],
+    "explanation": "The ranking model is unavailable. No fabricated ranking or recommendation was returned."
+  },
+  "safe_degradation": true,
+  "no_fabricated_ranking": true
+}

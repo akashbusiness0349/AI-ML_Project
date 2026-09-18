@@ -1,0 +1,14 @@
+{
+  "input": {
+    "request_id": "task06_request_1",
+    "user_id": "cand_001"
+  },
+  "output": {
+    "item_id": "job_001",
+    "position": 1,
+    "score": 0.15,
+    "model_version": "skill-ranker-v1.0.0"
+  },
+  "plain_english_reason": "The item is ranked using skill overlap with the request and a deterministic tie-breaking prior.",
+  "model_unavailable_behavior": "The ranking model is unavailable. No fabricated ranking or recommendation was returned."
+}

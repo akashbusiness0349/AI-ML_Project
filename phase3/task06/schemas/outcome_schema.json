@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RankingOutcome",
+  "type": "object",
+  "required": [
+    "event_id",
+    "impression_id",
+    "request_id",
+    "ranked_list_id",
+    "item_id",
+    "event_type",
+    "position",
+    "model_version",
+    "timestamp"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "impression_id": {
+      "type": "string"
+    },
+    "request_id": {
+      "type": "string"
+    },
+    "ranked_list_id": {
+      "type": "string"
+    },
+    "item_id": {
+      "type": "string"
+    },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "click",
+        "apply",
+        "shortlist"
+      ]
+    },
+    "position": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "model_version": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "source_record_count": 30,
+  "ranking_request_count": 30,
+  "ranked_list_count": 30,
+  "total_events": 508,
+  "event_counts": {
+    "impression": 360,
+    "click": 117,
+    "apply": 28,
+    "shortlist": 3
+  },
+  "real_volume": true,
+  "source_files": [
+    "/home/akash/Projects/Altrodav/phase3/task01/data/live_interaction_logs.json",
+    "/home/akash/Projects/Altrodav/phase3/task05/data/inference_requests.json"
+  ]
+}

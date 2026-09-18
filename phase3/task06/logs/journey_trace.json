@@ -1,0 +1,6323 @@
+[
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_1_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_1",
+    "ranked_list_id": "rank_task06_request_1_skill-ranker-v1_0_0",
+    "user_id": "cand_001",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_2_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_2",
+    "ranked_list_id": "rank_task06_request_2_skill-ranker-v1_0_0",
+    "user_id": "cand_002",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_3_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_3",
+    "ranked_list_id": "rank_task06_request_3_skill-ranker-v1_0_0",
+    "user_id": "cand_003",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_4_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_4",
+    "ranked_list_id": "rank_task06_request_4_skill-ranker-v1_0_0",
+    "user_id": "cand_004",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_5_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_5",
+    "ranked_list_id": "rank_task06_request_5_skill-ranker-v1_0_0",
+    "user_id": "cand_005",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_6_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_6",
+    "ranked_list_id": "rank_task06_request_6_skill-ranker-v1_0_0",
+    "user_id": "cand_006",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_7_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_7",
+    "ranked_list_id": "rank_task06_request_7_skill-ranker-v1_0_0",
+    "user_id": "cand_007",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_8_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_8",
+    "ranked_list_id": "rank_task06_request_8_skill-ranker-v1_0_0",
+    "user_id": "cand_008",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_9_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_9",
+    "ranked_list_id": "rank_task06_request_9_skill-ranker-v1_0_0",
+    "user_id": "cand_009",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "outcomes": [
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "outcomes": [
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "outcomes": [
+      "click",
+      "apply",
+      "shortlist"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply",
+      "shortlist"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_10_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_10",
+    "ranked_list_id": "rank_task06_request_10_skill-ranker-v1_0_0",
+    "user_id": "cand_010",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_11_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_11",
+    "ranked_list_id": "rank_task06_request_11_skill-ranker-v1_0_0",
+    "user_id": "cand_011",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_12_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_12",
+    "ranked_list_id": "rank_task06_request_12_skill-ranker-v1_0_0",
+    "user_id": "cand_012",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_13_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_13",
+    "ranked_list_id": "rank_task06_request_13_skill-ranker-v1_0_0",
+    "user_id": "cand_013",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_14_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_14",
+    "ranked_list_id": "rank_task06_request_14_skill-ranker-v1_0_0",
+    "user_id": "cand_014",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_15_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_15",
+    "ranked_list_id": "rank_task06_request_15_skill-ranker-v1_0_0",
+    "user_id": "cand_015",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_16_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_16",
+    "ranked_list_id": "rank_task06_request_16_skill-ranker-v1_0_0",
+    "user_id": "cand_016",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_17_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_17",
+    "ranked_list_id": "rank_task06_request_17_skill-ranker-v1_0_0",
+    "user_id": "cand_017",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_18_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_18",
+    "ranked_list_id": "rank_task06_request_18_skill-ranker-v1_0_0",
+    "user_id": "cand_018",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_19_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_19",
+    "ranked_list_id": "rank_task06_request_19_skill-ranker-v1_0_0",
+    "user_id": "cand_019",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_20_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_20",
+    "ranked_list_id": "rank_task06_request_20_skill-ranker-v1_0_0",
+    "user_id": "cand_020",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_21_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_21",
+    "ranked_list_id": "rank_task06_request_21_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_22_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_22",
+    "ranked_list_id": "rank_task06_request_22_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_23_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_23",
+    "ranked_list_id": "rank_task06_request_23_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_24_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_24",
+    "ranked_list_id": "rank_task06_request_24_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_25_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_25",
+    "ranked_list_id": "rank_task06_request_25_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_26_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_26",
+    "ranked_list_id": "rank_task06_request_26_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_27_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_27",
+    "ranked_list_id": "rank_task06_request_27_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_28_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_28",
+    "ranked_list_id": "rank_task06_request_28_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click",
+      "apply"
+    ],
+    "outcomes": [
+      "click",
+      "apply"
+    ],
+    "complete_journey": [
+      "impression",
+      "click",
+      "apply"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_29_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_29",
+    "ranked_list_id": "rank_task06_request_29_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_1",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 1,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_2",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 2,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_3",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 3,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_4",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 4,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_5",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 5,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_6",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 6,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_7",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 7,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_8",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_001",
+    "position": 8,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression"
+    ],
+    "outcomes": [],
+    "complete_journey": [
+      "impression"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_9",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 9,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_10",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 10,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_11",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 11,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  },
+  {
+    "impression_id": "imp_rank_task06_request_30_skill-ranker-v1_0_0_12",
+    "request_id": "task06_request_30",
+    "ranked_list_id": "rank_task06_request_30_skill-ranker-v1_0_0",
+    "user_id": "task05-load-student",
+    "item_id": "job_002",
+    "position": 12,
+    "model_version": "skill-ranker-v1.0.0",
+    "events": [
+      "impression",
+      "click"
+    ],
+    "outcomes": [
+      "click"
+    ],
+    "complete_journey": [
+      "impression",
+      "click"
+    ]
+  }
+]

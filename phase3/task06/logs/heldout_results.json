@@ -1,0 +1,12 @@
+{
+  "heldout_event_count": 180,
+  "validation": {
+    "total_events": 180,
+    "valid_events": 180,
+    "invalid_events": 0,
+    "validation_rate": 1.0,
+    "all_valid": true
+  },
+  "not_used_for_ranking_tuning": true,
+  "model_version": "skill-ranker-v1.0.0"
+}
