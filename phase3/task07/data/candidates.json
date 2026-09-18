@@ -1,0 +1,58 @@
+[
+  {
+    "candidate_id": "cold_001",
+    "skills": ["python", "sql", "machine learning"],
+    "experience_level": "entry",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_002",
+    "skills": ["react", "javascript", "css"],
+    "experience_level": "entry",
+    "location": "Bangalore",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_003",
+    "skills": ["java", "spring", "sql"],
+    "experience_level": "entry",
+    "location": "Pune",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_004",
+    "skills": ["python", "fastapi", "postgresql"],
+    "experience_level": "entry",
+    "location": "Hyderabad",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_005",
+    "skills": ["data analysis", "sql", "excel"],
+    "experience_level": "entry",
+    "location": "Mumbai",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_006",
+    "skills": ["aws", "docker", "python"],
+    "experience_level": "entry",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_007",
+    "skills": ["react", "typescript", "node"],
+    "experience_level": "entry",
+    "location": "Chennai",
+    "history": []
+  },
+  {
+    "candidate_id": "cold_008",
+    "skills": ["machine learning", "python", "pandas"],
+    "experience_level": "entry",
+    "location": "Bangalore",
+    "history": []
+  }
+]

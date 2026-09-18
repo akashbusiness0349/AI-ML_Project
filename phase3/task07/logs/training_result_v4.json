@@ -1,0 +1,11 @@
+{
+  "status": "TRAINING_COMPLETE",
+  "model_path": "models/cold-start-trained-v4.0.0.json",
+  "model_version": "cold-start-trained-v4.0.0",
+  "training_examples": 96,
+  "positive_examples": 46,
+  "negative_examples": 50,
+  "training_candidate_count": 8,
+  "production_data": false,
+  "heldout_data_excluded": true
+}

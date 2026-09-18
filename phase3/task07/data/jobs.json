@@ -1,0 +1,110 @@
+[
+  {
+    "job_id": "job_001",
+    "title": "Junior Python Developer",
+    "company": "TechNova",
+    "skills": ["python", "sql", "fastapi"],
+    "location": "Delhi",
+    "experience_level": "entry",
+    "popularity": 92
+  },
+  {
+    "job_id": "job_002",
+    "title": "Machine Learning Engineer",
+    "company": "DataWorks",
+    "skills": ["python", "machine learning", "pandas"],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 88
+  },
+  {
+    "job_id": "job_003",
+    "title": "Frontend React Developer",
+    "company": "WebCraft",
+    "skills": ["react", "javascript", "css"],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 90
+  },
+  {
+    "job_id": "job_004",
+    "title": "Java Backend Developer",
+    "company": "CloudCore",
+    "skills": ["java", "spring", "sql"],
+    "location": "Pune",
+    "experience_level": "entry",
+    "popularity": 86
+  },
+  {
+    "job_id": "job_005",
+    "title": "Data Analyst",
+    "company": "InsightLabs",
+    "skills": ["data analysis", "sql", "excel"],
+    "location": "Mumbai",
+    "experience_level": "entry",
+    "popularity": 94
+  },
+  {
+    "job_id": "job_006",
+    "title": "Cloud Engineer",
+    "company": "InfraTech",
+    "skills": ["aws", "docker", "python"],
+    "location": "Delhi",
+    "experience_level": "entry",
+    "popularity": 82
+  },
+  {
+    "job_id": "job_007",
+    "title": "Full Stack Developer",
+    "company": "BuildStack",
+    "skills": ["react", "node", "typescript"],
+    "location": "Chennai",
+    "experience_level": "entry",
+    "popularity": 87
+  },
+  {
+    "job_id": "job_008",
+    "title": "AI Engineer",
+    "company": "VisionAI",
+    "skills": ["machine learning", "python", "pandas"],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 84
+  },
+  {
+    "job_id": "job_009",
+    "title": "Python API Engineer",
+    "company": "APIWorks",
+    "skills": ["python", "fastapi", "postgresql"],
+    "location": "Hyderabad",
+    "experience_level": "entry",
+    "popularity": 80
+  },
+  {
+    "job_id": "job_010",
+    "title": "Software Engineer",
+    "company": "GlobalSoft",
+    "skills": ["java", "python", "sql"],
+    "location": "Pune",
+    "experience_level": "entry",
+    "popularity": 96
+  },
+  {
+    "job_id": "job_011",
+    "title": "Data Science Associate",
+    "company": "AnalyticsHub",
+    "skills": ["python", "machine learning", "sql"],
+    "location": "Delhi",
+    "experience_level": "entry",
+    "popularity": 78
+  },
+  {
+    "job_id": "job_012",
+    "title": "Frontend Engineer",
+    "company": "PixelLabs",
+    "skills": ["react", "javascript", "typescript"],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 76
+  }
+]

@@ -1,0 +1,881 @@
+{
+  "dataset_type": "local_training",
+  "production_data": false,
+  "source": "candidate_job_catalog",
+  "excluded_heldout_candidate_ids": [
+    "hold_001",
+    "hold_002",
+    "hold_003",
+    "hold_004",
+    "hold_005",
+    "hold_006",
+    "hold_007",
+    "hold_008"
+  ],
+  "records": [
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_002",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_004",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_005",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_006",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_008",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_009",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_001",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_001",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_002",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_003",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_004",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_005",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_006",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_007",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_008",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_009",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_010",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_011",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_002",
+      "job_id": "job_012",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_002",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_004",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_005",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_006",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_008",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_009",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_003",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_002",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_004",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_005",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_006",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_008",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_009",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_004",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_002",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_004",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_005",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_006",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_008",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_009",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_005",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_002",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_004",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_005",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_006",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_008",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_009",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_006",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_001",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_002",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_003",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_004",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_005",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_006",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_007",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_008",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_009",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_010",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_011",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_007",
+      "job_id": "job_012",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 76
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_001",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 92
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_002",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 88
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_003",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 90
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_004",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 86
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_005",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 94
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_006",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 82
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_007",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 87
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_008",
+      "label": 1,
+      "skill_overlap": 3,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 84
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_009",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 80
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_010",
+      "label": 1,
+      "skill_overlap": 1,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 96
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_011",
+      "label": 1,
+      "skill_overlap": 2,
+      "location_match": 0,
+      "experience_match": 1,
+      "job_popularity": 78
+    },
+    {
+      "candidate_id": "cold_008",
+      "job_id": "job_012",
+      "label": 0,
+      "skill_overlap": 0,
+      "location_match": 1,
+      "experience_match": 1,
+      "job_popularity": 76
+    }
+  ]
+}

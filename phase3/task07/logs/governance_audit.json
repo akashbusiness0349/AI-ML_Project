@@ -1,0 +1,47 @@
+{
+  "candidate_schema": {
+    "candidate_count": 8,
+    "forbidden_protected_fields_observed": [],
+    "unexpected_personal_fields": [
+      "experience_level"
+    ],
+    "protected_attributes_used_for_ranking": false,
+    "passed": true
+  },
+  "event_schema": {
+    "event_count": 7,
+    "prohibited_fields_observed": [],
+    "passed": true
+  },
+  "fairness_metric_status": "not_computable_without_valid_group_labels",
+  "fairness_metric_warning": "No protected-group outcome comparison is fabricated. A real fairness audit requires legally and ethically appropriate group labels and sufficient sample size.",
+  "dpdp_controls": {
+    "purpose_limitation": {
+      "status": "implemented",
+      "description": "Candidate data is processed only for recommendation and activation measurement."
+    },
+    "data_minimization": {
+      "status": "implemented",
+      "description": "Only fields required for ranking and experiment measurement are retained."
+    },
+    "protected_attribute_exclusion": {
+      "status": "implemented",
+      "description": "Sensitive/protected attributes are excluded from the recommendation feature schema."
+    },
+    "model_version_logging": {
+      "status": "implemented"
+    },
+    "event_provenance": {
+      "status": "implemented"
+    },
+    "deletion_ready_identifier": {
+      "status": "implemented",
+      "description": "candidate_id is retained as the stable deletion and audit reference."
+    },
+    "consent_notice_required_for_live_capture": {
+      "status": "required",
+      "description": "Live user capture must use an appropriate notice and lawful processing basis before production use."
+    }
+  },
+  "overall_schema_status": true
+}

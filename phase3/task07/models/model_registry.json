@@ -1,0 +1,11 @@
+{
+  "active_model": "cold-start-trained-v4.0.0",
+  "models": [
+    {
+      "model_version": "cold-start-trained-v4.0.0",
+      "path": "models/cold-start-trained-v4.0.0.json",
+      "status": "active",
+      "production_data": false
+    }
+  ]
+}

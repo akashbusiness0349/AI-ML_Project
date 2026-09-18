@@ -1,0 +1,88 @@
+{
+  "task": "PHASE_3_TASK_07",
+  "title": "Activation & Onboarding Funnel Optimization",
+  "status": "READY_FOR_REVIEW",
+  "training": {
+    "status": "TRAINING_COMPLETE",
+    "model_version": "cold-start-trained-v4.0.0",
+    "training_examples": 96,
+    "positive_examples": 46,
+    "negative_examples": 50,
+    "training_candidate_count": 8,
+    "production_data": false,
+    "heldout_data_excluded": true
+  },
+  "offline_evaluation": {
+    "evaluation_type": "true_heldout_offline_evaluation",
+    "training_dataset": "data/training_data.json",
+    "evaluation_dataset": "data/heldout_data.json",
+    "candidate_overlap": 0,
+    "heldout_records": 8,
+    "model_version": "cold-start-trained-v4.0.0",
+    "model_mean_ndcg_at_5": 0.974656,
+    "baseline_mean_ndcg_at_5": 0.347224,
+    "mean_ndcg_delta": 0.627432,
+    "recommendation_validation": {
+      "valid": true,
+      "error_count": 0,
+      "errors": []
+    },
+    "production_data": false
+  },
+  "governance": {
+    "overall_schema_status": true,
+    "candidate_schema_passed": true,
+    "event_schema_passed": true,
+    "protected_attributes_used_for_ranking": false,
+    "fairness_metric_status": "not_computable_without_valid_group_labels",
+    "dpdp_controls": {
+      "purpose_limitation": {
+        "status": "implemented",
+        "description": "Candidate data is processed only for recommendation and activation measurement."
+      },
+      "data_minimization": {
+        "status": "implemented",
+        "description": "Only fields required for ranking and experiment measurement are retained."
+      },
+      "protected_attribute_exclusion": {
+        "status": "implemented",
+        "description": "Sensitive/protected attributes are excluded from the recommendation feature schema."
+      },
+      "model_version_logging": {
+        "status": "implemented"
+      },
+      "event_provenance": {
+        "status": "implemented"
+      },
+      "deletion_ready_identifier": {
+        "status": "implemented",
+        "description": "candidate_id is retained as the stable deletion and audit reference."
+      },
+      "consent_notice_required_for_live_capture": {
+        "status": "required",
+        "description": "Live user capture must use an appropriate notice and lawful processing basis before production use."
+      }
+    }
+  },
+  "integration": {
+    "status": "PASS",
+    "events": 7,
+    "impressions": 5,
+    "clicks": 1,
+    "applications": 1,
+    "fallback_recommendations": 5
+  },
+  "live_experiment": {
+    "randomized_assignment": true,
+    "local_live_capture": true,
+    "production_data": false,
+    "production_activation_lift_measured": false
+  },
+  "limitations": [
+    "Evaluation uses a local held-out dataset, not production traffic.",
+    "Live experiment events are locally captured demonstration evidence.",
+    "Production A/B activation lift has not been measured.",
+    "Production-scale statistical significance has not been established.",
+    "Fairness group metrics are not computed because valid group labels and sufficient sample size are unavailable."
+  ]
+}

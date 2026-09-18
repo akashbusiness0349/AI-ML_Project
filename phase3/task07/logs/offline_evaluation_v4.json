@@ -1,0 +1,173 @@
+{
+  "task": "PHASE_3_TASK_07",
+  "evaluation_type": "true_heldout_offline_evaluation",
+  "production_data": false,
+  "training_dataset": "data/training_data.json",
+  "evaluation_dataset": "data/heldout_data.json",
+  "training_and_evaluation_candidate_overlap": 0,
+  "heldout_records": 8,
+  "model_version": "cold-start-trained-v4.0.0",
+  "model_mean_ndcg_at_5": 0.974656,
+  "baseline_mean_ndcg_at_5": 0.347224,
+  "mean_ndcg_delta": 0.627432,
+  "recommendation_validation": {
+    "valid": true,
+    "error_count": 0,
+    "errors": []
+  },
+  "rows": [
+    {
+      "candidate_id": "hold_001",
+      "relevant_jobs": [
+        "job_001",
+        "job_002",
+        "job_010"
+      ],
+      "model": {
+        "precision_at_k": 0.6,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 0.946902
+      },
+      "baseline": {
+        "precision_at_k": 0.6,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 0.88546
+      },
+      "ndcg_delta": 0.061442
+    },
+    {
+      "candidate_id": "hold_002",
+      "relevant_jobs": [
+        "job_003",
+        "job_007",
+        "job_012"
+      ],
+      "model": {
+        "precision_at_k": 0.6,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.333333,
+        "ndcg_at_k": 0.202107
+      },
+      "ndcg_delta": 0.797893
+    },
+    {
+      "candidate_id": "hold_003",
+      "relevant_jobs": [
+        "job_004",
+        "job_010"
+      ],
+      "model": {
+        "precision_at_k": 0.4,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.5,
+        "ndcg_at_k": 0.613147
+      },
+      "ndcg_delta": 0.386853
+    },
+    {
+      "candidate_id": "hold_004",
+      "relevant_jobs": [
+        "job_001",
+        "job_009"
+      ],
+      "model": {
+        "precision_at_k": 0.4,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.5,
+        "ndcg_at_k": 0.306574
+      },
+      "ndcg_delta": 0.693426
+    },
+    {
+      "candidate_id": "hold_005",
+      "relevant_jobs": [
+        "job_005",
+        "job_011"
+      ],
+      "model": {
+        "precision_at_k": 0.4,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 0.850345
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.5,
+        "ndcg_at_k": 0.386853
+      },
+      "ndcg_delta": 0.463492
+    },
+    {
+      "candidate_id": "hold_006",
+      "relevant_jobs": [
+        "job_006"
+      ],
+      "model": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.0,
+        "recall_at_k": 0.0,
+        "ndcg_at_k": 0.0
+      },
+      "ndcg_delta": 1.0
+    },
+    {
+      "candidate_id": "hold_007",
+      "relevant_jobs": [
+        "job_003",
+        "job_007",
+        "job_012"
+      ],
+      "model": {
+        "precision_at_k": 0.6,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.333333,
+        "ndcg_at_k": 0.202107
+      },
+      "ndcg_delta": 0.797893
+    },
+    {
+      "candidate_id": "hold_008",
+      "relevant_jobs": [
+        "job_002",
+        "job_008",
+        "job_011"
+      ],
+      "model": {
+        "precision_at_k": 0.6,
+        "recall_at_k": 1.0,
+        "ndcg_at_k": 1.0
+      },
+      "baseline": {
+        "precision_at_k": 0.2,
+        "recall_at_k": 0.333333,
+        "ndcg_at_k": 0.181542
+      },
+      "ndcg_delta": 0.818458
+    }
+  ],
+  "limitations": [
+    "Held-out records provide skills and relevance labels but not location or experience fields.",
+    "Location and experience features are therefore neutral during this evaluation.",
+    "Evaluation is local/offline and is not production traffic.",
+    "Production A/B activation lift has not been measured."
+  ]
+}

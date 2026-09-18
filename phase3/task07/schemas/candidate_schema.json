@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Candidate",
+  "type": "object",
+  "required": [
+    "candidate_id",
+    "skills",
+    "experience_level",
+    "location",
+    "history"
+  ],
+  "properties": {
+    "candidate_id": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "experience_level": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    },
+    "history": {
+      "type": "array"
+    }
+  }
+}

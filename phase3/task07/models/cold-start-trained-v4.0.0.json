@@ -1,0 +1,29 @@
+{
+  "model_version": "cold-start-trained-v4.0.0",
+  "model_type": "logistic_regression",
+  "task": "cold_start_job_ranking",
+  "feature_names": [
+    "skill_overlap",
+    "location_match",
+    "experience_match",
+    "job_popularity"
+  ],
+  "weights": [
+    7.636865565265732,
+    1.1684349959373872,
+    -0.03871513021837147,
+    0.046529213121377366
+  ],
+  "bias": -0.03871513021837147,
+  "training": {
+    "dataset": "data/training_data.json",
+    "dataset_type": "local_training",
+    "source": "candidate_job_catalog",
+    "candidate_count": 8,
+    "training_examples": 96,
+    "positive_examples": 46,
+    "negative_examples": 50,
+    "production_data": false,
+    "heldout_data_excluded": true
+  }
+}

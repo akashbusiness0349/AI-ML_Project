@@ -1,0 +1,10 @@
+[
+  {"candidate_id":"hold_001","skills":["python","sql"],"relevant_jobs":["job_001","job_002","job_010"]},
+  {"candidate_id":"hold_002","skills":["react","javascript"],"relevant_jobs":["job_003","job_007","job_012"]},
+  {"candidate_id":"hold_003","skills":["java","spring"],"relevant_jobs":["job_004","job_010"]},
+  {"candidate_id":"hold_004","skills":["python","fastapi"],"relevant_jobs":["job_001","job_009"]},
+  {"candidate_id":"hold_005","skills":["data analysis","sql"],"relevant_jobs":["job_005","job_011"]},
+  {"candidate_id":"hold_006","skills":["aws","docker"],"relevant_jobs":["job_006"]},
+  {"candidate_id":"hold_007","skills":["react","typescript"],"relevant_jobs":["job_003","job_007","job_012"]},
+  {"candidate_id":"hold_008","skills":["machine learning","python"],"relevant_jobs":["job_002","job_008","job_011"]}
+]

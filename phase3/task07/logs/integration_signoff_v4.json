@@ -1,0 +1,29 @@
+{
+  "task": "PHASE_3_TASK_07",
+  "title": "Activation & Onboarding Funnel Optimization",
+  "integration_status": "PASS",
+  "events": 7,
+  "impressions": 5,
+  "clicks": 1,
+  "applications": 1,
+  "fallback_recommendations": 5,
+  "heldout_records": 8,
+  "model_version": "cold-start-trained-v4.0.0",
+  "checks": {
+    "events_available": true,
+    "event_schema_valid": true,
+    "cold_start_candidates_available": true,
+    "jobs_available": true,
+    "impressions_logged": true,
+    "clicks_logged": true,
+    "applications_logged": true,
+    "fallback_non_empty": true,
+    "heldout_evaluation_passed": true,
+    "governance_audit_available": true
+  },
+  "production_data": false,
+  "notes": [
+    "Integration evidence uses locally captured demonstration events.",
+    "Production A/B activation lift is not measured."
+  ]
+}

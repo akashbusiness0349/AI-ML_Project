@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Job",
+  "type": "object",
+  "required": [
+    "job_id",
+    "title",
+    "company",
+    "skills",
+    "location",
+    "experience_level",
+    "popularity"
+  ],
+  "properties": {
+    "job_id": {
+      "type": "string"
+    },
+    "title": {
+      "type": "string"
+    },
+    "company": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "location": {
+      "type": "string"
+    },
+    "experience_level": {
+      "type": "string"
+    },
+    "popularity": {
+      "type": "number",
+      "minimum": 0
+    }
+  }
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "event_id": "34c69d9a-1cd2-4131-9938-930ff43ca749",
+    "timestamp": "2026-09-18T15:54:56.451481+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_011",
+    "event_type": "impression",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "position": 1,
+      "strategy": "trained_cold_start_model",
+      "model_available": true
+    }
+  },
+  {
+    "event_id": "4ae31cb8-df56-4580-a1f3-f5f10de51250",
+    "timestamp": "2026-09-18T15:54:56.451815+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_008",
+    "event_type": "impression",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "position": 2,
+      "strategy": "trained_cold_start_model",
+      "model_available": true
+    }
+  },
+  {
+    "event_id": "40137bd6-8a7f-4001-bd42-174243b6d744",
+    "timestamp": "2026-09-18T15:54:56.452192+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_002",
+    "event_type": "impression",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "position": 3,
+      "strategy": "trained_cold_start_model",
+      "model_available": true
+    }
+  },
+  {
+    "event_id": "9edf6ffd-b1dc-42b1-8b12-83c103d007e9",
+    "timestamp": "2026-09-18T15:54:56.453771+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_001",
+    "event_type": "impression",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "position": 4,
+      "strategy": "trained_cold_start_model",
+      "model_available": true
+    }
+  },
+  {
+    "event_id": "465ae680-e9ce-4a45-8400-3a9bdc713f6a",
+    "timestamp": "2026-09-18T15:54:56.454213+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_010",
+    "event_type": "impression",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "position": 5,
+      "strategy": "trained_cold_start_model",
+      "model_available": true
+    }
+  },
+  {
+    "event_id": "240e0012-ebcc-42ff-b9f4-039ee1ddc662",
+    "timestamp": "2026-09-18T15:55:38.836344+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_011",
+    "event_type": "click",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "ui": "task07_live_demo",
+      "position": 1
+    }
+  },
+  {
+    "event_id": "54999a40-f868-49aa-87bb-7cc8f49e1828",
+    "timestamp": "2026-09-18T15:55:50.732552+00:00",
+    "candidate_id": "cold_001",
+    "job_id": "job_011",
+    "event_type": "apply",
+    "experiment_id": "task07_activation_v1",
+    "experiment_group": "treatment",
+    "session_id": "b7b765c5-1ca2-43c9-86b1-a85940dd08a7",
+    "source": "task07_live_api",
+    "production_data": false,
+    "metadata": {
+      "ui": "task07_live_demo",
+      "position": 1
+    }
+  }
+]
