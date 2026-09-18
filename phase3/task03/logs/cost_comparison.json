@@ -1,11 +1,11 @@
 {
   "requests": 100000,
   "cpu_rate_per_second": 0.02,
-  "baseline_avg_ms": 0.6308716112,
-  "optimized_avg_ms": 0.0694622082,
-  "baseline_cost_proxy": 1.2617432224,
-  "optimized_cost_proxy": 0.1389244164,
-  "cost_reduction_percent": 88.98948582139022,
+  "baseline_avg_ms": 0.6173946856,
+  "optimized_avg_ms": 0.0680157264,
+  "baseline_cost_proxy": 1.2347893712,
+  "optimized_cost_proxy": 0.1360314528,
+  "cost_reduction_percent": 88.98342859334778,
   "cost_unit": "illustrative CPU-time cost units",
   "not_cloud_billing": true
 }

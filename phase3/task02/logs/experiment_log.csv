@@ -1,4 +1,4 @@
 timestamp_utc,scenario,model_version,events,p95_latency_ms,availability,precision,recall,fpr,psi,alert_count,error_budget_status
-2026-09-14T02:02:35.470315+00:00,normal_traffic,v1-mlops-baseline,20,73.0,1.0,0.8462,0.9167,0.25,0.4106,1,WITHIN_BUDGET
-2026-09-14T02:02:35.470315+00:00,synthetic_latency_breach,v1-mlops-baseline,20,150.0,1.0,0.8462,0.9167,0.25,0.4106,2,WITHIN_BUDGET
-2026-09-14T02:02:35.470315+00:00,synthetic_quality_breach,v1-mlops-baseline,20,73.0,1.0,0.0,0.0,1.0,0.4106,2,WITHIN_BUDGET
+2026-09-14T02:54:13.107697+00:00,normal_traffic,v1-mlops-baseline,20,73.0,1.0,0.8462,0.9167,0.25,0.4106,1,WITHIN_BUDGET
+2026-09-14T02:54:13.107697+00:00,synthetic_latency_breach,v1-mlops-baseline,20,150.0,1.0,0.8462,0.9167,0.25,0.4106,2,WITHIN_BUDGET
+2026-09-14T02:54:13.107697+00:00,synthetic_quality_breach,v1-mlops-baseline,20,73.0,1.0,0.0,0.0,1.0,0.4106,2,WITHIN_BUDGET
