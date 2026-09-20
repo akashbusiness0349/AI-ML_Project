@@ -1,0 +1,117 @@
+{
+  "model": {
+    "threshold": 0.8988503094389131,
+    "precision": 0.06382978723404255,
+    "recall": 0.25,
+    "average_precision": 0.06273802592247794,
+    "positive_rate": 0.045004787743376955,
+    "confusion_matrix": [
+      [
+        2965,
+        132
+      ],
+      [
+        27,
+        9
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.990975935828877,
+        "recall": 0.9573781078463028,
+        "f1-score": 0.9738873378223025,
+        "support": 3097.0
+      },
+      "1": {
+        "precision": 0.06382978723404255,
+        "recall": 0.25,
+        "f1-score": 0.1016949152542373,
+        "support": 36.0
+      },
+      "accuracy": 0.949249920204277,
+      "macro avg": {
+        "precision": 0.5274028615314598,
+        "recall": 0.6036890539231514,
+        "f1-score": 0.5377911265382699,
+        "support": 3133.0
+      },
+      "weighted avg": {
+        "precision": 0.9803224850311067,
+        "recall": 0.949249920204277,
+        "f1-score": 0.9638653374353091,
+        "support": 3133.0
+      }
+    }
+  },
+  "baseline": {
+    "threshold": 0.5,
+    "precision": 0.0,
+    "recall": 0.0,
+    "average_precision": 0.01149058410469199,
+    "positive_rate": 0.0,
+    "confusion_matrix": [
+      [
+        3097,
+        0
+      ],
+      [
+        36,
+        0
+      ]
+    ],
+    "classification_report": {
+      "0": {
+        "precision": 0.988509415895308,
+        "recall": 1.0,
+        "f1-score": 0.9942215088282504,
+        "support": 3097.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 36.0
+      },
+      "accuracy": 0.988509415895308,
+      "macro avg": {
+        "precision": 0.494254707947654,
+        "recall": 0.5,
+        "f1-score": 0.4971107544141252,
+        "support": 3133.0
+      },
+      "weighted avg": {
+        "precision": 0.9771508653136831,
+        "recall": 0.988509415895308,
+        "f1-score": 0.9827973229623658,
+        "support": 3133.0
+      }
+    }
+  },
+  "model_lift": {
+    "top_fraction": 0.1,
+    "top_k": 314,
+    "population_positive_rate": 0.01149058410469199,
+    "top_k_precision": 0.06369426751592357,
+    "lift": 5.543170559094126
+  },
+  "baseline_lift": {
+    "top_fraction": 0.1,
+    "top_k": 314,
+    "population_positive_rate": 0.01149058410469199,
+    "top_k_precision": 0.006369426751592357,
+    "lift": 0.5543170559094126
+  },
+  "offline_online_gap_note": "Offline predictive metrics do not establish online intervention effect. Online effect requires a controlled growth experiment.",
+  "evaluation_protocol": {
+    "threshold_selected_on": "validation_only",
+    "final_metrics_on": "held_out_test_only",
+    "data_split": "chronological_60_20_20",
+    "baseline": "non_ml_recency",
+    "target_leakage_policy": "Future activity is used only for label construction and never as a prediction feature."
+  },
+  "model_version": "task08-logistic-regression-v1",
+  "data_source_type": "synthetic_demo",
+  "validation_rows": 3132,
+  "holdout_rows": 3133,
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE"
+}

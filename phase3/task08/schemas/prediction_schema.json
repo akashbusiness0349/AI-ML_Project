@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 08 Churn Prediction",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "entity_type",
+    "prediction_time",
+    "churn_probability",
+    "model_prediction"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "company"
+      ]
+    },
+    "prediction_time": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "churn_probability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "model_prediction": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    }
+  }
+}

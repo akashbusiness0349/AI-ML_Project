@@ -1,0 +1,44 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 08 Behavioral Features",
+  "type": "object",
+  "required": [
+    "event_count_14d",
+    "active_days_14d",
+    "days_since_last_activity",
+    "event_type_diversity_14d",
+    "recent_3d_events",
+    "recent_7d_events",
+    "activity_rate_14d"
+  ],
+  "properties": {
+    "event_count_14d": {
+      "type": "number",
+      "minimum": 0
+    },
+    "active_days_14d": {
+      "type": "number",
+      "minimum": 0
+    },
+    "days_since_last_activity": {
+      "type": "number",
+      "minimum": 0
+    },
+    "event_type_diversity_14d": {
+      "type": "number",
+      "minimum": 0
+    },
+    "recent_3d_events": {
+      "type": "number",
+      "minimum": 0
+    },
+    "recent_7d_events": {
+      "type": "number",
+      "minimum": 0
+    },
+    "activity_rate_14d": {
+      "type": "number",
+      "minimum": 0
+    }
+  }
+}

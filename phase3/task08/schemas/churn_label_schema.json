@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 08 Churn Label",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "entity_type",
+    "prediction_time",
+    "future_horizon_end",
+    "churn_label"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "company"
+      ]
+    },
+    "prediction_time": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "future_horizon_end": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "churn_label": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ],
+      "description": "1 means no qualifying activity during the future horizon."
+    }
+  }
+}

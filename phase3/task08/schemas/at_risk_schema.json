@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 08 Growth At-Risk Handoff",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "entity_type",
+    "prediction_time",
+    "risk_probability",
+    "risk_segment",
+    "priority_rank",
+    "reason",
+    "recommended_action"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "company"
+      ]
+    },
+    "prediction_time": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "risk_probability": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "risk_segment": {
+      "type": "string",
+      "enum": [
+        "HIGH",
+        "MEDIUM"
+      ]
+    },
+    "priority_rank": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "reason": {
+      "type": "string"
+    },
+    "recommended_action": {
+      "type": "string"
+    }
+  }
+}

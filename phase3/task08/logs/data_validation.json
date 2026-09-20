@@ -1,0 +1,22 @@
+{
+  "rows": 17260,
+  "entities": 100,
+  "candidate_event_rows": 12110,
+  "company_event_rows": 5150,
+  "unique_candidate_entities": 70,
+  "unique_company_entities": 30,
+  "first_event": "2026-01-01T08:02:48+00:00",
+  "last_event": "2026-04-30T21:51:39+00:00",
+  "event_types": [
+    "application_progress",
+    "application_started",
+    "document_upload",
+    "login",
+    "notification_open",
+    "profile_view",
+    "resume_view",
+    "search"
+  ],
+  "data_source_type": "synthetic_demo",
+  "data_path": "/home/akash/Projects/Altrodav/phase3/task08/data/demo_events.json"
+}

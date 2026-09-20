@@ -1,0 +1,8 @@
+{
+  "failure_injected": true,
+  "model_status": "MODEL_UNAVAILABLE",
+  "fallback_source": "NON_ML_FALLBACK",
+  "fallback_rows_generated": 15662,
+  "designed_behavior": "Use deterministic recency-based risk when ML model is unavailable.",
+  "system_crash": false
+}

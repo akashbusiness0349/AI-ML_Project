@@ -1,0 +1,20 @@
+{
+  "status": "success",
+  "data_source_type": "synthetic_demo",
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "model_version": "task08-logistic-regression-v1",
+  "operating_threshold": 0.8988503094389131,
+  "entities_scored": 100,
+  "at_risk_entities": 65,
+  "fallback_available": true,
+  "sample_worked_example": {
+    "entity_id": "candidate_015",
+    "entity_type": "candidate",
+    "prediction_time": "2026-04-16T10:18:02+00:00",
+    "risk_probability": 0.975826,
+    "risk_segment": "HIGH",
+    "priority_rank": 1,
+    "reason": "recent behavioral activity remains present, but the model identifies elevated disengagement risk",
+    "recommended_action": "Prioritize for immediate growth intervention using a re-engagement message or human follow-up."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 08 Experiment Evidence",
+  "type": "object",
+  "required": [
+    "model_version",
+    "evaluation_protocol",
+    "model",
+    "baseline"
+  ],
+  "properties": {
+    "model_version": {
+      "type": "string"
+    },
+    "evaluation_protocol": {
+      "type": "object"
+    },
+    "model": {
+      "type": "object"
+    },
+    "baseline": {
+      "type": "object"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "selected_on": "validation",
+  "threshold": 0.8988503094389131,
+  "selection_method": "maximum_validation_F1",
+  "data_source_type": "synthetic_demo"
+}

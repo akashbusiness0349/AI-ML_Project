@@ -1,0 +1,44 @@
+{
+  "status": "success",
+  "metadata": {
+    "model_version": "task08-logistic-regression-v1",
+    "data_source_type": "synthetic_demo",
+    "data_path": "/home/akash/Projects/Altrodav/phase3/task08/data/demo_events.json",
+    "label_definition": "churn=1 when no qualifying activity occurs during the complete future 14-day horizon.",
+    "lookback_days": 14,
+    "horizon_days": 14,
+    "split": {
+      "train_fraction": 0.6,
+      "validation_fraction": 0.2,
+      "holdout_fraction": 0.2,
+      "method": "chronological"
+    },
+    "feature_columns": [
+      "event_count_14d",
+      "active_days_14d",
+      "days_since_last_activity",
+      "event_type_diversity_14d",
+      "recent_3d_events",
+      "recent_7d_events",
+      "activity_rate_14d"
+    ],
+    "event_rows": 17260,
+    "labeled_rows": 15662,
+    "train_rows": 9397,
+    "validation_rows": 3132,
+    "holdout_rows": 3133,
+    "train_churn_rate": 0.0007449185910396935,
+    "validation_churn_rate": 0.002234993614303959,
+    "holdout_churn_rate": 0.01149058410469199
+  },
+  "governance": {
+    "generated_at": "2026-09-20T12:32:11.497254+00:00",
+    "sensitive_fields_detected": [],
+    "sensitive_fields_used_by_model": [],
+    "behavioral_feature_policy": "Model features are restricted to observed behavioral activity features constructed before prediction time.",
+    "target_leakage_policy": "Future activity is used only for label construction and never for prediction-time features.",
+    "human_review_policy": "At-risk predictions are prioritization signals for Growth, not automatic adverse decisions about users.",
+    "online_validation_policy": "Offline predictive performance must not be presented as causal online intervention impact."
+  },
+  "production_data_note": "Synthetic demo data is not production evidence."
+}
