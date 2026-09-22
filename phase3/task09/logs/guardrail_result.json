@@ -1,0 +1,24 @@
+{
+  "decision": "HALT_CHALLENGER",
+  "failed_guardrails": [
+    "error_rate_ceiling"
+  ],
+  "guardrails": {
+    "average_precision_floor": {
+      "observed": 0.8293296739625411,
+      "passed": true,
+      "threshold": 0.05
+    },
+    "error_rate_ceiling": {
+      "observed": 0.3678571428571429,
+      "passed": false,
+      "threshold": 0.35
+    },
+    "hiring_relevance_floor": {
+      "observed": 0.7145942892857142,
+      "passed": true,
+      "threshold": 0.7
+    }
+  },
+  "reason": "GUARDRAIL_BREACH"
+}

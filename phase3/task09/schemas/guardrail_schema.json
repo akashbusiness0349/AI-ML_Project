@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Guardrail Result",
+  "type": "object",
+  "required": [
+    "decision",
+    "reason",
+    "guardrails"
+  ],
+  "properties": {
+    "decision": {
+      "type": "string",
+      "enum": [
+        "CONTINUE_CHALLENGER",
+        "HALT_CHALLENGER",
+        "PENDING"
+      ]
+    },
+    "reason": {
+      "type": "string"
+    },
+    "failed_guardrails": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "guardrails": {
+      "type": "object"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "allocation": {
+    "counts": {
+      "challenger": 17,
+      "control": 156,
+      "permanent_holdout": 27
+    },
+    "percentages": {
+      "challenger": 8.5,
+      "control": 78.0,
+      "permanent_holdout": 13.5
+    },
+    "unique_entities": 200
+  },
+  "policy": {
+    "challenger": "model-v2",
+    "control": "model-v1",
+    "permanent_holdout": "non_ml_baseline"
+  },
+  "purpose": "The permanent holdout receives the non-ML baseline so cumulative model value can be measured against a stable non-model reference.",
+  "stability": {
+    "entities_checked": 200,
+    "status": "PASS",
+    "unstable_entities": []
+  },
+  "status": "PASS"
+}

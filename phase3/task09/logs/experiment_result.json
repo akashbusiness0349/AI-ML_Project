@@ -1,0 +1,329 @@
+{
+  "daily_group_metrics": [
+    {
+      "average_precision": 0.9405038742029068,
+      "date": "2026-08-22",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7415073076923077,
+      "mean_score": 0.5713560478645415,
+      "rows": 26,
+      "unique_entities": 7
+    },
+    {
+      "average_precision": 0.8466641103133556,
+      "date": "2026-08-22",
+      "group": "control",
+      "mean_hiring_relevance": 0.6669989957081546,
+      "mean_score": 0.4968881837308002,
+      "rows": 233,
+      "unique_entities": 74
+    },
+    {
+      "average_precision": 0.8841676242669534,
+      "date": "2026-08-22",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.8209373333333333,
+      "mean_score": 0.7085060625,
+      "rows": 24,
+      "unique_entities": 7
+    },
+    {
+      "average_precision": 0.7659323531524114,
+      "date": "2026-08-23",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7001632592592593,
+      "mean_score": 0.5410420370467921,
+      "rows": 27,
+      "unique_entities": 6
+    },
+    {
+      "average_precision": 0.8062018317178146,
+      "date": "2026-08-23",
+      "group": "control",
+      "mean_hiring_relevance": 0.6482437307692307,
+      "mean_score": 0.5234852421772335,
+      "rows": 260,
+      "unique_entities": 69
+    },
+    {
+      "average_precision": 0.7601191443285102,
+      "date": "2026-08-23",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.7281329210526315,
+      "mean_score": 0.6219554736842104,
+      "rows": 38,
+      "unique_entities": 11
+    },
+    {
+      "average_precision": 0.9103438133808979,
+      "date": "2026-08-24",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7417346785714286,
+      "mean_score": 0.480303225738463,
+      "rows": 28,
+      "unique_entities": 9
+    },
+    {
+      "average_precision": 0.8429781116572987,
+      "date": "2026-08-24",
+      "group": "control",
+      "mean_hiring_relevance": 0.7125043692946058,
+      "mean_score": 0.5294388936338092,
+      "rows": 241,
+      "unique_entities": 67
+    },
+    {
+      "average_precision": 0.7656320173447647,
+      "date": "2026-08-24",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.6526467222222223,
+      "mean_score": 0.6197154861111112,
+      "rows": 36,
+      "unique_entities": 13
+    },
+    {
+      "average_precision": 0.9159726392121204,
+      "date": "2026-08-25",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.6712879090909091,
+      "mean_score": 0.5008965299616196,
+      "rows": 33,
+      "unique_entities": 9
+    },
+    {
+      "average_precision": 0.8738394238058196,
+      "date": "2026-08-25",
+      "group": "control",
+      "mean_hiring_relevance": 0.670570309178744,
+      "mean_score": 0.5060853564446465,
+      "rows": 207,
+      "unique_entities": 61
+    },
+    {
+      "average_precision": 0.844785164395139,
+      "date": "2026-08-25",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.7011536333333334,
+      "mean_score": 0.6674245833333335,
+      "rows": 30,
+      "unique_entities": 10
+    },
+    {
+      "average_precision": 0.7406097584300559,
+      "date": "2026-08-26",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7135119999999998,
+      "mean_score": 0.5184305609443935,
+      "rows": 35,
+      "unique_entities": 12
+    },
+    {
+      "average_precision": 0.8056798486378641,
+      "date": "2026-08-26",
+      "group": "control",
+      "mean_hiring_relevance": 0.6804593151260504,
+      "mean_score": 0.5354242715455502,
+      "rows": 238,
+      "unique_entities": 61
+    },
+    {
+      "average_precision": 0.6815368238555451,
+      "date": "2026-08-26",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.759078780487805,
+      "mean_score": 0.6501319390243903,
+      "rows": 41,
+      "unique_entities": 14
+    },
+    {
+      "average_precision": 0.9403668737308444,
+      "date": "2026-08-27",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7274118500000001,
+      "mean_score": 0.5209755510774029,
+      "rows": 20,
+      "unique_entities": 8
+    },
+    {
+      "average_precision": 0.7915919392246084,
+      "date": "2026-08-27",
+      "group": "control",
+      "mean_hiring_relevance": 0.661737652173913,
+      "mean_score": 0.48650072959056684,
+      "rows": 207,
+      "unique_entities": 62
+    },
+    {
+      "average_precision": 0.8638008191807276,
+      "date": "2026-08-27",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.7839626818181817,
+      "mean_score": 0.7253242499999999,
+      "rows": 44,
+      "unique_entities": 15
+    },
+    {
+      "average_precision": 0.7238539414518476,
+      "date": "2026-08-28",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7181764883720929,
+      "mean_score": 0.5595972305309146,
+      "rows": 43,
+      "unique_entities": 10
+    },
+    {
+      "average_precision": 0.830873046955981,
+      "date": "2026-08-28",
+      "group": "control",
+      "mean_hiring_relevance": 0.6989939956896551,
+      "mean_score": 0.5277343939942789,
+      "rows": 232,
+      "unique_entities": 62
+    },
+    {
+      "average_precision": 0.6305011479236344,
+      "date": "2026-08-28",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.7142483703703705,
+      "mean_score": 0.6788659166666666,
+      "rows": 54,
+      "unique_entities": 16
+    },
+    {
+      "average_precision": 0.8646202272650757,
+      "date": "2026-08-29",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.7090442702702703,
+      "mean_score": 0.5542662768658808,
+      "rows": 37,
+      "unique_entities": 9
+    },
+    {
+      "average_precision": 0.8505572786375577,
+      "date": "2026-08-29",
+      "group": "control",
+      "mean_hiring_relevance": 0.6586936968503937,
+      "mean_score": 0.509841864999512,
+      "rows": 254,
+      "unique_entities": 69
+    },
+    {
+      "average_precision": 0.6412044711008165,
+      "date": "2026-08-29",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.83170985,
+      "mean_score": 0.7302989125,
+      "rows": 40,
+      "unique_entities": 13
+    },
+    {
+      "average_precision": 0.9023663691690743,
+      "date": "2026-08-30",
+      "group": "challenger",
+      "mean_hiring_relevance": 0.720785387096774,
+      "mean_score": 0.528982563464942,
+      "rows": 31,
+      "unique_entities": 10
+    },
+    {
+      "average_precision": 0.7716895994139716,
+      "date": "2026-08-30",
+      "group": "control",
+      "mean_hiring_relevance": 0.681153390070922,
+      "mean_score": 0.525101027343982,
+      "rows": 282,
+      "unique_entities": 75
+    },
+    {
+      "average_precision": 0.8383268222284183,
+      "date": "2026-08-30",
+      "group": "permanent_holdout",
+      "mean_hiring_relevance": 0.7140956363636363,
+      "mean_score": 0.6450133181818182,
+      "rows": 33,
+      "unique_entities": 10
+    }
+  ],
+  "evidence_boundary": "Synthetic demo measurements are not production evidence.",
+  "expected_online_effect": {
+    "measurement_window_days": 7,
+    "status": "PLANNED_NOT_ESTABLISHED_BY_SYNTHETIC_DEMO",
+    "target_relative_uplift": 0.05
+  },
+  "experiment_id": "task09-model-experiment-v1",
+  "heldout_entities": 197,
+  "heldout_rows": 2774,
+  "model_artifacts": [
+    "/home/akash/Projects/Altrodav/phase3/task09/models/model-v1.joblib",
+    "/home/akash/Projects/Altrodav/phase3/task09/models/model-v2.joblib"
+  ],
+  "models": {
+    "model-v1": {
+      "features": [
+        "engagement_score",
+        "events_1d",
+        "events_7d",
+        "events_14d",
+        "days_since_last_event",
+        "hiring_relevance"
+      ],
+      "metrics": {
+        "average_precision": 0.8146496095010609,
+        "precision": 0.7777085927770859,
+        "recall": 0.6438144329896908,
+        "threshold": 0.5
+      }
+    },
+    "model-v2": {
+      "features": [
+        "engagement_score",
+        "events_1d",
+        "events_7d",
+        "events_14d",
+        "days_since_last_event",
+        "hiring_relevance",
+        "engagement_velocity",
+        "activity_intensity_7d"
+      ],
+      "metrics": {
+        "average_precision": 0.8150168371189698,
+        "precision": 0.7759155803848541,
+        "recall": 0.6443298969072165,
+        "threshold": 0.5
+      }
+    }
+  },
+  "prediction_artifact": "/home/akash/Projects/Altrodav/phase3/task09/logs/experiment_predictions.csv",
+  "served_group_metrics": {
+    "challenger": {
+      "average_precision": 0.8293296739625411,
+      "precision": 0.8235294117647058,
+      "recall": 0.6572769953051644,
+      "rows": 280.0,
+      "threshold": 0.5,
+      "unique_entities": 17.0
+    },
+    "control": {
+      "average_precision": 0.8206633083229731,
+      "precision": 0.7774219375500401,
+      "recall": 0.6456117021276596,
+      "rows": 2154.0,
+      "threshold": 0.5,
+      "unique_entities": 153.0
+    },
+    "permanent_holdout": {
+      "average_precision": 0.7319852505057894,
+      "precision": 0.6860068259385665,
+      "recall": 0.9013452914798207,
+      "rows": 340.0,
+      "threshold": 0.5,
+      "unique_entities": 27.0
+    }
+  },
+  "source_type": "synthetic_demo",
+  "split_timestamp": "2026-08-22 00:54:00+00:00",
+  "task": "phase3_task09",
+  "top_10_percent_lift": 1.1881517466439222,
+  "training_entities": 200,
+  "training_rows": 6471
+}

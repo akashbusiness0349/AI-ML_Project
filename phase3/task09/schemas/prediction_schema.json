@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Prediction",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "experiment_group",
+    "experiment_variant",
+    "prediction_score"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string"
+    },
+    "experiment_group": {
+      "type": "string"
+    },
+    "experiment_variant": {
+      "type": "string"
+    },
+    "prediction_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    }
+  }
+}

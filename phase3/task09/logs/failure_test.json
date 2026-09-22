@@ -1,0 +1,20 @@
+{
+  "expected_behavior": "When a model cannot be loaded, serving falls back to the deterministic non-ML baseline.",
+  "guardrail_failure": {
+    "decision": "HALT_CHALLENGER",
+    "expected_safe_action": "HALT_CHALLENGER; CONTROL_MODEL_CONTINUES",
+    "failed_guardrails": [
+      "hiring_relevance_floor",
+      "error_rate_ceiling"
+    ]
+  },
+  "model_unavailable": {
+    "entity_id": "entity_0143",
+    "fallback_used": true,
+    "group": "challenger",
+    "reason": "Model unavailable; deterministic non-ML fallback used: FileNotFoundError",
+    "score": 0.7195895023809524,
+    "variant": "model-v2"
+  },
+  "status": "PASS"
+}

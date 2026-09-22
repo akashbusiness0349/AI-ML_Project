@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Experiment Log",
+  "type": "object",
+  "required": [
+    "experiment_id",
+    "source_type",
+    "evaluation_window_days",
+    "model_versions",
+    "traffic_allocation",
+    "offline_metrics",
+    "expected_online_effect",
+    "guardrails",
+    "decision"
+  ],
+  "properties": {
+    "experiment_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string",
+      "enum": [
+        "synthetic_demo",
+        "production"
+      ]
+    },
+    "evaluation_window_days": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "model_versions": {
+      "type": "object"
+    },
+    "traffic_allocation": {
+      "type": "object"
+    },
+    "offline_metrics": {
+      "type": "object"
+    },
+    "expected_online_effect": {
+      "type": "object"
+    },
+    "guardrails": {
+      "type": "object"
+    },
+    "decision": {
+      "type": "string"
+    }
+  }
+}

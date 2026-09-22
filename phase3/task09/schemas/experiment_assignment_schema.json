@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Experiment Assignment",
+  "type": "object",
+  "required": [
+    "experiment_id",
+    "entity_id",
+    "bucket",
+    "group",
+    "variant"
+  ],
+  "properties": {
+    "experiment_id": {
+      "type": "string"
+    },
+    "entity_id": {
+      "type": "string"
+    },
+    "bucket": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 99
+    },
+    "group": {
+      "type": "string",
+      "enum": [
+        "control",
+        "challenger",
+        "permanent_holdout"
+      ]
+    },
+    "variant": {
+      "type": "string",
+      "enum": [
+        "model-v1",
+        "model-v2",
+        "non_ml_baseline"
+      ]
+    }
+  }
+}

@@ -1,0 +1,2 @@
+experiment_id,source_type,model_v1_average_precision,model_v2_average_precision,top_10_percent_lift,training_rows,heldout_rows,expected_online_uplift,expected_window_days
+task09-model-experiment-v1,synthetic_demo,0.8146496095010609,0.8150168371189698,1.1881517466439222,6471,2774,0.05,7

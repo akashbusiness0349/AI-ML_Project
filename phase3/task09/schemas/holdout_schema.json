@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Permanent Holdout",
+  "type": "object",
+  "required": [
+    "status",
+    "allocation",
+    "stability",
+    "policy"
+  ],
+  "properties": {
+    "status": {
+      "type": "string",
+      "enum": [
+        "PASS",
+        "FAIL"
+      ]
+    },
+    "allocation": {
+      "type": "object"
+    },
+    "stability": {
+      "type": "object"
+    },
+    "policy": {
+      "type": "object"
+    }
+  }
+}

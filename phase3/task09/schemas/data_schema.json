@@ -1,0 +1,57 @@
+
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Logged Event Schema",
+  "type": "object",
+  "required": [
+    "event_id",
+    "entity_id",
+    "entity_type",
+    "event_timestamp",
+    "event_type",
+    "engagement_score",
+    "hiring_relevance",
+    "outcome_label"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string"
+    },
+    "entity_id": {
+      "type": "string"
+    },
+    "entity_type": {
+      "type": "string",
+      "enum": [
+        "candidate",
+        "company"
+      ]
+    },
+    "event_timestamp": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "event_type": {
+      "type": "string"
+    },
+    "engagement_score": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "hiring_relevance": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "outcome_label": {
+      "type": "integer",
+      "enum": [
+        0,
+        1
+      ]
+    }
+  },
+  "additionalProperties": true
+}

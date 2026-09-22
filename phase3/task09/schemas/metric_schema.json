@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task09 Experiment Metrics",
+  "type": "object",
+  "required": [
+    "average_precision",
+    "precision",
+    "recall",
+    "threshold"
+  ],
+  "properties": {
+    "average_precision": {
+      "type": "number"
+    },
+    "precision": {
+      "type": "number"
+    },
+    "recall": {
+      "type": "number"
+    },
+    "threshold": {
+      "type": "number"
+    },
+    "rows": {
+      "type": "number"
+    },
+    "unique_entities": {
+      "type": "number"
+    }
+  }
+}
