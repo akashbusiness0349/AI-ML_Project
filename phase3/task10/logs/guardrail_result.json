@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "minimum_relative_effect": false,
+    "statistical_significance": false,
+    "confidence_interval_supports_effect": false
+  },
+  "all_pass": false,
+  "thresholds": {
+    "minimum_relative_effect": 0.05,
+    "alpha": 0.05
+  }
+}

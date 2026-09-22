@@ -1,0 +1,18 @@
+{
+  "task": "Phase 3 Task 10",
+  "experiment_name": "Disengagement Risk A/B Replay",
+  "version": "1.0",
+  "hypothesis": "The treatment model will identify higher-risk users more effectively than the non-ML recency baseline on held-out logged data.",
+  "primary_metric": "heldout_model_average_precision",
+  "secondary_online_metric": "14_day_churn_rate",
+  "alpha": 0.05,
+  "minimum_relative_effect": 0.05,
+  "minimum_effect_basis": "A 5% relative effect is the preregistered minimum practical effect for the replay comparison.",
+  "train_validation_holdout": "60/20/20 chronological split",
+  "baseline": "non_ml_recency",
+  "assignment": "deterministic_sha256_entity_assignment",
+  "ship_rule": "Production shipment requires preregistered statistical guardrails AND genuine production/live causal evidence.",
+  "online_validation_requirement": "Offline replay cannot establish causal online intervention impact.",
+  "data_policy": "Current verified dataset is synthetic_demo and must not be presented as production evidence.",
+  "registered_at_utc": "2026-09-22T08:14:10.312179+00:00"
+}

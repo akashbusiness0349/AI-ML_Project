@@ -1,0 +1,13 @@
+{
+  "task": "Phase 3 Task 10",
+  "dataset": "phase3/task08/logs/feature_table.csv",
+  "source_task": "Phase 3 Task 08",
+  "source_type": "synthetic_demo",
+  "production_data_available": false,
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "records": 15662,
+  "label": "churn_label",
+  "prediction_time": "prediction_time",
+  "future_horizon_end": "future_horizon_end",
+  "note": "Task 08 explicitly documents that no production dataset was provided. This dataset is used for offline experiment/replay validation only and is not presented as production evidence."
+}

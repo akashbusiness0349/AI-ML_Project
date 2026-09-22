@@ -1,0 +1,24 @@
+{
+  "task": "Phase 3 Task 10",
+  "status": "COMPLETED",
+  "preregistration_locked": true,
+  "data_validation": "PASS",
+  "target_leakage_check": "PASS",
+  "offline_heldout_experiment": "PASS",
+  "explainability": "PASS",
+  "fallback_test": "PASS",
+  "executable_demo": "PASS",
+  "data_source": "synthetic_demo",
+  "production_live_ab": false,
+  "online_causal_effect_established": false,
+  "guardrails_pass": false,
+  "offline_relative_effect": -0.18953687821612347,
+  "offline_p_value": 0.5356626540034488,
+  "final_decision": "DO_NOT_SHIP",
+  "decision_reasons": [
+    "Verified production/live data is unavailable.",
+    "The evaluated dataset is explicitly synthetic/demo data.",
+    "One or more preregistered statistical guardrails failed.",
+    "A historical offline replay cannot establish a causal online intervention effect."
+  ]
+}

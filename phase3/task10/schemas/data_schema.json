@@ -1,0 +1,24 @@
+
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Real Logged Data",
+  "type": "object",
+  "required": [
+    "entity_id",
+    "event_timestamp",
+    "outcome_label"
+  ],
+  "properties": {
+    "entity_id": {
+      "type": "string"
+    },
+    "event_timestamp": {
+      "type": "string"
+    },
+    "outcome_label": {
+      "type": "integer",
+      "enum": [0, 1]
+    }
+  }
+}

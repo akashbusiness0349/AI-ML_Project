@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Metrics",
+  "type": "object",
+  "required": [
+    "absolute_effect",
+    "relative_effect",
+    "p_value",
+    "confidence_interval_95"
+  ],
+  "properties": {
+    "absolute_effect": {
+      "type": "number"
+    },
+    "relative_effect": {
+      "type": ["number", "null"]
+    },
+    "p_value": {
+      "type": "number"
+    },
+    "confidence_interval_95": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2
+    }
+  }
+}

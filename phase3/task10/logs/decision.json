@@ -1,0 +1,11 @@
+{
+  "decision": "DO_NOT_SHIP",
+  "reasons": [
+    "Verified production/live data is unavailable.",
+    "The evaluated dataset is explicitly synthetic/demo data.",
+    "One or more preregistered statistical guardrails failed.",
+    "A historical offline replay cannot establish a causal online intervention effect."
+  ],
+  "ship_rule": "Production shipment requires preregistered statistical guardrails AND genuine production/live causal evidence.",
+  "online_causal_effect_established": false
+}

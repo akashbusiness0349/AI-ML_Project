@@ -1,0 +1,43 @@
+{
+  "demo_type": "executable_offline_ab_replay",
+  "data_source": "task08_feature_table.csv",
+  "production_status": "NOT_LIVE_PRODUCTION",
+  "records_served": [
+    {
+      "entity_id": "candidate_024",
+      "assigned_variant": "treatment",
+      "variant": "treatment",
+      "score": 0.5913086179494405,
+      "fallback_used": false
+    },
+    {
+      "entity_id": "candidate_019",
+      "assigned_variant": "control",
+      "variant": "control_fallback",
+      "score": 0.0,
+      "fallback_used": true
+    },
+    {
+      "entity_id": "company_005",
+      "assigned_variant": "control",
+      "variant": "control_fallback",
+      "score": 0.0,
+      "fallback_used": true
+    },
+    {
+      "entity_id": "candidate_033",
+      "assigned_variant": "treatment",
+      "variant": "treatment",
+      "score": 0.5913086179494405,
+      "fallback_used": false
+    },
+    {
+      "entity_id": "company_001",
+      "assigned_variant": "treatment",
+      "variant": "treatment",
+      "score": 0.5913086179494405,
+      "fallback_used": false
+    }
+  ],
+  "fallback_supported": true
+}

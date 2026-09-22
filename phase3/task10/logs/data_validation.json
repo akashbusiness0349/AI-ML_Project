@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "rows": 15662,
+  "entities": 100,
+  "first_prediction_time": "2026-01-01 08:02:48+00:00",
+  "last_prediction_time": "2026-04-16 21:39:48+00:00",
+  "target": "churn_label",
+  "target_distribution": {
+    "0": 15612,
+    "1": 50
+  },
+  "features": [
+    "event_count_14d",
+    "active_days_14d",
+    "days_since_last_activity",
+    "event_type_diversity_14d",
+    "recent_3d_events",
+    "recent_7d_events",
+    "activity_rate_14d"
+  ],
+  "leakage_audit": {
+    "status": "PASS",
+    "target": "churn_label",
+    "features": [
+      "event_count_14d",
+      "active_days_14d",
+      "days_since_last_activity",
+      "event_type_diversity_14d",
+      "recent_3d_events",
+      "recent_7d_events",
+      "activity_rate_14d"
+    ],
+    "future_columns_excluded": true,
+    "leakage_features": []
+  },
+  "source_type": "synthetic_demo",
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE"
+}

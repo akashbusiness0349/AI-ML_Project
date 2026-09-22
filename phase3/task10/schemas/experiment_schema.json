@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Experiment",
+  "type": "object",
+  "required": [
+    "experiment_id",
+    "source_type",
+    "training_rows",
+    "heldout_rows",
+    "ab_readout",
+    "decision"
+  ],
+  "properties": {
+    "experiment_id": {
+      "type": "string"
+    },
+    "source_type": {
+      "type": "string"
+    },
+    "training_rows": {
+      "type": "integer"
+    },
+    "heldout_rows": {
+      "type": "integer"
+    },
+    "ab_readout": {
+      "type": "object"
+    },
+    "decision": {
+      "type": "object"
+    }
+  }
+}

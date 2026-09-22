@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Ship Decision",
+  "type": "object",
+  "required": [
+    "decision",
+    "reasoning",
+    "alpha"
+  ],
+  "properties": {
+    "decision": {
+      "type": "string",
+      "enum": [
+        "SHIP",
+        "DO_NOT_SHIP"
+      ]
+    },
+    "reasoning": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "alpha": {
+      "type": "number"
+    }
+  }
+}

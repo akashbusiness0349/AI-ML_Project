@@ -1,0 +1,53 @@
+{
+  "model_explanation": [
+    {
+      "feature": "active_days_14d",
+      "coefficient": 3.2013601224283597,
+      "direction": "increases_risk"
+    },
+    {
+      "feature": "activity_rate_14d",
+      "coefficient": -2.6472137364833808,
+      "direction": "decreases_risk"
+    },
+    {
+      "feature": "event_count_14d",
+      "coefficient": -2.6472137364833657,
+      "direction": "decreases_risk"
+    },
+    {
+      "feature": "recent_3d_events",
+      "coefficient": -0.5345038301195859,
+      "direction": "decreases_risk"
+    },
+    {
+      "feature": "event_type_diversity_14d",
+      "coefficient": 0.33565510912043145,
+      "direction": "increases_risk"
+    },
+    {
+      "feature": "recent_7d_events",
+      "coefficient": -0.07164105231912517,
+      "direction": "decreases_risk"
+    },
+    {
+      "feature": "days_since_last_activity",
+      "coefficient": 0.0,
+      "direction": "decreases_risk"
+    }
+  ],
+  "worked_example": {
+    "prediction_score": 0.5913086179494405,
+    "feature_values": {
+      "event_count_14d": 1.0,
+      "active_days_14d": 1.0,
+      "days_since_last_activity": 0.0,
+      "event_type_diversity_14d": 1.0,
+      "recent_3d_events": 1.0,
+      "recent_7d_events": 1.0,
+      "activity_rate_14d": 0.0714285714285714
+    },
+    "explanation": "Higher recent inactivity, longer time since activity, and lower recent activity can increase predicted disengagement risk. The model uses only prediction-time behavioral features."
+  },
+  "explainability_status": "PASS"
+}

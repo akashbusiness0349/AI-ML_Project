@@ -1,0 +1,77 @@
+{
+  "experiment": "Phase 3 Task 10",
+  "preregistration_version": "1.0",
+  "data_source_type": "synthetic_demo",
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "split": {
+    "train_rows": 9397,
+    "validation_rows": 3132,
+    "holdout_rows": 3133
+  },
+  "model": {
+    "threshold": 0.8984,
+    "metrics": {
+      "threshold": 0.8984,
+      "precision": 0.06993006993006994,
+      "recall": 0.2777777777777778,
+      "positive_rate": 0.04564315352697095,
+      "confusion_matrix": [
+        [
+          2964,
+          133
+        ],
+        [
+          26,
+          10
+        ]
+      ]
+    },
+    "top_k_lift": {
+      "top_fraction": 0.1,
+      "top_k": 313,
+      "population_rate": 0.01149058410469199,
+      "top_k_rate": 0.06389776357827476,
+      "lift": 5.560880369187077
+    }
+  },
+  "baseline": {
+    "metrics": {
+      "threshold": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "positive_rate": 0.0,
+      "confusion_matrix": [
+        [
+          3097,
+          0
+        ],
+        [
+          36,
+          0
+        ]
+      ]
+    },
+    "top_k_lift": {
+      "top_fraction": 0.1,
+      "top_k": 313,
+      "population_rate": 0.01149058410469199,
+      "top_k_rate": 0.006389776357827476,
+      "lift": 0.5560880369187078
+    }
+  },
+  "offline_ab_replay": {
+    "control_rate": 0.012535612535612535,
+    "treatment_rate": 0.010159651669085631,
+    "absolute_effect": -0.002375960866526904,
+    "relative_effect": -0.18953687821612347,
+    "z_score": -0.6193851615259282,
+    "p_value": 0.5356626540034488,
+    "ci95_low": -0.009801000384329137,
+    "ci95_high": 0.005049078651275329,
+    "interpretation": "This is a historical offline replay comparison. The observed difference is not a causal online treatment effect."
+  },
+  "online_validation": {
+    "status": "NOT_ESTABLISHED",
+    "reason": "No verified production/live A/B traffic was available."
+  }
+}

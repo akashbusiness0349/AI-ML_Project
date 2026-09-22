@@ -1,0 +1,13 @@
+{
+  "normal_path": {
+    "variant": "treatment",
+    "score": 0.5913086179494405,
+    "fallback_used": false
+  },
+  "failure_path": {
+    "variant": "control_fallback",
+    "score": 0.0,
+    "fallback_used": true
+  },
+  "fallback_test": "PASS"
+}

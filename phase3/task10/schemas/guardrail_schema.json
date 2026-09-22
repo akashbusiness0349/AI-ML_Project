@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Guardrails",
+  "type": "object",
+  "required": [
+    "guardrails",
+    "decision"
+  ],
+  "properties": {
+    "guardrails": {
+      "type": "object"
+    },
+    "decision": {
+      "type": "string",
+      "enum": [
+        "SHIP",
+        "DO_NOT_SHIP"
+      ]
+    }
+  }
+}

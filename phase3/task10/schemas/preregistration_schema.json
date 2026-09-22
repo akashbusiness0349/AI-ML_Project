@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 10 Experiment Preregistration",
+  "type": "object",
+  "required": [
+    "experiment_id",
+    "hypothesis",
+    "primary_metric",
+    "baseline",
+    "alpha",
+    "decision_rule"
+  ],
+  "properties": {
+    "experiment_id": {
+      "type": "string"
+    },
+    "hypothesis": {
+      "type": "string"
+    },
+    "primary_metric": {
+      "type": "string"
+    },
+    "baseline": {
+      "type": "string"
+    },
+    "alpha": {
+      "type": "number"
+    },
+    "decision_rule": {
+      "type": "string"
+    }
+  }
+}
