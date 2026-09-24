@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task11 Ranking Result",
+  "type": "object",
+  "required": [
+    "job_id",
+    "score",
+    "position"
+  ],
+  "properties": {
+    "job_id": {
+      "type": "string"
+    },
+    "score": {
+      "type": "number"
+    },
+    "probability": {
+      "type": "number"
+    },
+    "position": {
+      "type": "integer",
+      "minimum": 1
+    }
+  }
+}

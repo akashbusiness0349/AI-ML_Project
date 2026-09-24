@@ -1,0 +1,195 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "demo_type": "executable_task11_ltr_ranking_demo",
+  "data_source": "task11_owned_synthetic_logged_impressions",
+  "production_status": "NOT_LIVE_PRODUCTION",
+  "records_served": [
+    {
+      "candidate_id": "candidate_001",
+      "variant": "ltr",
+      "fallback_used": false,
+      "top_5": [
+        {
+          "job_id": "job_001",
+          "score": 17.81297815261529,
+          "probability": 0.99999998163792,
+          "position": 1
+        },
+        {
+          "job_id": "job_019",
+          "score": 12.661761802420264,
+          "probability": 0.9999968299556273,
+          "position": 2
+        },
+        {
+          "job_id": "job_002",
+          "score": 12.564226871631684,
+          "probability": 0.9999965051858737,
+          "position": 3
+        },
+        {
+          "job_id": "job_011",
+          "score": 11.98054304099712,
+          "probability": 0.9999937351086109,
+          "position": 4
+        },
+        {
+          "job_id": "job_016",
+          "score": 11.910819413379139,
+          "probability": 0.9999932827124997,
+          "position": 5
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_002",
+      "variant": "ltr",
+      "fallback_used": false,
+      "top_5": [
+        {
+          "job_id": "job_003",
+          "score": 23.58025973058009,
+          "probability": 0.9999999999425588,
+          "position": 1
+        },
+        {
+          "job_id": "job_007",
+          "score": 17.774591083487106,
+          "probability": 0.9999999809193499,
+          "position": 2
+        },
+        {
+          "job_id": "job_012",
+          "score": 11.957301831791124,
+          "probability": 0.999993587800717,
+          "position": 3
+        },
+        {
+          "job_id": "job_017",
+          "score": 11.922440017982137,
+          "probability": 0.999993360319132,
+          "position": 4
+        },
+        {
+          "job_id": "job_002",
+          "score": 6.18545015986172,
+          "probability": 0.9979450570994787,
+          "position": 5
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_003",
+      "variant": "ltr",
+      "fallback_used": false,
+      "top_5": [
+        {
+          "job_id": "job_004",
+          "score": 23.533777312168105,
+          "probability": 0.9999999999398257,
+          "position": 1
+        },
+        {
+          "job_id": "job_013",
+          "score": 17.724583409755923,
+          "probability": 0.9999999799409103,
+          "position": 2
+        },
+        {
+          "job_id": "job_008",
+          "score": 17.716488060472123,
+          "probability": 0.9999999797778658,
+          "position": 3
+        },
+        {
+          "job_id": "job_018",
+          "score": 17.689721595946935,
+          "probability": 0.9999999792292817,
+          "position": 4
+        },
+        {
+          "job_id": "job_005",
+          "score": 6.843427712078871,
+          "probability": 0.998934694413722,
+          "position": 5
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_004",
+      "variant": "ltr",
+      "fallback_used": false,
+      "top_5": [
+        {
+          "job_id": "job_006",
+          "score": 23.53025205684891,
+          "probability": 0.9999999999396132,
+          "position": 1
+        },
+        {
+          "job_id": "job_001",
+          "score": 12.610709290043669,
+          "probability": 0.9999966639151066,
+          "position": 2
+        },
+        {
+          "job_id": "job_014",
+          "score": 12.096749087027085,
+          "probability": 0.9999944224149647,
+          "position": 3
+        },
+        {
+          "job_id": "job_019",
+          "score": 12.07350787782109,
+          "probability": 0.9999942912677778,
+          "position": 4
+        },
+        {
+          "job_id": "job_009",
+          "score": 12.0305507147283,
+          "probability": 0.9999940406948785,
+          "position": 5
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_005",
+      "variant": "ltr",
+      "fallback_used": false,
+      "top_5": [
+        {
+          "job_id": "job_005",
+          "score": 23.626742148992076,
+          "probability": 0.9999999999451676,
+          "position": 1
+        },
+        {
+          "job_id": "job_020",
+          "score": 17.829168851182892,
+          "probability": 0.9999999819328212,
+          "position": 2
+        },
+        {
+          "job_id": "job_010",
+          "score": 17.7781163388063,
+          "probability": 0.9999999809864958,
+          "position": 3
+        },
+        {
+          "job_id": "job_015",
+          "score": 12.015404854806107,
+          "probability": 0.9999939497496407,
+          "position": 4
+        },
+        {
+          "job_id": "job_001",
+          "score": 6.820186502872878,
+          "probability": 0.9989096727788828,
+          "position": 5
+        }
+      ]
+    }
+  ],
+  "fallback_supported": true
+}

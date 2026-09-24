@@ -1,0 +1,35 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "candidate_count": 20,
+  "job_count": 20,
+  "impression_events": 1600,
+  "event_validation": {
+    "total_events": 1600,
+    "valid_events": 1600,
+    "invalid_events": 0,
+    "all_valid": true,
+    "errors": [],
+    "unknown_candidate_events": 0,
+    "unknown_job_events": 0,
+    "event_types": {
+      "impression": 1295,
+      "click": 213,
+      "apply": 92
+    }
+  },
+  "feature_policy": {
+    "status": "PASS",
+    "protected_features_used": [],
+    "ranking_features": [
+      "experience_match",
+      "job_popularity",
+      "location_match",
+      "skill_overlap"
+    ],
+    "protected_features_available_to_ranker": false,
+    "policy": "Protected attributes are excluded from ranking features."
+  },
+  "data_source": "task11_owned_synthetic_logged_impressions",
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE"
+}

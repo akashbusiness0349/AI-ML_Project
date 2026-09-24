@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task11 Logged Impression",
+  "type": "object",
+  "required": [
+    "session_id",
+    "timestamp",
+    "candidate_id",
+    "job_id",
+    "position",
+    "event_type",
+    "relevance"
+  ],
+  "properties": {
+    "session_id": {
+      "type": "string"
+    },
+    "timestamp": {
+      "type": "string"
+    },
+    "candidate_id": {
+      "type": "string"
+    },
+    "job_id": {
+      "type": "string"
+    },
+    "position": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "impression",
+        "click",
+        "apply"
+      ]
+    },
+    "clicked": {
+      "type": "integer",
+      "minimum": 0,
+      "maximum": 1
+    },
+    "relevance": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

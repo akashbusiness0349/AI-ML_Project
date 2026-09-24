@@ -1,0 +1,3202 @@
+[
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:20:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_018",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:21:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 2,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:22:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_010",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:23:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_013",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:24:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_006",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:25:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_020",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:26:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_007",
+    "position": 7,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:27:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_011",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:28:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0129",
+    "timestamp": "2026-01-02T06:29:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:30:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_009",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:31:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:32:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_016",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:33:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_010",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:34:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_001",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:35:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_020",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:36:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_011",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:37:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:38:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0130",
+    "timestamp": "2026-01-02T06:39:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_017",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:40:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_007",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:41:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_008",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:42:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_017",
+    "position": 3,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:43:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_010",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:44:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_013",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:45:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:46:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 7,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:47:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_018",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:48:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_009",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0131",
+    "timestamp": "2026-01-02T06:49:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:50:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_014",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:51:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:52:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_015",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:53:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_017",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:54:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_013",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:55:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 6,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:56:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_018",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:57:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_010",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:58:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_007",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0132",
+    "timestamp": "2026-01-02T06:59:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:00:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:01:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_005",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:02:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_013",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:03:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:04:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:05:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_018",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:06:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:07:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_011",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:08:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_009",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0133",
+    "timestamp": "2026-01-02T07:09:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_014",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:10:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_017",
+    "position": 1,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:11:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 2,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:12:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_011",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:13:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_020",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:14:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_001",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:15:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_010",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:16:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_013",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:17:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:18:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0134",
+    "timestamp": "2026-01-02T07:19:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:20:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_001",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:21:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_008",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:22:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 3,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:23:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_014",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:24:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_009",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:25:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:26:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_016",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:27:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:28:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0135",
+    "timestamp": "2026-01-02T07:29:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_015",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:30:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:31:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:32:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_014",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:33:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_012",
+    "position": 4,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:34:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_001",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:35:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_016",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:36:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_015",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:37:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_005",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:38:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_007",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0136",
+    "timestamp": "2026-01-02T07:39:00+00:00",
+    "candidate_id": "candidate_017",
+    "job_id": "job_019",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:40:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_011",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:41:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:42:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:43:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_010",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:44:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_003",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:45:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:46:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_020",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:47:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:48:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_007",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0137",
+    "timestamp": "2026-01-02T07:49:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:50:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_018",
+    "position": 1,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:51:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:52:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_008",
+    "position": 3,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:53:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_016",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:54:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_005",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:55:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_012",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:56:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_004",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:57:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:58:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_019",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0138",
+    "timestamp": "2026-01-02T07:59:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:00:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_010",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:01:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:02:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_016",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:03:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:04:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:05:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_008",
+    "position": 6,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:06:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_005",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:07:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_007",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:08:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_013",
+    "position": 9,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0139",
+    "timestamp": "2026-01-02T08:09:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_020",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:10:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:11:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_019",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:12:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:13:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_004",
+    "position": 4,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:14:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_012",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:15:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_003",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:16:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_010",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:17:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:18:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0140",
+    "timestamp": "2026-01-02T08:19:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_009",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:20:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_013",
+    "position": 1,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:21:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:22:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_018",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:23:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_005",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:24:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_009",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:25:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_010",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:26:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:27:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_008",
+    "position": 8,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:28:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0141",
+    "timestamp": "2026-01-02T08:29:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_003",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:30:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:31:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:32:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:33:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_008",
+    "position": 4,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:34:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:35:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_004",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:36:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_007",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:37:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_010",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:38:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_013",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0142",
+    "timestamp": "2026-01-02T08:39:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_016",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:40:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:41:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:42:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_016",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:43:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:44:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_011",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:45:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_008",
+    "position": 6,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:46:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_003",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:47:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_002",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:48:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_020",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0143",
+    "timestamp": "2026-01-02T08:49:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_009",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:50:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_011",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:51:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_014",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:52:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_005",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:53:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_001",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:54:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_015",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:55:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_007",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:56:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_016",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:57:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:58:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_013",
+    "position": 9,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0144",
+    "timestamp": "2026-01-02T08:59:00+00:00",
+    "candidate_id": "candidate_018",
+    "job_id": "job_006",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:00:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:01:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_017",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:02:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_005",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:03:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_001",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:04:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_004",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:05:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_015",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:06:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_007",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:07:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_013",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:08:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_010",
+    "position": 9,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0145",
+    "timestamp": "2026-01-02T09:09:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:10:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_012",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:11:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_020",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:12:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_004",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:13:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:14:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_010",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:15:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_014",
+    "position": 6,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:16:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_016",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:17:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:18:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0146",
+    "timestamp": "2026-01-02T09:19:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_003",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:20:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_014",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:21:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_009",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:22:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_007",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:23:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_003",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:24:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 5,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:25:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:26:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_010",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:27:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:28:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_015",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0147",
+    "timestamp": "2026-01-02T09:29:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_006",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:30:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_017",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:31:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_010",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:32:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_014",
+    "position": 3,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:33:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:34:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:35:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_001",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:36:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_005",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:37:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_019",
+    "position": 8,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:38:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_008",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0148",
+    "timestamp": "2026-01-02T09:39:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:40:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_009",
+    "position": 1,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:41:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_019",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:42:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_015",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:43:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:44:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_008",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:45:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:46:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_005",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:47:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:48:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0149",
+    "timestamp": "2026-01-02T09:49:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_013",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:50:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:51:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_001",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:52:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 3,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:53:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_004",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:54:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:55:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_007",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:56:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_019",
+    "position": 7,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:57:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_012",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:58:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_020",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0150",
+    "timestamp": "2026-01-02T09:59:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_009",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:00:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_008",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:01:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:02:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_006",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:03:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_019",
+    "position": 4,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:04:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_020",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:05:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_012",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:06:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_018",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:07:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_014",
+    "position": 8,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:08:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_013",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0151",
+    "timestamp": "2026-01-02T10:09:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_007",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:10:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_008",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:11:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_017",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:12:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_005",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:13:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_003",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:14:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_011",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:15:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_006",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:16:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_004",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:17:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_019",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:18:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_002",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0152",
+    "timestamp": "2026-01-02T10:19:00+00:00",
+    "candidate_id": "candidate_019",
+    "job_id": "job_020",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:20:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:21:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_011",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:22:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_004",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:23:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_013",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:24:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_001",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:25:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_002",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:26:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_014",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:27:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_007",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:28:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_017",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0153",
+    "timestamp": "2026-01-02T10:29:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:30:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_012",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:31:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_011",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:32:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_018",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:33:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_019",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:34:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_008",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:35:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_013",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:36:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:37:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_009",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:38:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_007",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0154",
+    "timestamp": "2026-01-02T10:39:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_001",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:40:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:41:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_013",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:42:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_016",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:43:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_014",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:44:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_009",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:45:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:46:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_019",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:47:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_018",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:48:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_007",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0155",
+    "timestamp": "2026-01-02T10:49:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_005",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:50:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_006",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:51:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:52:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_004",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:53:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_014",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:54:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_008",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:55:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_017",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:56:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_019",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:57:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_005",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:58:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_011",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0156",
+    "timestamp": "2026-01-02T10:59:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_012",
+    "position": 10,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:00:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_017",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:01:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_005",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:02:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_016",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:03:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:04:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_002",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:05:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_018",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:06:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:07:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:08:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_019",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0157",
+    "timestamp": "2026-01-02T11:09:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_014",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:10:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:11:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:12:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_019",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:13:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 4,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:14:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_009",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:15:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_001",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:16:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_018",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:17:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_003",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:18:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0158",
+    "timestamp": "2026-01-02T11:19:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_011",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:20:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:21:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_016",
+    "position": 2,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:22:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:23:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_012",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:24:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_002",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:25:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_011",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:26:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_004",
+    "position": 7,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:27:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_006",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:28:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 9,
+    "event_type": "apply",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0159",
+    "timestamp": "2026-01-02T11:29:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_014",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:30:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:31:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_015",
+    "position": 2,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:32:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_001",
+    "position": 3,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 1
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:33:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_020",
+    "position": 4,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 3
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:34:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_010",
+    "position": 5,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:35:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_009",
+    "position": 6,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:36:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_002",
+    "position": 7,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:37:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_008",
+    "position": 8,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:38:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_005",
+    "position": 9,
+    "event_type": "click",
+    "clicked": 1,
+    "relevance": 2
+  },
+  {
+    "session_id": "session_0160",
+    "timestamp": "2026-01-02T11:39:00+00:00",
+    "candidate_id": "candidate_020",
+    "job_id": "job_017",
+    "position": 10,
+    "event_type": "impression",
+    "clicked": 0,
+    "relevance": 0
+  }
+]

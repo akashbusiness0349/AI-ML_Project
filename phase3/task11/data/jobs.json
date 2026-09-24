@@ -1,0 +1,262 @@
+[
+  {
+    "job_id": "job_001",
+    "title": "Junior Python Developer",
+    "company": "TechNova",
+    "skills": [
+      "python",
+      "sql",
+      "fastapi"
+    ],
+    "location": "Delhi",
+    "experience_level": "entry",
+    "popularity": 92
+  },
+  {
+    "job_id": "job_002",
+    "title": "Machine Learning Engineer",
+    "company": "DataWorks",
+    "skills": [
+      "python",
+      "machine learning",
+      "pandas"
+    ],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 88
+  },
+  {
+    "job_id": "job_003",
+    "title": "Frontend React Developer",
+    "company": "WebCraft",
+    "skills": [
+      "react",
+      "javascript",
+      "css"
+    ],
+    "location": "Bangalore",
+    "experience_level": "entry",
+    "popularity": 90
+  },
+  {
+    "job_id": "job_004",
+    "title": "Java Backend Developer",
+    "company": "CloudCore",
+    "skills": [
+      "java",
+      "spring",
+      "sql"
+    ],
+    "location": "Pune",
+    "experience_level": "entry",
+    "popularity": 86
+  },
+  {
+    "job_id": "job_005",
+    "title": "Data Analyst",
+    "company": "InsightLabs",
+    "skills": [
+      "data analysis",
+      "sql",
+      "excel"
+    ],
+    "location": "Mumbai",
+    "experience_level": "entry",
+    "popularity": 94
+  },
+  {
+    "job_id": "job_006",
+    "title": "Python API Engineer",
+    "company": "ApiWorks",
+    "skills": [
+      "python",
+      "fastapi",
+      "postgresql"
+    ],
+    "location": "Hyderabad",
+    "experience_level": "junior",
+    "popularity": 84
+  },
+  {
+    "job_id": "job_007",
+    "title": "React Full Stack Developer",
+    "company": "FrontendLab",
+    "skills": [
+      "react",
+      "javascript",
+      "node"
+    ],
+    "location": "Bangalore",
+    "experience_level": "junior",
+    "popularity": 87
+  },
+  {
+    "job_id": "job_008",
+    "title": "Spring Backend Engineer",
+    "company": "CloudCore",
+    "skills": [
+      "java",
+      "spring",
+      "aws"
+    ],
+    "location": "Pune",
+    "experience_level": "junior",
+    "popularity": 82
+  },
+  {
+    "job_id": "job_009",
+    "title": "ML Data Scientist",
+    "company": "DataWorks",
+    "skills": [
+      "python",
+      "ml",
+      "pandas"
+    ],
+    "location": "Hyderabad",
+    "experience_level": "junior",
+    "popularity": 91
+  },
+  {
+    "job_id": "job_010",
+    "title": "Business Data Analyst",
+    "company": "InsightLabs",
+    "skills": [
+      "sql",
+      "tableau",
+      "excel"
+    ],
+    "location": "Mumbai",
+    "experience_level": "entry",
+    "popularity": 89
+  },
+  {
+    "job_id": "job_011",
+    "title": "Senior Python Engineer",
+    "company": "TechNova",
+    "skills": [
+      "python",
+      "aws",
+      "docker"
+    ],
+    "location": "Delhi",
+    "experience_level": "senior",
+    "popularity": 85
+  },
+  {
+    "job_id": "job_012",
+    "title": "Senior React Engineer",
+    "company": "WebCraft",
+    "skills": [
+      "react",
+      "typescript",
+      "nextjs"
+    ],
+    "location": "Bangalore",
+    "experience_level": "senior",
+    "popularity": 83
+  },
+  {
+    "job_id": "job_013",
+    "title": "Senior Java Engineer",
+    "company": "CloudCore",
+    "skills": [
+      "java",
+      "spring",
+      "kubernetes"
+    ],
+    "location": "Pune",
+    "experience_level": "senior",
+    "popularity": 81
+  },
+  {
+    "job_id": "job_014",
+    "title": "Senior ML Engineer",
+    "company": "DataWorks",
+    "skills": [
+      "python",
+      "ml",
+      "tensorflow"
+    ],
+    "location": "Hyderabad",
+    "experience_level": "senior",
+    "popularity": 95
+  },
+  {
+    "job_id": "job_015",
+    "title": "Senior Analytics Engineer",
+    "company": "InsightLabs",
+    "skills": [
+      "sql",
+      "analytics",
+      "powerbi"
+    ],
+    "location": "Mumbai",
+    "experience_level": "senior",
+    "popularity": 88
+  },
+  {
+    "job_id": "job_016",
+    "title": "Python Platform Engineer",
+    "company": "PlatformX",
+    "skills": [
+      "python",
+      "docker",
+      "aws"
+    ],
+    "location": "Delhi",
+    "experience_level": "mid",
+    "popularity": 79
+  },
+  {
+    "job_id": "job_017",
+    "title": "Frontend Platform Engineer",
+    "company": "WebCraft",
+    "skills": [
+      "react",
+      "typescript",
+      "node"
+    ],
+    "location": "Bangalore",
+    "experience_level": "mid",
+    "popularity": 80
+  },
+  {
+    "job_id": "job_018",
+    "title": "Java Cloud Engineer",
+    "company": "CloudCore",
+    "skills": [
+      "java",
+      "spring",
+      "aws"
+    ],
+    "location": "Pune",
+    "experience_level": "mid",
+    "popularity": 78
+  },
+  {
+    "job_id": "job_019",
+    "title": "Applied ML Engineer",
+    "company": "DataWorks",
+    "skills": [
+      "python",
+      "machine learning",
+      "tensorflow"
+    ],
+    "location": "Hyderabad",
+    "experience_level": "mid",
+    "popularity": 93
+  },
+  {
+    "job_id": "job_020",
+    "title": "Product Data Analyst",
+    "company": "InsightLabs",
+    "skills": [
+      "sql",
+      "analytics",
+      "excel"
+    ],
+    "location": "Mumbai",
+    "experience_level": "mid",
+    "popularity": 90
+  }
+]

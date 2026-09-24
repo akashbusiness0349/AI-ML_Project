@@ -1,0 +1,222 @@
+[
+  {
+    "candidate_id": "candidate_001",
+    "skills": [
+      "python",
+      "sql",
+      "machine learning"
+    ],
+    "experience_level": "entry",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_002",
+    "skills": [
+      "react",
+      "javascript",
+      "css"
+    ],
+    "experience_level": "entry",
+    "location": "Bangalore",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_003",
+    "skills": [
+      "java",
+      "spring",
+      "sql"
+    ],
+    "experience_level": "entry",
+    "location": "Pune",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_004",
+    "skills": [
+      "python",
+      "fastapi",
+      "postgresql"
+    ],
+    "experience_level": "entry",
+    "location": "Hyderabad",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_005",
+    "skills": [
+      "data analysis",
+      "sql",
+      "excel"
+    ],
+    "experience_level": "entry",
+    "location": "Mumbai",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_006",
+    "skills": [
+      "python",
+      "django",
+      "sql"
+    ],
+    "experience_level": "junior",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_007",
+    "skills": [
+      "react",
+      "typescript",
+      "node"
+    ],
+    "experience_level": "junior",
+    "location": "Bangalore",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_008",
+    "skills": [
+      "java",
+      "spring",
+      "aws"
+    ],
+    "experience_level": "junior",
+    "location": "Pune",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_009",
+    "skills": [
+      "python",
+      "pandas",
+      "ml"
+    ],
+    "experience_level": "junior",
+    "location": "Hyderabad",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_010",
+    "skills": [
+      "sql",
+      "tableau",
+      "excel"
+    ],
+    "experience_level": "entry",
+    "location": "Mumbai",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_011",
+    "skills": [
+      "python",
+      "fastapi",
+      "sql"
+    ],
+    "experience_level": "mid",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_012",
+    "skills": [
+      "react",
+      "javascript",
+      "node"
+    ],
+    "experience_level": "mid",
+    "location": "Bangalore",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_013",
+    "skills": [
+      "java",
+      "spring",
+      "docker"
+    ],
+    "experience_level": "mid",
+    "location": "Pune",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_014",
+    "skills": [
+      "python",
+      "ml",
+      "pandas"
+    ],
+    "experience_level": "mid",
+    "location": "Hyderabad",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_015",
+    "skills": [
+      "sql",
+      "powerbi",
+      "excel"
+    ],
+    "experience_level": "mid",
+    "location": "Mumbai",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_016",
+    "skills": [
+      "python",
+      "aws",
+      "docker"
+    ],
+    "experience_level": "senior",
+    "location": "Delhi",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_017",
+    "skills": [
+      "react",
+      "typescript",
+      "nextjs"
+    ],
+    "experience_level": "senior",
+    "location": "Bangalore",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_018",
+    "skills": [
+      "java",
+      "spring",
+      "kubernetes"
+    ],
+    "experience_level": "senior",
+    "location": "Pune",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_019",
+    "skills": [
+      "python",
+      "ml",
+      "tensorflow"
+    ],
+    "experience_level": "senior",
+    "location": "Hyderabad",
+    "history": []
+  },
+  {
+    "candidate_id": "candidate_020",
+    "skills": [
+      "sql",
+      "analytics",
+      "powerbi"
+    ],
+    "experience_level": "senior",
+    "location": "Mumbai",
+    "history": []
+  }
+]

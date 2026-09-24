@@ -1,0 +1,50 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "worked_example": {
+    "candidate_id": "candidate_001",
+    "job_id": "job_001",
+    "score": 17.81297815261529,
+    "probability": 0.99999998163792,
+    "features": {
+      "experience_match": 1.0,
+      "job_popularity": 0.92,
+      "location_match": 1.0,
+      "skill_overlap": 0.6666666666666666
+    },
+    "feature_contributions": [
+      {
+        "feature": "skill_overlap",
+        "value": 0.6666666666666666,
+        "coefficient": 17.371568361512377,
+        "contribution": 11.581045574341584,
+        "direction": "supports_ranking"
+      },
+      {
+        "feature": "location_match",
+        "value": 1.0,
+        "coefficient": 5.20226886257162,
+        "contribution": 5.20226886257162,
+        "direction": "supports_ranking"
+      },
+      {
+        "feature": "job_popularity",
+        "value": 0.92,
+        "coefficient": 1.1620604602996554,
+        "contribution": 1.069095623475683,
+        "direction": "supports_ranking"
+      },
+      {
+        "feature": "experience_match",
+        "value": 1.0,
+        "coefficient": -0.03943190777359665,
+        "contribution": -0.03943190777359665,
+        "direction": "reduces_ranking"
+      }
+    ],
+    "plain_english_reason": "skill_overlap contributed positively; location_match contributed positively; job_popularity contributed positively",
+    "explainability_status": "PASS"
+  },
+  "explainability_method": "linear_feature_contribution",
+  "protected_features_used": []
+}

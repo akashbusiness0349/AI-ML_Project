@@ -1,0 +1,33 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "objective": "pairwise_learning_to_rank",
+  "training_data": {
+    "source": "data/train.json",
+    "records": 1280
+  },
+  "model_type": "LogisticRegression_on_pairwise_feature_differences",
+  "position_bias_correction": true,
+  "feature_names": [
+    "experience_match",
+    "job_popularity",
+    "location_match",
+    "skill_overlap"
+  ],
+  "training_examples": 5320,
+  "training_metadata": {
+    "sessions": 128,
+    "pairable_sessions": 127,
+    "pair_count": 2660,
+    "pairwise_training_examples": 5320,
+    "positive_pair_examples": 2660,
+    "negative_pair_examples": 2660,
+    "label_classes": [
+      0,
+      1
+    ],
+    "position_bias_correction": true,
+    "propensity_positions": 10
+  },
+  "model_path": "/home/akash/Projects/Altrodav/phase3/task11/models/task11_ltr_model.joblib"
+}

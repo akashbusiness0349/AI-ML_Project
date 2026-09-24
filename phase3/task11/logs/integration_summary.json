@@ -1,0 +1,30 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "COMPLETED",
+  "dataset": {
+    "source_type": "synthetic_logged_impressions",
+    "production_evidence_status": "NOT_PRODUCTION_EVIDENCE"
+  },
+  "data_validation": "PASS",
+  "position_bias": "PASS",
+  "ltr_training": "PASS",
+  "offline_evaluation": "PASS",
+  "explainability": "PASS",
+  "failure_test": "PASS",
+  "executable_demo": "PASS",
+  "nDCG@5": {
+    "ltr": 0.9888637612753955,
+    "baseline": 0.9867474323336135,
+    "delta": 0.002116328941782042
+  },
+  "MAP": {
+    "ltr": 1.0,
+    "baseline": 0.9246948653198653,
+    "delta": 0.07530513468013467
+  },
+  "online_validation": {
+    "status": "NOT_ESTABLISHED",
+    "reason": "Offline evidence does not establish online causal impact."
+  },
+  "final_status": "READY_FOR_ONLINE_TEST"
+}

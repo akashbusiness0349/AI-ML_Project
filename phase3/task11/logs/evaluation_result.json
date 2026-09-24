@@ -1,0 +1,311 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "evaluation_type": "heldout_offline_ranking_evaluation",
+  "candidate_count": 4,
+  "heldout_impression_count": 320,
+  "baseline": "heuristic_ranker",
+  "model": "pairwise_ltr",
+  "metrics": {
+    "ltr": {
+      "nDCG@5": 0.9888637612753955,
+      "nDCG@10": 0.9985436165920781,
+      "MAP": 1.0,
+      "Precision@5": 0.95
+    },
+    "baseline": {
+      "nDCG@5": 0.9867474323336135,
+      "nDCG@10": 0.9910777235544344,
+      "MAP": 0.9246948653198653,
+      "Precision@5": 0.8500000000000001
+    },
+    "delta": {
+      "nDCG@5": 0.002116328941782042,
+      "nDCG@10": 0.007465893037643778,
+      "MAP": 0.07530513468013467,
+      "Precision@5": 0.09999999999999987
+    }
+  },
+  "per_candidate": [
+    {
+      "candidate_id": "candidate_017",
+      "ltr": {
+        "nDCG@5": 1.0,
+        "nDCG@10": 1.0,
+        "MAP": 1.0,
+        "Precision@5": 1.0
+      },
+      "baseline": {
+        "nDCG@5": 0.973494864667227,
+        "nDCG@10": 0.994119868868012,
+        "MAP": 0.9111111111111111,
+        "Precision@5": 0.8
+      },
+      "ltr_top5": [
+        {
+          "job_id": "job_012",
+          "score": 23.498915498359114,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_017",
+          "score": 17.693246851266128,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_003",
+          "score": 12.038646064012102,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_007",
+          "score": 12.003784250203111,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_002",
+          "score": 6.224882067635316,
+          "relevance": 1
+        }
+      ],
+      "baseline_top5": [
+        {
+          "job_id": "job_012",
+          "score": 0.9829999999999999,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_017",
+          "score": 0.7050000000000001,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_003",
+          "score": 0.44,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_007",
+          "score": 0.437,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_014",
+          "score": 0.345,
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_018",
+      "ltr": {
+        "nDCG@5": 1.0,
+        "nDCG@10": 1.0,
+        "MAP": 1.0,
+        "Precision@5": 0.8
+      },
+      "baseline": {
+        "nDCG@5": 1.0,
+        "nDCG@10": 1.0,
+        "MAP": 1.0,
+        "Precision@5": 0.8
+      },
+      "ltr_top5": [
+        {
+          "job_id": "job_013",
+          "score": 23.47567428915312,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_004",
+          "score": 17.78268643277091,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_008",
+          "score": 17.73620401435892,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_018",
+          "score": 17.670005642060136,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_005",
+          "score": 1.0923368326816758,
+          "relevance": 0
+        }
+      ],
+      "baseline_top5": [
+        {
+          "job_id": "job_013",
+          "score": 0.9809999999999999,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_018",
+          "score": 0.7030000000000001,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_004",
+          "score": 0.586,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_008",
+          "score": 0.582,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_014",
+          "score": 0.345,
+          "relevance": 0
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_019",
+      "ltr": {
+        "nDCG@5": 0.9554550451015823,
+        "nDCG@10": 0.9941744663683125,
+        "MAP": 1.0,
+        "Precision@5": 1.0
+      },
+      "baseline": {
+        "nDCG@5": 1.0,
+        "nDCG@10": 0.9804217159379882,
+        "MAP": 0.928409090909091,
+        "Precision@5": 1.0
+      },
+      "ltr_top5": [
+        {
+          "job_id": "job_014",
+          "score": 23.63836275359507,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_019",
+          "score": 17.844314711105085,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_009",
+          "score": 17.840789455785888,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_006",
+          "score": 11.968922436394122,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_001",
+          "score": 6.859618410646474,
+          "relevance": 1
+        }
+      ],
+      "baseline_top5": [
+        {
+          "job_id": "job_014",
+          "score": 0.9949999999999999,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_019",
+          "score": 0.718,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_009",
+          "score": 0.591,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_011",
+          "score": 0.48500000000000004,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_006",
+          "score": 0.434,
+          "relevance": 2
+        }
+      ]
+    },
+    {
+      "candidate_id": "candidate_020",
+      "ltr": {
+        "nDCG@5": 1.0,
+        "nDCG@10": 1.0,
+        "MAP": 1.0,
+        "Precision@5": 1.0
+      },
+      "baseline": {
+        "nDCG@5": 0.973494864667227,
+        "nDCG@10": 0.9897693094117375,
+        "MAP": 0.8592592592592592,
+        "Precision@5": 0.8
+      },
+      "ltr_top5": [
+        {
+          "job_id": "job_015",
+          "score": 23.557018521374097,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_020",
+          "score": 17.809452897296094,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_005",
+          "score": 12.085128482424087,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_010",
+          "score": 12.027025459409105,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_001",
+          "score": 6.859618410646474,
+          "relevance": 1
+        }
+      ],
+      "baseline_top5": [
+        {
+          "job_id": "job_015",
+          "score": 0.9879999999999999,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_020",
+          "score": 0.715,
+          "relevance": 3
+        },
+        {
+          "job_id": "job_005",
+          "score": 0.44399999999999995,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_010",
+          "score": 0.439,
+          "relevance": 2
+        },
+        {
+          "job_id": "job_014",
+          "score": 0.345,
+          "relevance": 0
+        }
+      ]
+    }
+  ],
+  "online_validation": {
+    "status": "NOT_ESTABLISHED",
+    "reason": "No verified production/live A/B traffic is available."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "method": "empirical_inverse_propensity_weighting",
+  "position_propensity": {
+    "1": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "2": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "3": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "4": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "5": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "6": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "7": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "8": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "9": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    },
+    "10": {
+      "estimated_propensity": 0.1,
+      "inverse_weight": 10.0
+    }
+  },
+  "correction_applied": true,
+  "maximum_inverse_weight": 10.0,
+  "weighted_observations": 1600,
+  "interpretation": "Propensities are estimated from the Task 11 logged replay data. They are not claimed to be causal production propensities."
+}

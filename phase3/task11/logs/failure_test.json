@@ -1,0 +1,24 @@
+{
+  "task": "Phase 3 Task 11",
+  "status": "PASS",
+  "normal_path": {
+    "variant": "ltr",
+    "fallback_used": false,
+    "top_job": {
+      "job_id": "job_001",
+      "score": 17.81297815261529,
+      "probability": 0.99999998163792,
+      "position": 1
+    }
+  },
+  "failure_path": {
+    "variant": "heuristic_fallback",
+    "fallback_used": true,
+    "top_job": {
+      "job_id": "job_001",
+      "score": 0.842,
+      "position": 1
+    }
+  },
+  "fallback_test": "PASS"
+}
