@@ -1,0 +1,2562 @@
+[
+  {
+    "interaction_id": "int_00001",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 1,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00002",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00003",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00004",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00005",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00006",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00007",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00008",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00009",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00010",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 10,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00011",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00012",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00013",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00014",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00015",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00016",
+    "session_id": "session_candidate_001",
+    "candidate_id": "candidate_001",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00017",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00018",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00019",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00020",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00021",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 5,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00022",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00023",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 7,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00024",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00025",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 9,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00026",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 10,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00027",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00028",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 12,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00029",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00030",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00031",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00032",
+    "session_id": "session_candidate_002",
+    "candidate_id": "candidate_002",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00033",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00034",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00035",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 3,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00036",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00037",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00038",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00039",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00040",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00041",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00042",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00043",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00044",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00045",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00046",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00047",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00048",
+    "session_id": "session_candidate_003",
+    "candidate_id": "candidate_003",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00049",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00050",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00051",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00052",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 4,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00053",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00054",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00055",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00056",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00057",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00058",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 10,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00059",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00060",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00061",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00062",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00063",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00064",
+    "session_id": "session_candidate_004",
+    "candidate_id": "candidate_004",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00065",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00066",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00067",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 3,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00068",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00069",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00070",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00071",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00072",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00073",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00074",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00075",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00076",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 12,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00077",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00078",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 14,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00079",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 15,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00080",
+    "session_id": "session_candidate_005",
+    "candidate_id": "candidate_005",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00081",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00082",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00083",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00084",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00085",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00086",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00087",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00088",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00089",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00090",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00091",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00092",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00093",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00094",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00095",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00096",
+    "session_id": "session_candidate_006",
+    "candidate_id": "candidate_006",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00097",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00098",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00099",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00100",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00101",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 5,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00102",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00103",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00104",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00105",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00106",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 10,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00107",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00108",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00109",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00110",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 14,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00111",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00112",
+    "session_id": "session_candidate_007",
+    "candidate_id": "candidate_007",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00113",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00114",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00115",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 3,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00116",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00117",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00118",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00119",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00120",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 8,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00121",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00122",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00123",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 11,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00124",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00125",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00126",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00127",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00128",
+    "session_id": "session_candidate_008",
+    "candidate_id": "candidate_008",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00129",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 1,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00130",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00131",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00132",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00133",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00134",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00135",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 7,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00136",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00137",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00138",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00139",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00140",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 12,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00141",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00142",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00143",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00144",
+    "session_id": "session_candidate_009",
+    "candidate_id": "candidate_009",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00145",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00146",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00147",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00148",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00149",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00150",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00151",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00152",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00153",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 9,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00154",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00155",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00156",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00157",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00158",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00159",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00160",
+    "session_id": "session_candidate_010",
+    "candidate_id": "candidate_010",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00161",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00162",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00163",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00164",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00165",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00166",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00167",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 7,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00168",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00169",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00170",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00171",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00172",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00173",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 13,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00174",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00175",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00176",
+    "session_id": "session_candidate_011",
+    "candidate_id": "candidate_011",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 16,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00177",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00178",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00179",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00180",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00181",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 5,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00182",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00183",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00184",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00185",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00186",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 10,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00187",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00188",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00189",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00190",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00191",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00192",
+    "session_id": "session_candidate_012",
+    "candidate_id": "candidate_012",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00193",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 1,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00194",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 2,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00195",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00196",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00197",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00198",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00199",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00200",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00201",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00202",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00203",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00204",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00205",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00206",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00207",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 15,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00208",
+    "session_id": "session_candidate_013",
+    "candidate_id": "candidate_013",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00209",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00210",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00211",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00212",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 4,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00213",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00214",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00215",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00216",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 8,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00217",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00218",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 10,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00219",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00220",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_006",
+    "job_id": "job_016",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00221",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 13,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00222",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00223",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00224",
+    "session_id": "session_candidate_014",
+    "candidate_id": "candidate_014",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 16,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00225",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 1,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00226",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00227",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00228",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 4,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00229",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_010",
+    "job_id": "job_020",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00230",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 6,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00231",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00232",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00233",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 9,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00234",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_005",
+    "job_id": "job_005",
+    "position": 10,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00235",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 11,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00236",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_002",
+    "job_id": "job_002",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00237",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00238",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00239",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00240",
+    "session_id": "session_candidate_015",
+    "candidate_id": "candidate_015",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 16,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00241",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_008",
+    "job_id": "job_008",
+    "position": 1,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00242",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_007",
+    "job_id": "job_007",
+    "position": 2,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00243",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_005",
+    "job_id": "job_015",
+    "position": 3,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00244",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_002",
+    "job_id": "job_012",
+    "position": 4,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00245",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_010",
+    "job_id": "job_010",
+    "position": 5,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00246",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_004",
+    "job_id": "job_014",
+    "position": 6,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00247",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_003",
+    "job_id": "job_013",
+    "position": 7,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00248",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_004",
+    "job_id": "job_004",
+    "position": 8,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00249",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_008",
+    "job_id": "job_018",
+    "position": 9,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00250",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_001",
+    "job_id": "job_001",
+    "position": 10,
+    "event_type": "apply",
+    "relevance": 3
+  },
+  {
+    "interaction_id": "int_00251",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_007",
+    "job_id": "job_017",
+    "position": 11,
+    "event_type": "impression",
+    "relevance": 0
+  },
+  {
+    "interaction_id": "int_00252",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_009",
+    "job_id": "job_019",
+    "position": 12,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00253",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_006",
+    "job_id": "job_006",
+    "position": 13,
+    "event_type": "click",
+    "relevance": 2
+  },
+  {
+    "interaction_id": "int_00254",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_003",
+    "job_id": "job_003",
+    "position": 14,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00255",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_001",
+    "job_id": "job_011",
+    "position": 15,
+    "event_type": "click",
+    "relevance": 1
+  },
+  {
+    "interaction_id": "int_00256",
+    "session_id": "session_candidate_016",
+    "candidate_id": "candidate_016",
+    "company_id": "company_009",
+    "job_id": "job_009",
+    "position": 16,
+    "event_type": "impression",
+    "relevance": 0
+  }
+]

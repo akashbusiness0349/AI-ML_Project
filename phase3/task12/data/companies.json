@@ -1,0 +1,122 @@
+[
+  {
+    "company_id": "company_001",
+    "name": "Company 001",
+    "skills": [
+      "css",
+      "excel",
+      "react",
+      "aws"
+    ],
+    "preferred_experience": "entry",
+    "location": "Delhi"
+  },
+  {
+    "company_id": "company_002",
+    "name": "Company 002",
+    "skills": [
+      "machine learning",
+      "data analysis",
+      "excel",
+      "tensorflow"
+    ],
+    "preferred_experience": "mid",
+    "location": "Bangalore"
+  },
+  {
+    "company_id": "company_003",
+    "name": "Company 003",
+    "skills": [
+      "java",
+      "machine learning",
+      "tensorflow",
+      "css"
+    ],
+    "preferred_experience": "senior",
+    "location": "Pune"
+  },
+  {
+    "company_id": "company_004",
+    "name": "Company 004",
+    "skills": [
+      "spring",
+      "pandas",
+      "excel",
+      "aws"
+    ],
+    "preferred_experience": "entry",
+    "location": "Hyderabad"
+  },
+  {
+    "company_id": "company_005",
+    "name": "Company 005",
+    "skills": [
+      "java",
+      "excel",
+      "javascript",
+      "docker"
+    ],
+    "preferred_experience": "mid",
+    "location": "Mumbai"
+  },
+  {
+    "company_id": "company_006",
+    "name": "Company 006",
+    "skills": [
+      "sql",
+      "fastapi",
+      "kubernetes",
+      "python"
+    ],
+    "preferred_experience": "senior",
+    "location": "Delhi"
+  },
+  {
+    "company_id": "company_007",
+    "name": "Company 007",
+    "skills": [
+      "excel",
+      "css",
+      "react",
+      "sql"
+    ],
+    "preferred_experience": "entry",
+    "location": "Bangalore"
+  },
+  {
+    "company_id": "company_008",
+    "name": "Company 008",
+    "skills": [
+      "css",
+      "pandas",
+      "data analysis",
+      "aws"
+    ],
+    "preferred_experience": "mid",
+    "location": "Pune"
+  },
+  {
+    "company_id": "company_009",
+    "name": "Company 009",
+    "skills": [
+      "excel",
+      "fastapi",
+      "tensorflow",
+      "java"
+    ],
+    "preferred_experience": "senior",
+    "location": "Hyderabad"
+  },
+  {
+    "company_id": "company_010",
+    "name": "Company 010",
+    "skills": [
+      "docker",
+      "pandas",
+      "excel",
+      "java"
+    ],
+    "preferred_experience": "entry",
+    "location": "Mumbai"
+  }
+]

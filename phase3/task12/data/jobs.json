@@ -1,0 +1,282 @@
+[
+  {
+    "job_id": "job_001",
+    "title": "Technology Role 001",
+    "company_id": "company_001",
+    "skills": [
+      "react",
+      "tensorflow",
+      "machine learning",
+      "fastapi"
+    ],
+    "experience_level": "entry",
+    "location": "Delhi",
+    "popularity": 97
+  },
+  {
+    "job_id": "job_002",
+    "title": "Technology Role 002",
+    "company_id": "company_002",
+    "skills": [
+      "spring",
+      "aws",
+      "data analysis",
+      "css"
+    ],
+    "experience_level": "mid",
+    "location": "Bangalore",
+    "popularity": 87
+  },
+  {
+    "job_id": "job_003",
+    "title": "Technology Role 003",
+    "company_id": "company_003",
+    "skills": [
+      "docker",
+      "javascript",
+      "fastapi",
+      "machine learning"
+    ],
+    "experience_level": "senior",
+    "location": "Pune",
+    "popularity": 82
+  },
+  {
+    "job_id": "job_004",
+    "title": "Technology Role 004",
+    "company_id": "company_004",
+    "skills": [
+      "tensorflow",
+      "sql",
+      "docker",
+      "python"
+    ],
+    "experience_level": "entry",
+    "location": "Hyderabad",
+    "popularity": 57
+  },
+  {
+    "job_id": "job_005",
+    "title": "Technology Role 005",
+    "company_id": "company_005",
+    "skills": [
+      "react",
+      "excel",
+      "machine learning",
+      "docker"
+    ],
+    "experience_level": "mid",
+    "location": "Mumbai",
+    "popularity": 93
+  },
+  {
+    "job_id": "job_006",
+    "title": "Technology Role 006",
+    "company_id": "company_006",
+    "skills": [
+      "kubernetes",
+      "data analysis",
+      "sql",
+      "css"
+    ],
+    "experience_level": "senior",
+    "location": "Delhi",
+    "popularity": 74
+  },
+  {
+    "job_id": "job_007",
+    "title": "Technology Role 007",
+    "company_id": "company_007",
+    "skills": [
+      "pandas",
+      "spring",
+      "react",
+      "tensorflow"
+    ],
+    "experience_level": "entry",
+    "location": "Bangalore",
+    "popularity": 50
+  },
+  {
+    "job_id": "job_008",
+    "title": "Technology Role 008",
+    "company_id": "company_008",
+    "skills": [
+      "fastapi",
+      "excel",
+      "spring",
+      "docker"
+    ],
+    "experience_level": "mid",
+    "location": "Pune",
+    "popularity": 67
+  },
+  {
+    "job_id": "job_009",
+    "title": "Technology Role 009",
+    "company_id": "company_009",
+    "skills": [
+      "excel",
+      "sql",
+      "react",
+      "css"
+    ],
+    "experience_level": "senior",
+    "location": "Hyderabad",
+    "popularity": 60
+  },
+  {
+    "job_id": "job_010",
+    "title": "Technology Role 010",
+    "company_id": "company_010",
+    "skills": [
+      "pandas",
+      "python",
+      "aws",
+      "kubernetes"
+    ],
+    "experience_level": "entry",
+    "location": "Mumbai",
+    "popularity": 66
+  },
+  {
+    "job_id": "job_011",
+    "title": "Technology Role 011",
+    "company_id": "company_001",
+    "skills": [
+      "javascript",
+      "spring",
+      "sql",
+      "excel"
+    ],
+    "experience_level": "mid",
+    "location": "Delhi",
+    "popularity": 69
+  },
+  {
+    "job_id": "job_012",
+    "title": "Technology Role 012",
+    "company_id": "company_002",
+    "skills": [
+      "css",
+      "machine learning",
+      "javascript",
+      "docker"
+    ],
+    "experience_level": "senior",
+    "location": "Bangalore",
+    "popularity": 60
+  },
+  {
+    "job_id": "job_013",
+    "title": "Technology Role 013",
+    "company_id": "company_003",
+    "skills": [
+      "python",
+      "data analysis",
+      "javascript",
+      "java"
+    ],
+    "experience_level": "entry",
+    "location": "Pune",
+    "popularity": 51
+  },
+  {
+    "job_id": "job_014",
+    "title": "Technology Role 014",
+    "company_id": "company_004",
+    "skills": [
+      "fastapi",
+      "pandas",
+      "javascript",
+      "docker"
+    ],
+    "experience_level": "mid",
+    "location": "Hyderabad",
+    "popularity": 69
+  },
+  {
+    "job_id": "job_015",
+    "title": "Technology Role 015",
+    "company_id": "company_005",
+    "skills": [
+      "java",
+      "python",
+      "fastapi",
+      "data analysis"
+    ],
+    "experience_level": "senior",
+    "location": "Mumbai",
+    "popularity": 55
+  },
+  {
+    "job_id": "job_016",
+    "title": "Technology Role 016",
+    "company_id": "company_006",
+    "skills": [
+      "machine learning",
+      "aws",
+      "java",
+      "sql"
+    ],
+    "experience_level": "entry",
+    "location": "Delhi",
+    "popularity": 98
+  },
+  {
+    "job_id": "job_017",
+    "title": "Technology Role 017",
+    "company_id": "company_007",
+    "skills": [
+      "react",
+      "machine learning",
+      "excel",
+      "java"
+    ],
+    "experience_level": "mid",
+    "location": "Bangalore",
+    "popularity": 85
+  },
+  {
+    "job_id": "job_018",
+    "title": "Technology Role 018",
+    "company_id": "company_008",
+    "skills": [
+      "javascript",
+      "react",
+      "spring",
+      "data analysis"
+    ],
+    "experience_level": "senior",
+    "location": "Pune",
+    "popularity": 77
+  },
+  {
+    "job_id": "job_019",
+    "title": "Technology Role 019",
+    "company_id": "company_009",
+    "skills": [
+      "css",
+      "pandas",
+      "spring",
+      "docker"
+    ],
+    "experience_level": "entry",
+    "location": "Hyderabad",
+    "popularity": 96
+  },
+  {
+    "job_id": "job_020",
+    "title": "Technology Role 020",
+    "company_id": "company_010",
+    "skills": [
+      "css",
+      "aws",
+      "react",
+      "tensorflow"
+    ],
+    "experience_level": "mid",
+    "location": "Mumbai",
+    "popularity": 92
+  }
+]

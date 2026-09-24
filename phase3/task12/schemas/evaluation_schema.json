@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task12 Evaluation",
+  "type": "object",
+  "required": [
+    "Precision@5",
+    "Coverage",
+    "Diversity"
+  ],
+  "properties": {
+    "Precision@5": {
+      "type": "number"
+    },
+    "Coverage": {
+      "type": "number"
+    },
+    "Diversity": {
+      "type": "number"
+    }
+  }
+}

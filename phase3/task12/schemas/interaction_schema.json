@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task12 Recommendation Interaction",
+  "type": "object",
+  "required": [
+    "interaction_id",
+    "session_id",
+    "candidate_id",
+    "company_id",
+    "job_id",
+    "position",
+    "event_type",
+    "relevance"
+  ],
+  "properties": {
+    "interaction_id": {
+      "type": "string"
+    },
+    "session_id": {
+      "type": "string"
+    },
+    "candidate_id": {
+      "type": "string"
+    },
+    "company_id": {
+      "type": "string"
+    },
+    "job_id": {
+      "type": "string"
+    },
+    "position": {
+      "type": "integer"
+    },
+    "event_type": {
+      "type": "string"
+    },
+    "relevance": {
+      "type": "number"
+    }
+  }
+}

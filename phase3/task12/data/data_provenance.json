@@ -1,0 +1,16 @@
+{
+  "task": "Phase 3 Task 12",
+  "dataset_version": "1.0",
+  "source_type": "synthetic_logged_recommendation_interactions",
+  "production_data_available": false,
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "random_seed": 42,
+  "candidate_count": 20,
+  "company_count": 10,
+  "job_count": 20,
+  "interaction_count": 320,
+  "train_count": 256,
+  "heldout_count": 64,
+  "split_strategy": "session_grouped_deterministic_holdout",
+  "task_ownership": "Task 12 independent dataset"
+}

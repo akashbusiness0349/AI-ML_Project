@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task12 Company",
+  "type": "object",
+  "required": [
+    "company_id",
+    "name",
+    "skills",
+    "preferred_experience",
+    "location"
+  ],
+  "properties": {
+    "company_id": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "skills": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "preferred_experience": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
+    }
+  }
+}

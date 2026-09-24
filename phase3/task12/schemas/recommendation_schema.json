@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task12 Recommendation",
+  "type": "object",
+  "required": [
+    "status",
+    "direction",
+    "recommendations"
+  ],
+  "properties": {
+    "status": {
+      "type": "string"
+    },
+    "direction": {
+      "type": "string"
+    },
+    "recommendations": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      }
+    }
+  }
+}

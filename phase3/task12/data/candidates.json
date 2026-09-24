@@ -1,0 +1,222 @@
+[
+  {
+    "candidate_id": "candidate_001",
+    "skills": [
+      "fastapi",
+      "python",
+      "aws",
+      "react"
+    ],
+    "experience_level": "entry",
+    "location": "Delhi"
+  },
+  {
+    "candidate_id": "candidate_002",
+    "skills": [
+      "java",
+      "fastapi",
+      "machine learning",
+      "aws"
+    ],
+    "experience_level": "mid",
+    "location": "Bangalore"
+  },
+  {
+    "candidate_id": "candidate_003",
+    "skills": [
+      "fastapi",
+      "excel",
+      "aws",
+      "spring"
+    ],
+    "experience_level": "senior",
+    "location": "Pune"
+  },
+  {
+    "candidate_id": "candidate_004",
+    "skills": [
+      "machine learning",
+      "data analysis",
+      "css",
+      "python"
+    ],
+    "experience_level": "entry",
+    "location": "Hyderabad"
+  },
+  {
+    "candidate_id": "candidate_005",
+    "skills": [
+      "python",
+      "sql",
+      "fastapi",
+      "kubernetes"
+    ],
+    "experience_level": "mid",
+    "location": "Mumbai"
+  },
+  {
+    "candidate_id": "candidate_006",
+    "skills": [
+      "python",
+      "spring",
+      "fastapi",
+      "aws"
+    ],
+    "experience_level": "senior",
+    "location": "Delhi"
+  },
+  {
+    "candidate_id": "candidate_007",
+    "skills": [
+      "kubernetes",
+      "fastapi",
+      "java",
+      "data analysis"
+    ],
+    "experience_level": "entry",
+    "location": "Bangalore"
+  },
+  {
+    "candidate_id": "candidate_008",
+    "skills": [
+      "spring",
+      "docker",
+      "kubernetes",
+      "python"
+    ],
+    "experience_level": "mid",
+    "location": "Pune"
+  },
+  {
+    "candidate_id": "candidate_009",
+    "skills": [
+      "javascript",
+      "aws",
+      "css",
+      "tensorflow"
+    ],
+    "experience_level": "senior",
+    "location": "Hyderabad"
+  },
+  {
+    "candidate_id": "candidate_010",
+    "skills": [
+      "spring",
+      "machine learning",
+      "fastapi",
+      "docker"
+    ],
+    "experience_level": "entry",
+    "location": "Mumbai"
+  },
+  {
+    "candidate_id": "candidate_011",
+    "skills": [
+      "excel",
+      "sql",
+      "pandas",
+      "css"
+    ],
+    "experience_level": "mid",
+    "location": "Delhi"
+  },
+  {
+    "candidate_id": "candidate_012",
+    "skills": [
+      "fastapi",
+      "javascript",
+      "kubernetes",
+      "pandas"
+    ],
+    "experience_level": "senior",
+    "location": "Bangalore"
+  },
+  {
+    "candidate_id": "candidate_013",
+    "skills": [
+      "spring",
+      "docker",
+      "python",
+      "aws"
+    ],
+    "experience_level": "entry",
+    "location": "Pune"
+  },
+  {
+    "candidate_id": "candidate_014",
+    "skills": [
+      "pandas",
+      "spring",
+      "sql",
+      "css"
+    ],
+    "experience_level": "mid",
+    "location": "Hyderabad"
+  },
+  {
+    "candidate_id": "candidate_015",
+    "skills": [
+      "machine learning",
+      "spring",
+      "react",
+      "excel"
+    ],
+    "experience_level": "senior",
+    "location": "Mumbai"
+  },
+  {
+    "candidate_id": "candidate_016",
+    "skills": [
+      "aws",
+      "data analysis",
+      "fastapi",
+      "tensorflow"
+    ],
+    "experience_level": "entry",
+    "location": "Delhi"
+  },
+  {
+    "candidate_id": "candidate_017",
+    "skills": [
+      "machine learning",
+      "python",
+      "excel",
+      "fastapi"
+    ],
+    "experience_level": "mid",
+    "location": "Bangalore"
+  },
+  {
+    "candidate_id": "candidate_018",
+    "skills": [
+      "data analysis",
+      "sql",
+      "kubernetes",
+      "fastapi"
+    ],
+    "experience_level": "senior",
+    "location": "Pune"
+  },
+  {
+    "candidate_id": "candidate_019",
+    "skills": [
+      "fastapi",
+      "css",
+      "react",
+      "java"
+    ],
+    "experience_level": "entry",
+    "location": "Hyderabad"
+  },
+  {
+    "candidate_id": "candidate_020",
+    "skills": [
+      "aws",
+      "machine learning",
+      "javascript",
+      "kubernetes"
+    ],
+    "experience_level": "mid",
+    "location": "Mumbai"
+  }
+]
