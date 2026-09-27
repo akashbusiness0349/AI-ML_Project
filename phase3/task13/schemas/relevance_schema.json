@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Search Relevance Label",
+  "type": "object",
+  "required": [
+    "query_id",
+    "relevant_ids",
+    "relevance"
+  ],
+  "properties": {
+    "query_id": {
+      "type": "string"
+    },
+    "relevant_ids": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "relevance": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "integer"
+      }
+    }
+  }
+}

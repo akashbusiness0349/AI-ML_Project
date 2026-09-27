@@ -1,0 +1,54 @@
+{
+  "task": "Phase 3 Task 13",
+  "status": "PASS",
+  "evaluation_type": "heldout_labelled_search_evaluation",
+  "production_data_available": false,
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "heldout_queries": 24,
+  "selected_hybrid_weight": 0.0,
+  "keyword": {
+    "precision@5": 1.0,
+    "recall@5": 0.32245442036463706,
+    "MRR": 1.0,
+    "nDCG@5": 1.0,
+    "Precision@5": 1.0,
+    "Recall@5": 0.32245442036463706
+  },
+  "semantic": {
+    "precision@5": 1.0,
+    "recall@5": 0.32245442036463706,
+    "MRR": 1.0,
+    "nDCG@5": 1.0,
+    "Precision@5": 1.0,
+    "Recall@5": 0.32245442036463706
+  },
+  "hybrid": {
+    "precision@5": 1.0,
+    "recall@5": 0.32245442036463706,
+    "MRR": 1.0,
+    "nDCG@5": 1.0,
+    "Precision@5": 1.0,
+    "Recall@5": 0.32245442036463706
+  },
+  "semantic_minus_keyword": {
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "MRR": 0.0,
+    "nDCG@5": 0.0,
+    "Precision@5": 0.0,
+    "Recall@5": 0.0
+  },
+  "hybrid_minus_keyword": {
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "MRR": 0.0,
+    "nDCG@5": 0.0,
+    "Precision@5": 0.0,
+    "Recall@5": 0.0
+  },
+  "tuning_data_separate_from_heldout": true,
+  "online_validation": {
+    "status": "NOT_ESTABLISHED",
+    "reason": "No verified production/live traffic was available."
+  }
+}

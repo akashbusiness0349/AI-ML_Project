@@ -1,0 +1,15 @@
+{
+  "task": "Phase 3 Task 13",
+  "dataset_version": "1.0",
+  "source_type": "synthetic_reproducible_search_corpus",
+  "production_data_available": false,
+  "production_evidence_status": "NOT_PRODUCTION_EVIDENCE",
+  "random_seed": 42,
+  "resume_count": 60,
+  "job_count": 40,
+  "query_count": 48,
+  "train_query_count": 24,
+  "heldout_query_count": 24,
+  "labelled_evaluation": true,
+  "note": "Task 13 owns this dataset independently. No previous task data is required."
+}

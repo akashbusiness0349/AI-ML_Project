@@ -1,0 +1,290 @@
+[
+  {
+    "query_id": "query_040",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_024",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_030",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_017",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_021",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_010",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "train"
+  },
+  {
+    "query_id": "query_048",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_042",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "train"
+  },
+  {
+    "query_id": "query_029",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_012",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "train"
+  },
+  {
+    "query_id": "query_008",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_003",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "train"
+  },
+  {
+    "query_id": "query_007",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_026",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_043",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "train"
+  },
+  {
+    "query_id": "query_019",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_044",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "train"
+  },
+  {
+    "query_id": "query_028",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_018",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_005",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_033",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "train"
+  },
+  {
+    "query_id": "query_006",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_035",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "train"
+  },
+  {
+    "query_id": "query_036",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "train"
+  },
+  {
+    "query_id": "query_022",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_011",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "train"
+  },
+  {
+    "query_id": "query_013",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_039",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_016",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_047",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_009",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "train"
+  },
+  {
+    "query_id": "query_034",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "train"
+  },
+  {
+    "query_id": "query_032",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_015",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_046",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_041",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "train"
+  },
+  {
+    "query_id": "query_020",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_023",
+    "query": "frontend developer for modern web applications",
+    "target_group": "frontend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_001",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "train"
+  },
+  {
+    "query_id": "query_031",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_045",
+    "query": "business data reporting and analytics",
+    "target_group": "analytics",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_037",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_002",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "train"
+  },
+  {
+    "query_id": "query_038",
+    "query": "cloud infrastructure and deployment engineer",
+    "target_group": "cloud",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_025",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_027",
+    "query": "backend API engineer",
+    "target_group": "backend",
+    "split": "train"
+  },
+  {
+    "query_id": "query_014",
+    "query": "machine learning model development",
+    "target_group": "machine learning",
+    "split": "heldout"
+  },
+  {
+    "query_id": "query_004",
+    "query": "someone who can build data pipelines",
+    "target_group": "data engineering",
+    "split": "train"
+  }
+]

@@ -1,0 +1,962 @@
+[
+  {
+    "resume_id": "resume_001",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "sql",
+      "reporting",
+      "tableau",
+      "excel",
+      "data analysis"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_002",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "sql",
+      "data analysis",
+      "statistics",
+      "reporting",
+      "tableau"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_003",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "python",
+      "postgresql",
+      "sql",
+      "etl",
+      "airflow"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_004",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "etl",
+      "sql",
+      "postgresql",
+      "spark",
+      "python"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_005",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "kubernetes",
+      "aws",
+      "docker",
+      "terraform",
+      "ci cd"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_006",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "scikit-learn",
+      "pytorch",
+      "python",
+      "machine learning",
+      "mlops"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_007",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "nextjs",
+      "typescript",
+      "css",
+      "frontend",
+      "react"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_008",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "postgresql",
+      "python",
+      "rest api",
+      "microservices",
+      "django"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_009",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "statistics",
+      "tableau",
+      "reporting",
+      "excel",
+      "data analysis"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_010",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "data pipelines",
+      "sql",
+      "airflow",
+      "python",
+      "spark"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_011",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "spark",
+      "airflow",
+      "postgresql",
+      "data pipelines",
+      "python"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_012",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "javascript",
+      "frontend",
+      "typescript",
+      "react",
+      "css"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_013",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "machine learning",
+      "model training",
+      "scikit-learn",
+      "mlops",
+      "tensorflow"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_014",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "frontend",
+      "nextjs",
+      "css",
+      "javascript",
+      "typescript"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_015",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "sql",
+      "python",
+      "airflow",
+      "spark",
+      "postgresql"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_016",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "machine learning",
+      "model training",
+      "pytorch",
+      "scikit-learn",
+      "mlops"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_017",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "microservices",
+      "rest api",
+      "fastapi",
+      "django",
+      "python"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_018",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "statistics",
+      "reporting",
+      "tableau",
+      "power bi",
+      "data analysis"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_019",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "javascript",
+      "nextjs",
+      "css",
+      "html",
+      "react"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_020",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "postgresql",
+      "python",
+      "sql",
+      "etl",
+      "airflow"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_021",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "aws",
+      "terraform",
+      "cloud",
+      "ci cd",
+      "kubernetes"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_022",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "linux",
+      "aws",
+      "cloud",
+      "kubernetes",
+      "terraform"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_023",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "airflow",
+      "spark",
+      "sql",
+      "data pipelines",
+      "python"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_024",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "tableau",
+      "statistics",
+      "excel",
+      "sql",
+      "reporting"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_025",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "statistics",
+      "reporting",
+      "excel",
+      "data analysis",
+      "power bi"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_026",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "machine learning",
+      "mlops",
+      "python",
+      "pytorch",
+      "scikit-learn"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_027",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "airflow",
+      "postgresql",
+      "sql",
+      "python",
+      "spark"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_028",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "python",
+      "data pipelines",
+      "spark",
+      "postgresql",
+      "airflow"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_029",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "scikit-learn",
+      "model training",
+      "tensorflow",
+      "mlops",
+      "machine learning"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_030",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "terraform",
+      "docker",
+      "ci cd",
+      "cloud",
+      "kubernetes"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_031",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "microservices",
+      "backend",
+      "django",
+      "rest api",
+      "postgresql"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_032",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "sql",
+      "postgresql",
+      "python",
+      "airflow",
+      "etl"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_033",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "docker",
+      "ci cd",
+      "linux",
+      "aws",
+      "terraform"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_034",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "sql",
+      "excel",
+      "reporting",
+      "statistics",
+      "data analysis"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_035",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "docker",
+      "kubernetes",
+      "terraform",
+      "linux",
+      "cloud"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_036",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "statistics",
+      "reporting",
+      "power bi",
+      "excel",
+      "data analysis"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_037",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "fastapi",
+      "python",
+      "microservices",
+      "rest api",
+      "backend"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_038",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "rest api",
+      "microservices",
+      "python",
+      "postgresql",
+      "backend"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_039",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "tableau",
+      "sql",
+      "excel",
+      "statistics",
+      "data analysis"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_040",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "fastapi",
+      "rest api",
+      "backend",
+      "django",
+      "postgresql"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_041",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "spark",
+      "etl",
+      "python",
+      "data pipelines",
+      "airflow"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_042",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "python",
+      "sql",
+      "data pipelines",
+      "spark",
+      "etl"
+    ],
+    "experience": [
+      "4 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_043",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "mlops",
+      "tensorflow",
+      "python",
+      "scikit-learn",
+      "model training"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_044",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "django",
+      "rest api",
+      "backend",
+      "microservices",
+      "postgresql"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_045",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "cloud",
+      "linux",
+      "terraform",
+      "docker",
+      "aws"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_046",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "python",
+      "machine learning",
+      "model training",
+      "mlops",
+      "pytorch"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_047",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "python",
+      "etl",
+      "spark",
+      "sql",
+      "postgresql"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_048",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "postgresql",
+      "sql",
+      "python",
+      "etl",
+      "airflow"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_049",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "tensorflow",
+      "python",
+      "machine learning",
+      "scikit-learn",
+      "pytorch"
+    ],
+    "experience": [
+      "5 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_050",
+    "title": "Data Engineering Specialist",
+    "summary": "Professional focused on data engineering, building practical software and data solutions.",
+    "skills": [
+      "etl",
+      "python",
+      "spark",
+      "airflow",
+      "sql"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on data engineering projects"
+    ]
+  },
+  {
+    "resume_id": "resume_051",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "data analysis",
+      "tableau",
+      "excel",
+      "reporting",
+      "statistics"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_052",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "data analysis",
+      "tableau",
+      "power bi",
+      "reporting",
+      "sql"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_053",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "postgresql",
+      "backend",
+      "python",
+      "microservices",
+      "django"
+    ],
+    "experience": [
+      "2 years of professional experience",
+      "Worked on backend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_054",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "kubernetes",
+      "docker",
+      "linux",
+      "aws",
+      "terraform"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_055",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "javascript",
+      "html",
+      "css",
+      "typescript",
+      "frontend"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_056",
+    "title": "Analytics Specialist",
+    "summary": "Professional focused on analytics, building practical software and data solutions.",
+    "skills": [
+      "statistics",
+      "sql",
+      "reporting",
+      "tableau",
+      "power bi"
+    ],
+    "experience": [
+      "1 years of professional experience",
+      "Worked on analytics projects"
+    ]
+  },
+  {
+    "resume_id": "resume_057",
+    "title": "Machine Learning Specialist",
+    "summary": "Professional focused on machine learning, building practical software and data solutions.",
+    "skills": [
+      "pytorch",
+      "python",
+      "model training",
+      "scikit-learn",
+      "tensorflow"
+    ],
+    "experience": [
+      "3 years of professional experience",
+      "Worked on machine learning projects"
+    ]
+  },
+  {
+    "resume_id": "resume_058",
+    "title": "Cloud Specialist",
+    "summary": "Professional focused on cloud, building practical software and data solutions.",
+    "skills": [
+      "docker",
+      "cloud",
+      "kubernetes",
+      "linux",
+      "ci cd"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on cloud projects"
+    ]
+  },
+  {
+    "resume_id": "resume_059",
+    "title": "Frontend Specialist",
+    "summary": "Professional focused on frontend, building practical software and data solutions.",
+    "skills": [
+      "css",
+      "html",
+      "typescript",
+      "react",
+      "frontend"
+    ],
+    "experience": [
+      "6 years of professional experience",
+      "Worked on frontend projects"
+    ]
+  },
+  {
+    "resume_id": "resume_060",
+    "title": "Backend Specialist",
+    "summary": "Professional focused on backend, building practical software and data solutions.",
+    "skills": [
+      "backend",
+      "django",
+      "python",
+      "postgresql",
+      "fastapi"
+    ],
+    "experience": [
+      "7 years of professional experience",
+      "Worked on backend projects"
+    ]
+  }
+]

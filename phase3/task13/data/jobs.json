@@ -1,0 +1,482 @@
+[
+  {
+    "job_id": "job_001",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "model training",
+      "pytorch",
+      "scikit-learn",
+      "tensorflow",
+      "mlops"
+    ]
+  },
+  {
+    "job_id": "job_002",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "power bi",
+      "statistics",
+      "sql",
+      "data analysis",
+      "reporting"
+    ]
+  },
+  {
+    "job_id": "job_003",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "excel",
+      "statistics",
+      "sql",
+      "tableau",
+      "power bi"
+    ]
+  },
+  {
+    "job_id": "job_004",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "docker",
+      "terraform",
+      "linux",
+      "aws",
+      "ci cd"
+    ]
+  },
+  {
+    "job_id": "job_005",
+    "title": "Frontend Engineer",
+    "description": "We are looking for an engineer experienced in frontend and related engineering practices.",
+    "requirements": [
+      "nextjs",
+      "react",
+      "typescript",
+      "javascript",
+      "css"
+    ]
+  },
+  {
+    "job_id": "job_006",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "model training",
+      "python",
+      "pytorch",
+      "tensorflow",
+      "machine learning"
+    ]
+  },
+  {
+    "job_id": "job_007",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "excel",
+      "reporting",
+      "data analysis",
+      "statistics",
+      "power bi"
+    ]
+  },
+  {
+    "job_id": "job_008",
+    "title": "Data Engineering Engineer",
+    "description": "We are looking for an engineer experienced in data engineering and related engineering practices.",
+    "requirements": [
+      "sql",
+      "data pipelines",
+      "airflow",
+      "spark",
+      "etl"
+    ]
+  },
+  {
+    "job_id": "job_009",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "reporting",
+      "excel",
+      "tableau",
+      "data analysis",
+      "statistics"
+    ]
+  },
+  {
+    "job_id": "job_010",
+    "title": "Data Engineering Engineer",
+    "description": "We are looking for an engineer experienced in data engineering and related engineering practices.",
+    "requirements": [
+      "spark",
+      "python",
+      "postgresql",
+      "sql",
+      "data pipelines"
+    ]
+  },
+  {
+    "job_id": "job_011",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "django",
+      "backend",
+      "fastapi",
+      "postgresql",
+      "python"
+    ]
+  },
+  {
+    "job_id": "job_012",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "excel",
+      "power bi",
+      "tableau",
+      "statistics",
+      "sql"
+    ]
+  },
+  {
+    "job_id": "job_013",
+    "title": "Frontend Engineer",
+    "description": "We are looking for an engineer experienced in frontend and related engineering practices.",
+    "requirements": [
+      "typescript",
+      "frontend",
+      "css",
+      "html",
+      "nextjs"
+    ]
+  },
+  {
+    "job_id": "job_014",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "kubernetes",
+      "aws",
+      "cloud",
+      "linux",
+      "ci cd"
+    ]
+  },
+  {
+    "job_id": "job_015",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "kubernetes",
+      "aws",
+      "cloud",
+      "terraform",
+      "docker"
+    ]
+  },
+  {
+    "job_id": "job_016",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "reporting",
+      "tableau",
+      "power bi",
+      "sql",
+      "excel"
+    ]
+  },
+  {
+    "job_id": "job_017",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "docker",
+      "kubernetes",
+      "aws",
+      "terraform",
+      "ci cd"
+    ]
+  },
+  {
+    "job_id": "job_018",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "linux",
+      "ci cd",
+      "docker",
+      "kubernetes",
+      "cloud"
+    ]
+  },
+  {
+    "job_id": "job_019",
+    "title": "Data Engineering Engineer",
+    "description": "We are looking for an engineer experienced in data engineering and related engineering practices.",
+    "requirements": [
+      "data pipelines",
+      "airflow",
+      "etl",
+      "postgresql",
+      "spark"
+    ]
+  },
+  {
+    "job_id": "job_020",
+    "title": "Data Engineering Engineer",
+    "description": "We are looking for an engineer experienced in data engineering and related engineering practices.",
+    "requirements": [
+      "data pipelines",
+      "airflow",
+      "etl",
+      "postgresql",
+      "spark"
+    ]
+  },
+  {
+    "job_id": "job_021",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "django",
+      "rest api",
+      "backend",
+      "fastapi",
+      "python"
+    ]
+  },
+  {
+    "job_id": "job_022",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "microservices",
+      "rest api",
+      "fastapi",
+      "django",
+      "postgresql"
+    ]
+  },
+  {
+    "job_id": "job_023",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "linux",
+      "aws",
+      "kubernetes",
+      "ci cd",
+      "cloud"
+    ]
+  },
+  {
+    "job_id": "job_024",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "backend",
+      "postgresql",
+      "microservices",
+      "django",
+      "fastapi"
+    ]
+  },
+  {
+    "job_id": "job_025",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "rest api",
+      "microservices",
+      "fastapi",
+      "backend",
+      "django"
+    ]
+  },
+  {
+    "job_id": "job_026",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "model training",
+      "python",
+      "pytorch",
+      "machine learning",
+      "mlops"
+    ]
+  },
+  {
+    "job_id": "job_027",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "model training",
+      "pytorch",
+      "scikit-learn",
+      "machine learning",
+      "python"
+    ]
+  },
+  {
+    "job_id": "job_028",
+    "title": "Data Engineering Engineer",
+    "description": "We are looking for an engineer experienced in data engineering and related engineering practices.",
+    "requirements": [
+      "python",
+      "sql",
+      "spark",
+      "postgresql",
+      "data pipelines"
+    ]
+  },
+  {
+    "job_id": "job_029",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "microservices",
+      "postgresql",
+      "fastapi",
+      "rest api",
+      "backend"
+    ]
+  },
+  {
+    "job_id": "job_030",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "fastapi",
+      "backend",
+      "python",
+      "postgresql",
+      "microservices"
+    ]
+  },
+  {
+    "job_id": "job_031",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "scikit-learn",
+      "model training",
+      "machine learning",
+      "tensorflow",
+      "python"
+    ]
+  },
+  {
+    "job_id": "job_032",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "docker",
+      "aws",
+      "terraform",
+      "linux",
+      "ci cd"
+    ]
+  },
+  {
+    "job_id": "job_033",
+    "title": "Analytics Engineer",
+    "description": "We are looking for an engineer experienced in analytics and related engineering practices.",
+    "requirements": [
+      "statistics",
+      "reporting",
+      "data analysis",
+      "tableau",
+      "excel"
+    ]
+  },
+  {
+    "job_id": "job_034",
+    "title": "Cloud Engineer",
+    "description": "We are looking for an engineer experienced in cloud and related engineering practices.",
+    "requirements": [
+      "linux",
+      "cloud",
+      "ci cd",
+      "terraform",
+      "kubernetes"
+    ]
+  },
+  {
+    "job_id": "job_035",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "fastapi",
+      "microservices",
+      "rest api",
+      "postgresql",
+      "backend"
+    ]
+  },
+  {
+    "job_id": "job_036",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "mlops",
+      "model training",
+      "pytorch",
+      "tensorflow",
+      "machine learning"
+    ]
+  },
+  {
+    "job_id": "job_037",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "pytorch",
+      "tensorflow",
+      "python",
+      "mlops",
+      "machine learning"
+    ]
+  },
+  {
+    "job_id": "job_038",
+    "title": "Frontend Engineer",
+    "description": "We are looking for an engineer experienced in frontend and related engineering practices.",
+    "requirements": [
+      "typescript",
+      "nextjs",
+      "css",
+      "react",
+      "html"
+    ]
+  },
+  {
+    "job_id": "job_039",
+    "title": "Machine Learning Engineer",
+    "description": "We are looking for an engineer experienced in machine learning and related engineering practices.",
+    "requirements": [
+      "scikit-learn",
+      "tensorflow",
+      "mlops",
+      "machine learning",
+      "python"
+    ]
+  },
+  {
+    "job_id": "job_040",
+    "title": "Backend Engineer",
+    "description": "We are looking for an engineer experienced in backend and related engineering practices.",
+    "requirements": [
+      "rest api",
+      "django",
+      "postgresql",
+      "backend",
+      "fastapi"
+    ]
+  }
+]

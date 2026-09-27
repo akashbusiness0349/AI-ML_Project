@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Search Result",
+  "type": "object",
+  "required": [
+    "doc_id",
+    "score"
+  ],
+  "properties": {
+    "doc_id": {
+      "type": "string"
+    },
+    "score": {
+      "type": "number"
+    },
+    "position": {
+      "type": "integer"
+    }
+  }
+}

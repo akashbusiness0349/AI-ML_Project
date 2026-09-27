@@ -1,0 +1,17 @@
+[
+  {
+    "query_id": "q1",
+    "query": "build data pipelines",
+    "relevant_ids": ["resume_001", "job_001"]
+  },
+  {
+    "query_id": "q2",
+    "query": "python machine learning",
+    "relevant_ids": ["resume_002", "job_002"]
+  },
+  {
+    "query_id": "q3",
+    "query": "backend api engineer",
+    "relevant_ids": ["resume_003", "job_003"]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Task 13 Evaluation",
+  "type": "object",
+  "required": [
+    "task",
+    "status",
+    "keyword",
+    "semantic",
+    "hybrid"
+  ],
+  "properties": {
+    "task": {
+      "type": "string"
+    },
+    "status": {
+      "type": "string"
+    },
+    "keyword": {
+      "type": "object"
+    },
+    "semantic": {
+      "type": "object"
+    },
+    "hybrid": {
+      "type": "object"
+    }
+  }
+}

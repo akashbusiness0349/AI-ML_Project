@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Search Query",
+  "type": "object",
+  "required": [
+    "query_id",
+    "query",
+    "target_group",
+    "split"
+  ],
+  "properties": {
+    "query_id": {
+      "type": "string"
+    },
+    "query": {
+      "type": "string"
+    },
+    "target_group": {
+      "type": "string"
+    },
+    "split": {
+      "enum": [
+        "train",
+        "heldout"
+      ]
+    }
+  }
+}
